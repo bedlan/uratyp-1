@@ -6,7 +6,7 @@ GB023,Are there postnominal articles?,0,,Sometimes possessive suffixes can be us
 GB024,What is the order of numeral and noun in the NP?,1,,,GB024
 GB025,What is the order of adnominal demonstrative and noun?,1,,,GB025
 GB026,Can adnominal property words occur discontinuously?,0,,,
-GB027,Are nominal conjunction and comitative expressed by different elements?,1,,"The conjunctions 'да' and 'ден' can both be translated as 'and'. The former is universal and can be used for clause combining, the latter is reserved for nouns. When 'ден' is used, unlike with 'да', only the last (latter) element bears a case marker.","GB027-1, GB027-2"
+GB027,Are nominal conjunction and comitative expressed by different elements?,1,,"The conjunctions да and ден can both be translated as 'and'. The former is universal and can be used for clause combining, the latter is reserved for nouns. When ден is used, unlike with да, only the last (latter) element bears a case marker.","GB027-1, GB027-2"
 GB028,Is there a distinction between inclusive and exclusive?,0,,,
 GB030,Is there a gender distinction in phonologically independent third person pronouns?,0,,,
 GB031,Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun or person index system?,0,,,
@@ -70,13 +70,13 @@ GB115,Is there a phonologically bound reciprocal marker on the verb?,0,,"Sometim
 GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,,,
 GB117,Is there a copula for predicate nominals?,1,,Zero in 3SG present tense.,GB117
 GB118,Are there serial verb constructions?,0,,,
-GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,,"Certain verbs ('шуаш', 'лияш') can be used as auxiliaries to introduce shades of modality (desiderative, potential)",
+GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,,"Certain verbs (шуаш, лияш) can be used as auxiliaries to introduce shades of modality (desiderative, potential)",
 GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,1,,,"GB120-1, GB120-2"
-GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,,The verb 'тӱҥалаш' ('to begin') can be used to indicate future tense.,GB121
+GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,,The verb тӱҥалаш ('to begin') can be used to indicate future tense.,GB121
 GB122,Is verb compounding a regular process?,0,,Several verb compounds exist but the process is not very productive.,
 GB123,Are there verb-adjunct (aka light-verb) constructions?,0,,,
 GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,,,
-GB126,Is there an existential verb?,1,,"In present tense, an irregular 3SG form 'уло' of the verb 'улаш' ('to be') is used in existential and possessive constructions. Otherwise, a zero-copula is used for 3SG.",GB126
+GB126,Is there an existential verb?,1,,"In present tense, an irregular 3SG form уло of the verb улаш ('to be') is used in existential and possessive constructions. Otherwise, a zero-copula is used for 3SG.",GB126
 GB127,Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. ‘to lie’ vs. ‘to stand’)?,1,,"There is a distinction between standing, sitting and lying position.","GB127-1, GB127-2"
 GB129,Is there a notably small number of verb roots in the language?,0,,,
 GB130,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,,,GB070
@@ -90,7 +90,7 @@ GB137,Can standard negation be marked clause-finally?,1,,,GB137
 GB138,Can standard negation be marked clause-initially?,0,,,
 GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,,,GB139
 GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",0,,,
-GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,1,,"Certain verbs of feeling (e.g. 'кокырыкташ' 'to make/have a cough', 'варныкташ' 'to make/be sick', 'кылмыкташ' 'to freeze, to feel cold') can be used impersonally with their experiencer in accusative.",GB146
+GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,1,,"Certain verbs of feeling (e.g. кокырыкташ 'to make/have a cough', варныкташ 'to make/be sick', кылмыкташ 'to freeze, to feel cold') can be used impersonally with their experiencer in accusative.",GB146
 GB147,Is there a morphological passive marked on the lexical verb?,1,,,GB147
 GB148,Is there a morphological antipassive marked on the lexical verb?,0,,,
 GB149,Is there a morphologically marked inverse on verbs?,0,,,
@@ -148,7 +148,7 @@ GB300,Does the verb for ‘give’ have suppletive verb forms?,0,,,
 GB301,Is there an inclusory construction?,1,,,GB301
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,,,
-GB304,Can the agent be expressed overtly in a passive clause?,0,,"Agents related to natural phenomena can be expressed with the postposition 'дене'. Wider use of this construction to express animate agents is a rather recent and possibly unstable development, evidently under Russian influence.",
+GB304,Can the agent be expressed overtly in a passive clause?,0,,"Agents related to natural phenomena can be expressed with the postposition дене. Wider use of this construction to express animate agents is a rather recent and possibly unstable development, evidently under Russian influence.",
 GB305,Is there a phonologically independent reflexive marker?,1,,,GB305
 GB306,"Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other,  two + two)?",0,,,
 GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,,"There are two past tenses, of which one (PST1) is generally more often used to describe events seen firsthand or with a direct connection to the moment of speaking; these tend to, although do not necessarily need to be more recent than events described with the other past tense (PST2).",
@@ -190,7 +190,7 @@ GB430,Can adnominal possession be marked by a prefix on the possessor?,0,,,
 GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,,,
 GB432,Can adnominal possession be marked by a suffix on the possessor?,1,,,GB065
 GB433,Can adnominal possession be marked by a suffix on the possessed noun?,1,,,GB065
-GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,0,,"Айда', 'айста' can introduce commands in first person plural but cannot be considered mood markers. Secondary past tenses formed with the particles 'ыле', 'улмаш' can be used in conditional and counterfactual expressions but this is only one of their many applications.",
-GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,1,,"The particles 'ыле', 'улмаш' when used with non-past verb forms indicate a habitual action in the past; with past forms they indicate relatively more remote past.",GB521
-GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,1,,"The particles 'ыле', 'улмаш' when used with non-past verb forms indicate a habitual action in the past; with past forms they indicate relatively more remote past.",GB521
+GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,0,,"Айда, айста can introduce commands in first person plural but cannot be considered mood markers. Secondary past tenses formed with the particles ыле, улмаш can be used in conditional and counterfactual expressions but this is only one of their many applications.",
+GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,1,,"The particles ыле, улмаш when used with non-past verb forms indicate a habitual action in the past; with past forms they indicate relatively more remote past.",GB521
+GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,1,,"The particles ыле, улмаш when used with non-past verb forms indicate a habitual action in the past; with past forms they indicate relatively more remote past.",GB521
 GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,1,,,GB522

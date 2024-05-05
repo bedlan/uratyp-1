@@ -70,9 +70,9 @@ GB115,Is there a phonologically bound reciprocal marker on the verb?,0,,,
 GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,,,
 GB117,Is there a copula for predicate nominals?,1,Grünthal 2015: 194,,GB117
 GB118,Are there serial verb constructions?,0,,,
-GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,1,,,
+GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,1,Grünthal 2015: 139-140,,
 GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,0,,,
-GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,,,
+GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,Grünthal 2015: 134,,
 GB122,Is verb compounding a regular process?,0,,,
 GB123,Are there verb-adjunct (aka light-verb) constructions?,0,,,
 GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,,,
@@ -86,9 +86,9 @@ GB133,Is a pragmatically unmarked constituent order verb-final for transitive cl
 GB134,Is the order of constituents the same in main and subordinate clauses?,1,Grünthal 2015: 180,,GB134
 GB135,Do clausal objects usually occur in the same position as nominal objects?,1,Grünthal 2015: 89,,GB135
 GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,,,
-GB137,Can standard negation be marked clause-finally?,1,,,
-GB138,Can standard negation be marked clause-initially?,0,,,
-GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,"Grünthal 2015: 122, 239",,
+GB137,Can standard negation be marked clause-finally?,1,Grünthal 2015: 175,,
+GB138,Can standard negation be marked clause-initially?,1,Grünthal 2015: 197,,
+GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,"Grünthal 2015: 122, 239",,"GB139-1, GB139-2"
 GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,Grünthal 2015: 197-198,,"GB140-1, GB140-2, GB140-3"
 GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,,,
 GB147,Is there a morphological passive marked on the lexical verb?,1,Grünthal 2015: 48,Passive is widely used to mark third person plural.,GB147
@@ -145,7 +145,7 @@ GB297,Can polar interrogation be indicated by a V-not-V construction?,0,,,
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,1,Grünthal 2015: 127,,GB298
 GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,0,,,
 GB300,Does the verb for ‘give’ have suppletive verb forms?,0,,,
-GB301,Is there an inclusory construction?,0,,,
+GB301,Is there an inclusory construction?,1,Grünthal 2015: 289,,
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,,,
 GB304,Can the agent be expressed overtly in a passive clause?,0,,,
@@ -168,7 +168,7 @@ GB324,"Is there an interrogative verb for content interrogatives (who?, what?, e
 GB325,Is there a count/mass distinction in interrogative quantifiers?,0,,,
 GB326,Do (nominal) content interrogatives normally or frequently occur in situ?,0,,,
 GB327,Can the relative clause follow the noun?,1,Grünthal 2015: 302,,GB327
-GB328,Can the relative clause precede the noun?,0,,,
+GB328,Can the relative clause precede the noun?,1,Grünthal 2015: 302-303,,
 GB329,Are there internally-headed relative clauses?,0,,,
 GB330,Are there correlative relative clauses?,0,,,
 GB331,Are there non-adjacent relative clauses?,1,Grünthal 2015: 302,,GB331
@@ -189,8 +189,8 @@ GB422,Is there a postposed complementizer for complements of verbs of thinking a
 GB430,Can adnominal possession be marked by a prefix on the possessor?,0,,,
 GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,,,
 GB432,Can adnominal possession be marked by a suffix on the possessor?,1,Grünthal 2015: 196,,GB432
-GB433,Can adnominal possession be marked by a suffix on the possessed noun?,0,,,
+GB433,Can adnominal possession be marked by a suffix on the possessed noun?,1,Grünthal 2015: 107,,
 GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,0,,,
 GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,0,,,
 GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,0,,,
-GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,1,,,
+GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,1,Grünthal 2015: 181,,
