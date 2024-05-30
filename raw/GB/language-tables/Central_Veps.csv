@@ -29,10 +29,10 @@ GB053;Is there a noun class/gender system where animacy is a factor in class ass
 GB054;Is there a noun class/gender system where plant status is a factor in class assignment?;0;Grünthal 2015:59–120;;
 GB057;Are there numeral classifiers?;0;Grünthal 2015:244–247;;
 GB058;Are there possessive classifiers?;0;Grünthal 2015:in passim;;
-GB059;Is the adnominal possessive construction different for alienable and inalienable nouns?;0;Grünthal 2015:104–110, Grünthal 2022:297-298;;
+GB059;Is the adnominal possessive construction different for alienable and inalienable nouns?;0;"Grünthal 2015:104–110; Grünthal 2022:297-298";;
 GB065;What is the pragmatically unmarked order of adnominal possessor and possessed noun?;1;Grünthal 2015: 214;;GB065
-GB068;Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?;0;Grünthal 2015:120–171, Grünthal 2022:298;;
-GB069;"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?";0;Grünthal 2015:120–171, Grünthal 2022:298;;
+GB068;Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?;0;"Grünthal 2015:120–171; Grünthal 2022:298";;
+GB069;"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?";0;"Grünthal 2015:120–171; Grünthal 2022:298";;
 GB070;Are there morphological cases for non-pronominal core arguments (i.e. S, A or P)?;1;Grünthal 2015: 66;;GB070
 GB071;Are there morphological cases for phonologically independent personal pronominal core arguments (i.e. S, A or P)?;1;Grünthal 2015: 250;;GB071
 GB072;Are there morphological cases for oblique non-pronominal NPs (i.e. not S, A or P)?;1;Grünthal 2015: 73;;GB072
@@ -58,7 +58,7 @@ GB098;Are variations in marking strategies of core participants based on person 
 GB099;Is there verb suppletion for participant person?;0;Grünthal 2015:120–171;;
 GB103;Can a verb have a benefactive marker (applicative marker or index)?;0;Grünthal 2015:120–171;;
 GB104;Can a verb have an instrumental marker (applicative marker or index)?;0;Grünthal 2015:120–171;;
-GB105;Can the recipient in a ditransitive construction be marked like the transitive patient?;0;Grünthal 2015:247–257, Grünthal 2022:304-305;;
+GB105;Can the recipient in a ditransitive construction be marked like the transitive patient?;0;"Grünthal 2015:247–257; Grünthal 2022:304-305";;
 GB107;Can standard negation be marked by an affix, clitic or modification of the verb?;0;Grünthal 2022:299;;
 GB108;Is there directional or locative morphological marking on verbs?;0;Grünthal 2015:120–171;;
 GB109;Is there verb suppletion for participant number?;0;Grünthal 2015:120–171;;
@@ -184,7 +184,7 @@ GB408;Is there any accusative alignment of flagging?;1;Grünthal 2015: 66;;GB408
 GB409;Is there any ergative alignment of flagging?;0;Grünthal 2015:in passim;;
 GB410;Is there any neutral alignment of flagging?;0;Grünthal 2015:59–120;;
 GB415;Is there a politeness distinction in second person forms?;1;Eva Saar (p.c. 2022);;
-GB421;Is there a preposed complementizer for complements of verbs of thinking and/or knowing?;1;Kettunen, Siro 1935: 104;;GB421
+GB421;Is there a preposed complementizer for complements of verbs of thinking and/or knowing?;1;Kettunen and Siro 1935: 104;;GB421
 GB422;Is there a postposed complementizer for complements of verbs of thinking and/or knowing?;0;Grünthal 2015:in passim;;
 GB430;Can adnominal possession be marked by a prefix on the possessor?;0;Grünthal 2015: 107;;
 GB431;Can adnominal possession be marked by a prefix on the possessed noun?;0;Grünthal 2015: 107;;

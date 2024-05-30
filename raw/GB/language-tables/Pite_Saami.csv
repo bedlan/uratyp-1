@@ -10,10 +10,10 @@ GB027,Are nominal conjunction and comitative expressed by different elements?,1,
 GB028,Is there a distinction between inclusive and exclusive?,0,Wilbur 2014:113-125,,
 GB030,Is there a gender distinction in phonologically independent third person pronouns?,0,Wilbur 2014:in passim,,
 GB031,Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun or person index system?,1,Wilbur 2014:113-115,,"GB031-1, GB031-2, GB031-3"
-GB035,Are there three or more distance contrasts in adnominal demonstratives?,1,Wilbur 2014:142-143 ,,"GB035-1, GB035-2, GB035-3"
-GB036,Do adnominal demonstratives show an elevation distinction?,0,Wilbur 2014:142-143 ,,
-GB037,Do adnominal demonstratives show a visible-nonvisible distinction?,0,"Wilbur 2014:115-117, 142-143 ",,
-GB038,Are there demonstrative classifiers?,0,Wilbur 2014:142-143 ,,
+GB035,Are there three or more distance contrasts in adnominal demonstratives?,1,Wilbur 2014:142-143,,"GB035-1, GB035-2, GB035-3"
+GB036,Do adnominal demonstratives show an elevation distinction?,0,Wilbur 2014:142-143,,
+GB037,Do adnominal demonstratives show a visible-nonvisible distinction?,0,"Wilbur 2014:115-117, 142-143",,
+GB038,Are there demonstrative classifiers?,0,Wilbur 2014:142-143,,
 GB039,Is there nonphonological allomorphy of noun number markers?,0,Wilbur 2014:92-108,,
 GB041,Are there several nouns (more than three) which are suppletive for number?,0,"Wilbur 2014:178-179, 138-139, 208",,
 GB042,Is there a productive overt morphological singular marker on nouns?,0,Wilbur 2014:92-95,,
@@ -21,22 +21,22 @@ GB043,Is there a productive morphological dual marker on nouns?,0,Wilbur 2014:82
 GB044,Is there a productive morphological plural marker on nouns?,0,Wilbur 2014:92-95,,
 GB046,Is there an associative plural marker for nouns?,0,Wilbur 2014:92-98,,
 GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Wilbur 2014:199-200,,GB047 
-GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Wilbur 2014:200-201 ,,GB048 
-GB049,Is there a productive morphological pattern for deriving an object noun from a verb?,1,Wilbur 2014:197-200 ,,GB049
+GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Wilbur 2014:200-201,,GB048 
+GB049,Is there a productive morphological pattern for deriving an object noun from a verb?,1,Wilbur 2014:197-200,,GB049
 GB051,Is there a noun class/gender system where masculine and feminine categories are a factor in class assignment?,0,Wilbur 2014:in passim,,
 GB052,Is there a noun class/gender system where shape is a factor in class assignment?,0,Wilbur 2014:in passim,,
 GB053,Is there a noun class/gender system where animacy is a factor in class assignment?,0,Wilbur 2014:in passim,,
 GB054,Is there a noun class/gender system where plant status is a factor in class assignment?,0,Wilbur 2014:in passim,,
 GB057,Are there numeral classifiers?,0,Wilbur 2014:in passim,,
 GB058,Are there possessive classifiers?,0,Wilbur 2014:in passim,,
-GB059,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,Wilbur 2014:108-111 ,,
-GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,Wilbur 2014:85 ,,GB065 
-GB068,"Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",0,Wilbur 2014:130-134 ,,
+GB059,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,Wilbur 2014:108-111,,
+GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,Wilbur 2014:85,,GB065 
+GB068,"Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",0,Wilbur 2014:130-134,,
 GB069,"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,Wilbur 2014:128-130,,
 GB070,"Are there morphological cases for non-pronominal core arguments (i.e. S, A or P)?",1,Wilbur 2014:83-98,,GB070 
-GB071,"Are there morphological cases for phonologically independent personal pronominal core arguments (i.e. S, A or P)?",1,Wilbur 2014:113-115 ,,GB071
+GB071,"Are there morphological cases for phonologically independent personal pronominal core arguments (i.e. S, A or P)?",1,Wilbur 2014:113-115,,GB071
 GB072,"Are there morphological cases for oblique non-pronominal NPs (i.e. not S, A or P)?",1,Wilbur 2014:87-90,,GB072
-GB073,"Are there morphological cases for phonologically independent oblique personal pronouns (i.e. not S, A or P)?",1,Wilbur 2014:113-115  ,,GB073
+GB073,"Are there morphological cases for phonologically independent oblique personal pronouns (i.e. not S, A or P)?",1,Wilbur 2014:113-115,,GB073
 GB074,Are there prepositions?,1,Wilbur 2014:189-190,,GB074
 GB075,Are there postpositions?,1,Wilbur 2014:188-189,,GB075
 GB079,"Do verbs have prefixes or proclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",0,Wilbur 2014:149-181,,
@@ -186,11 +186,11 @@ GB410,Is there any neutral alignment of flagging?,0,Wilbur 2014:225-226,,
 GB415,Is there a politeness distinction in second person forms?,0,Wilbur 2014:113-115,,
 GB421,Is there a preposed complementizer for complements of verbs of thinking and/or knowing?,1,Wilbur 2014:250-254,,GB421
 GB422,Is there a postposed complementizer for complements of verbs of thinking and/or knowing?,0,Wilbur 2014:250-254,,
-GB430,Can adnominal possession be marked by a prefix on the possessor?,0,Wilbur 2014:108-111 ,,
-GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,Wilbur 2014:108-111 ,,
-GB432,Can adnominal possession be marked by a suffix on the possessor?,0,Wilbur 2014:108-111 ,,
-GB433,Can adnominal possession be marked by a suffix on the possessed noun?,0,Wilbur 2014:108-111 ,,
-GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,0,Wilbur 2014:151-153 ,,
-GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,0,Wilbur 2014:155-157 ,,
-GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,0,Wilbur 2014:150-151 ,,
+GB430,Can adnominal possession be marked by a prefix on the possessor?,0,Wilbur 2014:108-111,,
+GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,Wilbur 2014:108-111,,
+GB432,Can adnominal possession be marked by a suffix on the possessor?,0,Wilbur 2014:108-111,,
+GB433,Can adnominal possession be marked by a suffix on the possessed noun?,0,Wilbur 2014:108-111,,
+GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,0,Wilbur 2014:151-153,,
+GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,0,Wilbur 2014:155-157,,
+GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,0,Wilbur 2014:150-151,,
 GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,1,Wilbur 2014:251,,GB522
