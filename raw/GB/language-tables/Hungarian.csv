@@ -1,7 +1,7 @@
 ID,Feature,Value,Source,Comment,Example
-GB020,Are there definite or specific articles?,1,Balogh et al. 2000: 282–288,,GB020
-GB021,Are there indefinite or non-specific articles?,1,Balogh et al. 2000: 282–288,,GB021
-GB022,Are there prenominal articles?,1,Balogh et al. 2000: 282–288,,GB022
+GB020,Are there definite or specific articles?,1,Balogh and Keszler 2000: 282–288,,GB020
+GB021,Are there indefinite or non-specific articles?,1,Balogh and Keszler 2000: 282–288,,GB021
+GB022,Are there prenominal articles?,1,Balogh and Keszler 2000: 282–288,,GB022
 GB023,Are there postnominal articles?,0,,,
 GB024,What is the order of numeral and noun in the NP?,1,Korchmáros 2009: 79,,GB024
 GB025,What is the order of adnominal demonstrative and noun?,1,Korchmáros 2009: 129–131,,GB025
@@ -27,10 +27,10 @@ GB051,Is there a noun class/gender system where masculine and feminine categorie
 GB052,Is there a noun class/gender system where shape is a factor in class assignment?,0,,,
 GB053,Is there a noun class/gender system where animacy is a factor in class assignment?,0,,,
 GB054,Is there a noun class/gender system where plant status is a factor in class assignment?,0,,,
-GB057,Are there numeral classifiers?,1,Csirmaz and Dékány 2014: 141–160,"However, in the Typological Database of the Ugric Languages it is written that Hungarian does not have classifiers. ",GB057 
+GB057,Are there numeral classifiers?,1,Csirmaz and Dékány 2014: 141–160,"However, according to Typological Database of the Ugric Languages Hungarian does not have classifiers. ",GB057 
 GB058,Are there possessive classifiers?,0,,,
 GB059,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,,,
-GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,Kenesei et al. 1998: 94 ,,"GB065-1, GB065-2"
+GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,Kenesei et al. 1998: 94,,"GB065-1, GB065-2"
 GB068,"Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",0,,,
 GB069,"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,,,
 GB070,"Are there morphological cases for non-pronominal core arguments (i.e. S, A or P)?",1,Kenesei et al. 1998: 191–193,,GB070
@@ -58,14 +58,14 @@ GB098,Are variations in marking strategies of core participants based on person 
 GB099,Is there verb suppletion for participant person?,1,Korchmáros 2009: 53–54,,"GB099-1, GB099-2, GB099-3"
 GB103,Can a verb have a benefactive marker (applicative marker or index)?,0,,,
 GB104,Can a verb have an instrumental marker (applicative marker or index)?,0,,,
-GB105,Can the recipient in a ditransitive construction be marked like the transitive patient?,0,,"However, possible with “feed”.",
+GB105,Can the recipient in a ditransitive construction be marked like the transitive patient?,0,,"However, possible with ‘feed’.",
 GB107,"Can standard negation be marked by an affix, clitic or modification of the verb?",0,,,
 GB108,Is there directional or locative morphological marking on verbs?,1,"Kenesei et al. 1998: 329, 378",,GB108
 GB109,Is there verb suppletion for participant number?,0,,,
 GB110,Is there verb suppletion for tense or aspect?,0,,,
-GB111,Are there conjugation classes?,1,Kenesei et al. 1998: 68–69  ,,"GB111-1, GB111-2"
-GB113,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,1,Kenesei et al. 1998: 286–288 ,"Kenesei et al 1998 comment: ”It is important to note that the derivation of causatives from noncausatives is not a completely productive process in Hungarian.“ However, in the list of features: ”The marker has to be productive.“",GB113 
-GB114,Is there a phonologically bound reflexive marker on the verb?,1,Kenesei et al. 1998: 129 ,,GB114 
+GB111,Are there conjugation classes?,1,Kenesei et al. 1998: 68–69,,"GB111-1, GB111-2"
+GB113,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,1,Kenesei et al. 1998: 286–288,"However, the derivation of causatives from noncausatives is not a completely productive process in Hungarian.",GB113 
+GB114,Is there a phonologically bound reflexive marker on the verb?,1,Kenesei et al. 1998: 129,,GB114 
 GB115,Is there a phonologically bound reciprocal marker on the verb?,1,"Kenesei et al. 1998: 129, 141, 286",,GB115
 GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,,,
 GB117,Is there a copula for predicate nominals?,1,Kenesei et al. 1998: 58–65,,GB117 
@@ -73,7 +73,7 @@ GB118,Are there serial verb constructions?,0,,,
 GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,,,
 GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,0,,,
 GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,Kenesei et al. 1998: 297–298,,GB121 
-GB122,Is verb compounding a regular process?,1,Kenesei et al. 1998: 378 ,"However, Kenesei et al 1998 finds it unproductive.",GB122
+GB122,Is verb compounding a regular process?,1,Kenesei et al. 1998: 378,"However, it is unproductive.",GB122
 GB123,Are there verb-adjunct (aka light-verb) constructions?,0,,,
 GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,,,
 GB126,Is there an existential verb?,1,Kiss 2002: 175,,GB126
@@ -92,12 +92,12 @@ GB139,Is there a difference between imperative (prohibitive) and declarative neg
 GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",0,,,
 GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,,,
 GB147,Is there a morphological passive marked on the lexical verb?,1,Kenesei et al. 1998: 282–285,,"GB147-1, GB147-2"
-GB148,Is there a morphological antipassive marked on the lexical verb?,1,Halm 2020: 1–42,"However, WALS: no antipassive",GB148
+GB148,Is there a morphological antipassive marked on the lexical verb?,1,Halm 2020: 1–42,Cf. WALS: no antipassive.,GB148
 GB149,Is there a morphologically marked inverse on verbs?,0,,,
 GB150,Is there clause chaining?,0,,,
 GB151,Is there an overt verb marker dedicated to signaling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (‘switch reference’)?,0,,,
 GB152,Is there a morphologically marked distinction between simultaneous and sequential clauses?,0,,,
-GB155,Are causatives formed by affixes or clitics on verbs?,1,Kenesei et al. 1998: 286–288 ,,"GB155-1, GB155-2"
+GB155,Are causatives formed by affixes or clitics on verbs?,1,Kenesei et al. 1998: 286–288,,"GB155-1, GB155-2"
 GB156,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for ‘to say’?,0,,,
 GB158,Are verbs reduplicated?,0,,,
 GB159,Are nouns reduplicated?,0,,,
@@ -120,7 +120,7 @@ GB196,Is there a masculine/feminine distinction in phonologically independent se
 GB197,Is there a masculine/feminine distinction in phonologically independent first person pronouns?,0,,,
 GB198,Can an adnominal numeral agree with the noun in noun class/gender?,0,,,
 GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,Kenesei et al. 1998: 346,,GB203 
-GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,"Rounds 2001: 73, 75; Kenesei et al. 1998: 229–230 ",,"GB204-1, GB204-2"
+GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,"Rounds 2001: 73, 75; Kenesei et al. 1998: 229–230",,"GB204-1, GB204-2"
 GB250,Can predicative possession be expressed with a transitive ‘habeo’ verb?,0,,,
 GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,0,,,
 GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,1,"Kenesei et al. 1998: 215, 273",,"GB253-1, GB253-2"
@@ -132,7 +132,7 @@ GB262,Is there a clause-initial polar interrogative particle?,0,,,
 GB263,Is there a clause-final polar interrogative particle?,0,,,
 GB264,Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?,1,Kenesei et al. 1998: 2–5,,GB264
 GB265,"Is there a comparative construction that includes a form that elsewhere means ‘surpass, exceed’?",0,,,
-GB266,Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?,1,Kenesei et al. 1998: 363–364 ,,GB266
+GB266,Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?,1,Kenesei et al. 1998: 363–364,,GB266
 GB270,Can comparatives be expressed using two conjoined clauses?,0,,,
 GB273,Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a ‘surpass/exceed’ meaning?,0,,,
 GB275,Is there a bound comparative degree marker on the property word in a comparative construction?,1,Kenesei et al. 1998: 332–335,,GB275
@@ -143,17 +143,17 @@ GB291,Can polar interrogation be marked by tone?,0,,,
 GB296,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,0,,,
 GB297,Can polar interrogation be indicated by a V-not-V construction?,0,,,
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,0,,,
-GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,1,Kenesei et al. 1998: 112–119  ,,GB299
+GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,1,Kenesei et al. 1998: 112–119,,GB299
 GB300,Does the verb for ‘give’ have suppletive verb forms?,0,,,
 GB301,Is there an inclusory construction?,0,,,
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,1,Kenesei et al. 1998: 282–285,,GB302
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,,,
-GB304,Can the agent be expressed overtly in a passive clause?,1,Kenesei et al. 1998: 203–204  ,,GB304
-GB305,Is there a phonologically independent reflexive marker?,1,Kenesei et al. 1998: 121–122  ,,GB305
+GB304,Can the agent be expressed overtly in a passive clause?,1,Kenesei et al. 1998: 203–204,,GB304
+GB305,Is there a phonologically independent reflexive marker?,1,Kenesei et al. 1998: 121–122,,GB305
 GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other,0,,,
 GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,,,
-GB312,Is there overt morphological marking on the verb dedicated to mood?,1,Kenesei et al. 1998: 308–317  ,,"GB312-1, GB312-2"
-GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,1,Kenesei et al. 1998: 273,"However, this example involves predicative possession.",GB313
+GB312,Is there overt morphological marking on the verb dedicated to mood?,1,Kenesei et al. 1998: 308–317,,"GB312-1, GB312-2"
+GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,1,Kenesei et al. 1998: 273,,GB313
 GB314,Can augmentative meaning be expressed productively by a shift of noun class/gender?,0,,,
 GB315,Can diminutive meaning be expressed productively by a shift of noun class/gender?,0,,,
 GB316,Is singular number regularly marked in the noun phrase by a phonologically free element?,0,,,
