@@ -4,8 +4,8 @@ GB021,Do indefinite nominals commonly have indefinite articles?,0,Winkler 2011:3
 GB022,Are there prenominal articles?,0,Winkler 2011:35,,
 GB023,Are there postnominal articles?,?,Winkler 2011:66,Can be marked with Px.,
 GB024,What is the order of numeral and noun in the NP?,1,Winkler 2011:38,,GB024
-GB025,What is the order of adnominal demonstrative and noun?,1,Bartens 1999:163,,GB025
-GB026,Can adnominal property words occur discontinuously?,0,Winkler 2001; Winkler 2011; Bartens 1999:in passim,,
+GB025,What is the order of adnominal demonstrative and noun?,1,Bartens 2000:163,,GB025
+GB026,Can adnominal property words occur discontinuously?,0,Winkler 2001; Winkler 2011; Bartens 2000:in passim,,
 GB027,Are nominal conjunction and comitative expressed by different elements?,1,"Winkler 2011:54, 55, 137","However, instrumental(-comitative) case ""can be used as a coordination marker, coordinanting subjects (rarely direct objects or other arguments)"" (Edygarova 2022:511).",
 GB028,Is there an inclusive/exclusive distinction?,1,Winkler 2011:71,"The reflexive pronoun aśmeos is used as an inclusive 'we' ('I/we + hearer(s)'), while the personal pronoun mi cannot be used with the inclusive meaning.",
 GB030,Is there a gender distinction in independent 3rd person pronouns?,0,Winkler 2011:68-69,,
@@ -78,7 +78,7 @@ GB123,Are there verb-adjunct (aka light-verb) constructions?,1,Winkler 2011:124-
 GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,Winkler 2011:125,,
 GB126,Is there an existential verb?,1,Winkler 2011:141,,GB126
 GB127,Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?,0,Winkler 2011:in passim,,
-GB129,"Is there a notably small number, i.e. about 100 or less, of verb roots in the language?",0,Winkler 2011:in passim; Bartens 1999:in passim,,
+GB129,"Is there a notably small number, i.e. about 100 or less, of verb roots in the language?",0,Winkler 2011:in passim; Bartens 2000:in passim,,
 GB130,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,Winkler 2011:163,See also GB126.,GB130
 GB131,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,Winkler 2011:162,,
 GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,0,Winkler 2011:162,,
@@ -89,7 +89,7 @@ GB136,Is the order of core argument (i.e. S/A/P) constituents fixed?,0,Winkler 2
 GB137,Can standard negation be marked clause-finally?,1,Winkler 2011:109-110,,GB137
 GB138,Can standard negation be marked clause-initially?,0,Winkler 2011:109-110,,
 GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,Winkler 2011:107-108,,"GB139-1, GB139-2"
-GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,Bartens 1999:292-293,,"GB140-1, GB140-2, GB140-3"
+GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,Bartens 2000:292-293,,"GB140-1, GB140-2, GB140-3"
 GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,1,Winkler 2011:52,,GB146
 GB147,Is there a morphological passive marked on the lexical verb?,1,Winkler 2011:122,"The suffix -śky- is primarily reflexive but it can turn transitive auditory and visual perceptive verbs 'see' and 'hear' into passive 'be seen', 'be heard'.",GB147
 GB148,Is there a morphological antipassive marked on the lexical verb?,1,Winkler 2011:122,The suffix -śky- is primarily reflexive but it can be used as an antipassive marker with some verbs.,GB148
@@ -140,7 +140,7 @@ GB276,Is there a non-bound comparative degree marker modifying the property word
 GB285,Can polar interrogation be marked by a question particle and verbal morphology?,0,Winkler 2011:145,,
 GB286,Can polar interrogation be indicated by overt verbal morphology only?,0,Winkler 2011:145,,
 GB291,Can polar interrogation be marked by tone?,0,Winkler 2011:145,,
-GB296,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,1,Bartens 1999:326,,GB296
+GB296,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,1,Bartens 2000:326,,GB296
 GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Winkler 2011:105-110,,
 GB298,"Can standard negation be marked by an inflecting word (""auxiliary verb"")?",1,Winkler 2011:106,,GB298
 GB299,"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?",1,Winkler 2011:107,,GB299
