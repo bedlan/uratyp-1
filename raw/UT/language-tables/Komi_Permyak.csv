@@ -80,10 +80,10 @@ UT059,Is there a future participle?,0,F. Gulyás Nikolett,,
 UT060,Are there participles that can encode their subject by possessive suffixes?,0,Bartens 2000: 341,,
 UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,F. Gulyás Nikolett,,
 UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,F. Gulyás Nikolett,,
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,"КПЯ 1962: 205, 280; Майшев 1940: 72",UT063,
-UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,F. Gulyás Nikolett,UT064,
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,"КПЯ 1962: 205, 280; Майшев 1940: 72","UT063-1, UT063-2",
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,F. Gulyás Nikolett,"UT064-1, UT064-2",
 UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,,,
-UT066,Is OV the neutral order in affirmative imperative clauses?,1,F. Gulyás Nikolett,,
+UT066,Is OV the neutral order in affirmative imperative clauses?,1,F. Gulyás Nikolett,"UT066-1, UT066-2",Both OV and VO are possible.
 UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,F. Gulyás Nikolett,,
 UT068,Are there preverbs?,0,F. Gulyás Nikolett,,
 UT069,Are there verbal prefixes?,0,F. Gulyás Nikolett,,
@@ -123,8 +123,8 @@ UT089,Is there case syncretism of goal and location marking?,1,"Bartens 2000: 11
 Грамматика 1940: 79-80",UT089,There is syncretism between the illative and inessive in the possessive declention.
 UT090,Is there case syncretism of location and source marking?,0,Bartens 2000: 78,,
 UT091,Are there two sets of local cases?,1,"Bartens 2000: 108
-Цыпанов 1999: 41-42",UT091,
-UT092,Is there a third set of local cases?,1,"Цыпанов 1999: 42, 47",UT092,
+Цыпанов 1999: 41-42","UT091-1, UT091-2",
+UT092,Is there a third set of local cases?,1,"Цыпанов 1999: 42, 47","UT091-1, UT091-2, UT092",
 UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,"F. Gulyás Nikolett
 КПЯ 1962: 187-188",UT093,
 UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",1,"F. Gulyás Nikolett

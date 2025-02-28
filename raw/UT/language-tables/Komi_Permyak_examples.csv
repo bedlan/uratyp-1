@@ -6,9 +6,7 @@ UT007,Керку гöгöрын сад быдмö.,kerku gɘgɘrɨn sɑd bɨdmɘ
 UT008,"Гижиканым кылiм, кыдз оссис класс ыбöс.",giʒikɑnɨm kɨlim kɨd͡ʑ oɕɕis klɑss ɨbɘs,giʒ-ikɑnɨm kɨl-i-m kɨd͡ʑ oɕɕ-is klɑss ɨbɘs,write-CVB.POSS.1PL hear-PST-1PL how open-PST.3SG classroom door,while writing we heard that/how the class' door opened,КПЯ 1962: 281
 UT010,"Аддзылi ручöс. 
 vs. 
-Кералöны вöр.","ɑd͡d͡ʑɨli rut͡ɕɘs
-vs.
-kerɑlɘnɨ vɘr","ɑd͡d͡ʑɨ-l-i rut͡ɕ-ɘs
+Кералöны вöр.",ɑd͡d͡ʑɨli rut͡ɕɘs vs. Kerɑlɘnɨ vɘr,"ɑd͡d͡ʑɨ-l-i rut͡ɕ-ɘs
 vs.
 kerɑl-ɘnɨ vɘr","see-MOM-PST.1SG fox-ACC
 vs.
@@ -55,23 +53,12 @@ UT053-2,Мийö уджалiм дугдывтöг.,Mijɘ ud͡ʒɑlim dugdɨvtɘg
 UT055,велöтчись морт,velɘtt͡ɕiɕ mort,velɘtt͡ɕ-iɕ mort,learn-PTCP.PRS person,learning person,Грамматика 1940: 176
 UT057,Мамö пыртiс тшак косьтан плита.,mɑmɘ pɨrtis t͡ʃɑk koɕtɑn pʎitɑ,mɑm-ɘ pɨrt-is t͡ʃɑk koɕt-ɑn pʎitɑ,mother-POSS.1SG bring.in-PST.3SG mushroom dry-PTCP board.ACC,My mother brought the board for drying mushrooms in[to the room].,Грамматика 1940: 176
 UT058,велöтчытöм морт,velɘtt͡ɕɨtɘm mort,velɘtt͡ɕɨ-tɘm mort,learn-PTCP.NEG person,uneducated person,Грамматика 1940: 176
-UT063,"пöжалöм нянь
-нянь пöжалöм","pɘʒɑlɘm ɲɑɲ
-ɲɑɲ pɘʒɑlɘm","pɘʒɑl-ɘm ɲɑɲ
-ɲɑɲ pɘʒɑl-ɘm","bake-PTCP bread
-bread bake-NMLZ","baked bread
-baking bread",
-UT064,"уджалiсь морт
-уджалiсь","ud͡ʒɑliɕ mort
-ud͡ʒɑliɕ","ud͡ʒɑl-iɕ mort
-ud͡ʒɑliɕ","work-PTCP person
-work-NMLZ","working person
-worker, employee",КПЯ 1962: 279; Майшев 1940: 72
-UT066,"чай ю!
-ю чай!","t͡ɕɑj ju!
-ju t͡ɕɑj!","t͡ɕɑj ju!
-ju t͡ɕɑj!","tea[ACC] drink[IMP]
-drink[IPM] tea[ACC]",drink tea!,
+UT063-1,пöжалöм нянь,pɘʒɑlɘm ɲɑɲ,pɘʒɑl-ɘm ɲɑɲ,bake-PTCP bread,baked bread,
+UT063-2,нянь пöжалöм,ɲɑɲ pɘʒɑlɘm,ɲɑɲ pɘʒɑl-ɘm,bread bake-NMLZ,baking bread,
+UT064-1,уджалiсь морт,ud͡ʒɑliɕ mort,ud͡ʒɑl-iɕ mort,work-PTCP person,working person,КПЯ 1962: 279; Майшев 1940: 72
+UT064-2,уджалiсь,ud͡ʒɑliɕ,ud͡ʒɑliɕ,work-NMLZ,"worker, employee",КПЯ 1962: 279; Майшев 1940: 72
+UT066-1,чай ю!,t͡ɕɑj ju!,t͡ɕɑj ju!,tea[ACC] drink[IMP],drink tea!,
+UT066-2,ю чай!,ju t͡ɕɑj!,ju t͡ɕɑj!,drink[IPM] tea[ACC],drink tea!,
 UT067,эн менö велöт,en menɘ velɘt,en menɘ velɘt,NEG I[ACC] teach[IMP.2SG],Don't teach me!,
 UT070,сетыштны,ɕetɨʃtnɨ,ɕet-ɨʃt-nɨ,add-DIM-INF,to add a little bit,КПЯ 1962: 260
 UT072,кучик керöм,kut͡ɕik kerɘm,kut͡ɕik ker-ɘm,leather do-NMLZ,currying leather,КПРС 1985: 171
@@ -93,14 +80,10 @@ UT085,виль туйöт,viʎ tujɘt,viʎ tuj-ɘt,new way-PROL,on a new way,К�
 UT086,Челядь пырисö школаö.,t͡ɕeʎɑɟ pɨrisɘ ʃkolɑɘ,t͡ɕeʎɑɟ pɨr-isɘ ʃkolɑ-ɘ,children enter-PST.3PL school-ILL,Children went into the school.,КПЯ 1962: 191
 UT087,Ошшес олöны вöрын.,oʃʃes olɘnɨ vɘrɨn,oʃʃ-es ol-ɘnɨ vɘr-ɨn,bear-PL live-PRS.3PL forest-INE,Bears live in a forest,КПЯ 1962: 189
 UT088,Челядь локтöны школаись.,t͡ɕeʎɑɟ loktɘnɨ ʃkolɑiɕ,t͡ɕeʎɑɟ lokt-ɘnɨ ʃkolɑ-iɕ,children come-PRS.3PL school-ELA,Children come from the school.,КПЯ 1962: 193
-UT089,книгаам,kɲigɑɑm,kɲigɑ-ɑm,book-INE/ILL.POSS.1SG,in my book/into my book,Цыпанов 1999: 51
-UT091,"посадын, посадö, посадiсь
-пызанвын, пызанвö, пызанвись","posɑdɨn, posɑdɘ, posɑdiɕ
-pɨzɑnvɨn, pɨzɑnvɘ, pɨzɑnviɕ","posɑd-ɨn, posɑd-ɘ, posɑd-iɕ
-pɨzɑn-vɨn, pɨzɑn-vɘ, pɨzɑn-viɕ","village-INE, village-ILL, village-ELA
-table-ADE, table-ALL, table-ABL","in a village, into a village, from a village
-on a table, onto a table, from a table",Цыпанов 1999: 41-42
-UT092,"посадланьын, посадланьö, посадланись","posɑdlɑɲɨn, posɑdlɑɲɘ, posɑdlɑɲiɕ","posɑd-lɑɲɨn, posɑd-lɑɲɘ, posɑd-lɑɲiɕ","village-APPR.INE, village-APPR.ILL, village-APPR.ELA","on the area of the village, to the direction of the village, from the direction of the village",Цыпанов 1999: 42
+UT089,книгаам,kɲigɑɑm,kɲigɑ-ɑm,book-INE/ILL.POSS.1SG,"in my book, into my book",Цыпанов 1999: 51
+UT091-1,посадын : посадö : посадiсь,posɑdɨn : posɑdɘ : posɑdiɕ,posɑd-ɨn : posɑd-ɘ : posɑd-iɕ,village-INE : village-ILL : village-ELA,in a village : into a village : from a village,Цыпанов 1999: 41-42
+UT091-2,пызанвын : пызанвö : пызанвись,pɨzɑnvɨn : pɨzɑnvɘ : pɨzɑnviɕ,pɨzɑn-vɨn : pɨzɑn-vɘ : pɨzɑn-viɕ,table-ADE : table-ALL : table-ABL,on a table : onto a table : from a table,Цыпанов 1999: 41-42
+UT092,посадланьын : посадланьö : посадланись,"posɑdlɑɲɨn, posɑdlɑɲɘ, posɑdlɑɲiɕ","posɑd-lɑɲɨn, posɑd-lɑɲɘ, posɑd-lɑɲiɕ","village-APPR.INE, village-APPR.ILL, village-APPR.ELA","on the area of the village, to the direction of the village, from the direction of the village",Цыпанов 1999: 42
 UT093,Пессö поткöтöны черöн.,pessɘ potkɘtɘnɨ t͡ɕerɘn,pes-sɘ potkɘt-ɘnɨ t͡ɕer-ɘn,firewood-ACC.POSS.3SG chip-PRS.3PL axe-INS,Firewood is chipped with an axe,КПЯ 1962: 187
 UT094,Петя Колякöт вуграсьöны.,pecɑ koʎɑkɘt vugrɑɕɘnɨ,pecɑ koʎɑ-kɘt vugrɑɕ-ɘnɨ,Petya.NOM Kolya-COM fish.with.a.fishing.rod-PRS.3PL,Petya and Kolya are fishing with a fishing rod.,КПЯ 1962: 188
 UT100-1,киэзнас пешлiс,kieznɑs peʃlis,ki-ez-nɑs peʃl-is,hand-PL-INS.3SG touch-PST.3SG,(s)he touched with his/her hand,КПЯ 1962: 14
