@@ -16,7 +16,7 @@ UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. a
 UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT016,Is there a grammatical device for habituality?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT017,Is there a grammatical device for frequentative?,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),"UT017-1, UT017-2",
-UT018,Is there a grammatical device for progressivity?,1,Feist 2010: 266,UT018,Progressive aspect is marked with the auxiliary verb.
+UT018,Is there a grammatical device for progressivity?,1,Feist 2015: 219,UT018,Progressive aspect is marked with the auxiliary verb + the progressive participle of the main verb.
 UT019,Is it common to use a verb in the present tense for future time reference?,1,Feist 2010: 262,UT019,
 UT020,Is there a grammatical device for immediate future?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT021,Is there a grammatical device for pluperfect?,1,Feist 2010: 264,UT021,
@@ -27,7 +27,7 @@ UT025,Is there morphological marking on the verb dedicated to the expression of 
 UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,Feist 2010: 268,UT026,Morphological marking for conditional is č.
 UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,Feist 2010: 348,UT027,
 UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
-UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),UT029,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),"UT029-1, UT029-2",
 UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Feist 2010: 330,UT031,
 UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
@@ -47,7 +47,7 @@ UT046,Is a copula needed for predicate nominals in the past and/or future tense?
 UT047,Can locative adverbial phrases act as predicates without a copula?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",1,Feist 2010: 354-355,"UT048-1, UT048-2",
 UT049,Does existential negation have a separate operator?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
-UT050,Can standard negation be asymmetric in the present tense?,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),"UT050-1, UT050-2",
+UT050,Can standard negation be asymmetric in the present tense?,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),UT050,
 UT051,Can non-finite dependent clauses use the standard negation construction?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT052,Is there a special negator that combines with non-finite forms?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT053,Are there special negative non-finite forms?,1,Feist 2010: 318,UT053,
@@ -103,11 +103,11 @@ UT102,Can the possessor in the attributive construction be encoded with the nomi
 UT103,Is non-singular possession marked in the possessive declension?,1,Feist 2010: 175,UT103,
 UT104,Can 2Sg possessive suffix be used to mark definiteness?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT105,Can 3Sg possessive suffix be used to mark definiteness?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
-UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,Feist 2010: 325,"UT106-1, UT106-2",
+UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,Feist 2010: 325,UT106,
 UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),UT109,
-UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),,"In the comitative and abessive cases the case suffix follows the possessive suffix, whereas in  other cases it precedes the possessive suffix. However, the case and possessive suffix cannot always be separated. "
+UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),"UT110-1, UT110-2","In the comitative and abessive cases the case suffix follows the possessive suffix, whereas in  other cases it precedes the possessive suffix. However, the case and possessive suffix cannot always be separated. "
 UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,Feist 2010: 229,UT111,
 UT112,Are there different words for mother’s brother and father’s brother?,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),"UT112-1, UT112-2, UT112-3",
 UT113,Are there different words for younger and older relative for other relations than siblings?,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),"UT113-1, UT113-2, UT113-3, UT113-4",

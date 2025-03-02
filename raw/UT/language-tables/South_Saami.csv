@@ -30,7 +30,7 @@ UT028,Is there morphological marking on the verb dedicated to the expression of 
 UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,Richard Kowalik (p.c. 2019),,
 UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Richard Kowalik (p.c. 2019),,
 UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,0,Richard Kowalik (p.c. 2019),,
-UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,Richard Kowalik (p.c. 2019),,No morphological marking. A modal verb can be used to express hortative.
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,Richard Kowalik (p.c. 2019),,No morphological marking; a modal verb can be used to express hortative.
 UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Richard Kowalik (p.c. 2019),,
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Richard Kowalik (p.c. 2019),,
 UT035,Is there reflexive conjugation?,0,Richard Kowalik (p.c. 2019),,
@@ -42,7 +42,7 @@ UT040,Can second person singular verb forms be used in generic meaning?,0,Richar
 UT042,Are clauses with only infinitive predicates possible?,0,Richard Kowalik (p.c. 2019),,Not attested.
 UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,0,Richard Kowalik (p.c. 2019),,
 UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,Richard Kowalik (p.c. 2019),UT044,
-UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,Richard Kowalik (p.c. 2019),,"Copula is not needed, e.g.: dihte saemie (3SG Saami) 's/he is a Saami'."
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,Richard Kowalik (p.c. 2019),,"Copula is not needed, e.g., dihte saemie (3SG Saami) 's/he is a Saami'."
 UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Richard Kowalik (p.c. 2019),UT046,"However, the copula in the past tense is sometimes dropped."
 UT047,Can locative adverbial phrases act as predicates without a copula?,1,Richard Kowalik (p.c. 2019),UT047,
 UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",1,Richard Kowalik (p.c. 2019),"UT048-1, UT048-2, UT048-3",
@@ -64,7 +64,7 @@ UT063,Are there nonfinite forms that can be used both as participles and action 
 UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,0,Richard Kowalik (p.c. 2019),,
 UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,Richard Kowalik (p.c. 2019),,
 UT066,Is OV the neutral order in affirmative imperative clauses?,0,Richard Kowalik (p.c. 2019),,
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,Richard Kowalik (p.c. 2019),"UT067-1, UT067-2",
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,Richard Kowalik (p.c. 2019),"UT067-1, UT67-2",
 UT068,Are there preverbs?,0,Richard Kowalik (p.c. 2019),,
 UT069,Are there verbal prefixes?,0,Richard Kowalik (p.c. 2019),,
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Richard Kowalik (p.c. 2019),,
@@ -73,7 +73,7 @@ UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinkin
 UT073,Do core adjectives agree with the subject noun in number in the predicative position?,0,Richard Kowalik (p.c. 2019),,
 UT074,Is it possible to form synthetic superlative?,1,Richard Kowalik (p.c. 2019),UT074,
 UT075,Can adpositions have person/number marking?,0,Richard Kowalik (p.c. 2019),,
-UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,Richard Kowalik (p.c. 2019),"UT076-1, UT076-2, UT076-3",
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,Richard Kowalik (p.c. 2019),UT076,
 UT077,Is case compounding possible?,0,Richard Kowalik (p.c. 2019),,"However, the comitative plural could be analysed as noun + GEN.PL + COM.PL, e.g. gärja-j-gujmie 'with the books'. "
 UT078,Are there case categories only found in pronouns?,0,Richard Kowalik (p.c. 2019),,
 UT079,Does the numeral modification of a noun have an effect on its case selection?,0,Richard Kowalik (p.c. 2019),,The nominative case is used.
@@ -108,7 +108,7 @@ UT107,"When used as a relative pronoun, is it common to use 'who' for animates o
 UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Richard Kowalik (p.c. 2019),,"However, mij 'what' is used with animates/humans. "
 UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Richard Kowalik (p.c. 2019),"UT109-1, UT109-2","dïhte 'he/she, it'"
 UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,0,Richard Kowalik (p.c. 2019),,There is alternation.
-UT111,Is the order of number and case suffixes fixed across the paradigm the same?,N/A,Richard Kowalik (p.c. 2019),,"They are portmanteau suffixes. Synchronically, a segmentable PL marker cannot be identified."
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,N/A,Richard Kowalik (p.c. 2019),,"They are portmanteau suffixes. Synchronically, a segmentable plural marker cannot be identified."
 UT112,Are there different words for mother’s brother and father’s brother?,1,Richard Kowalik (p.c. 2019),"UT112-1, UT112-2",
 UT113,Are there different words for younger and older relative for other relations than siblings?,1,Richard Kowalik (p.c. 2019),"UT113-1, UT113-2, UT113-3, UT113-4",
 UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,0,Richard Kowalik (p.c. 2019),,"There is a distinction only for 'young' but not for 'old': noere maana 'young child' and orre gärja 'new book', but cf. båeries alma 'old man' and båeries gärja 'old book'."

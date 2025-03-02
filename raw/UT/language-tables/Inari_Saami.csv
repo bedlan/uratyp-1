@@ -1,9 +1,9 @@
 ID,Name,Inari.Saami,Source,Example,Comment
 UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,Petter Morottaja (p.c. 2020),"UT001-1, UT001-2",
-UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Petter Morottaja (p.c. 2020),,"The finite verbs agrees with the nominal subject. Non-agreement is possible only between plural and dual in certain sentence types, like habitual and existential."
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Petter Morottaja (p.c. 2020),,"The finite verbs agree with the nominal subject. Non-agreement is possible only between plural and dual in certain sentence types, like habitual and existential."
 UT003,Can finite verbs agree in number with the nominal object?,0,Petter Morottaja (p.c. 2020),,
 UT004,Can an adnominal property word agree with the noun in case?,1,Petter Morottaja (p.c. 2020),UT004,"Adjectives in Inari Saami don't usually agree with the nouns, instead an attributive form is used with adjectives, e.g. puáris tááluin (old.ATTR house.PL.LOC) 'in old houses'. Pronouns and numerals agree in some cases fully and in some cases partially, e.g. tain tááluin (this.PL.LOC house.PL.LOC) 'in these houses', taan táálust (this.SG.GEN house.SG.LOC) 'in this house'. Finally, there are some adjectives that either are considered to follow the same rule as the pronouns and numerals, or as a variation have the attributive form."
-UT005,Are there cases that do not show agreement in terms of case?,1,Petter Morottaja (p.c. 2020),UT005,"The partial agreement cases in singular are the locative, illative, and abessive, in plural there is no agreement in comitative and abessive. With these cases the adnominal property word is in genitive form (in SG or PL)."
+UT005,Are there cases that do not show agreement in terms of case?,1,Petter Morottaja (p.c. 2020),UT005,"The partial agreement cases in singular are the locative, illative, and abessive, in plural there is no agreement in comitative and abessive. With these cases the adnominal property word is in the genitive form (in SG or PL)."
 UT006,Can adpositions be used to mark core verbal arguments?,0,Petter Morottaja (p.c. 2020),,
 UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Petter Morottaja (p.c. 2020),UT007,
 UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,0,Petter Morottaja (p.c. 2020),,
@@ -30,7 +30,7 @@ UT028,Is there morphological marking on the verb dedicated to the expression of 
 UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Petter Morottaja (p.c. 2020),UT029,There is potential.
 UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Petter Morottaja (p.c. 2020),,
 UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Petter Morottaja (p.c. 2020),UT031,
-UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,Petter Morottaja (p.c. 2020),,The IMP.1SG form is included in the Inari Saami dictionary (Sammallahti & Morottaja 1993) but there are no examples of the usage. It can be speculated to be used like this: Čáállum reeivâ (write-IMP.1SG letter-ACC) 'I should write a letter'.
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,Petter Morottaja (p.c. 2020),,The IMP.1SG form is included in the Inari Saami dictionary (Sammallahti & Morottaja 1993) but there are no examples of its usage. It can be speculated to be used like this: Čáállum reeivâ (write-IMP.1SG letter-ACC) 'I should write a letter'.
 UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Petter Morottaja (p.c. 2020),,
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Petter Morottaja (p.c. 2020),,
 UT035,Is there reflexive conjugation?,0,Petter Morottaja (p.c. 2020),,
@@ -52,7 +52,7 @@ UT051,Can non-finite dependent clauses use the standard negation construction?,0
 UT052,Is there a special negator that combines with non-finite forms?,0,Petter Morottaja (p.c. 2020),,
 UT053,Are there special negative non-finite forms?,1,Petter Morottaja (p.c. 2020),UT053,"There is also a caritive derivation for nouns and also for verbs, e.g.  viste > viste-ttem 'house - houseless', jäämmiđ > jämi-mettum 'to die - never dying'. There is also an abessive case, meaning 'without': viste : viste-ttáá 'house' : 'without house'."
 UT054,Is there an impersonal passive construction?,1,Petter Morottaja (p.c. 2020),UT054,
-UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Petter Morottaja (p.c. 2020),"UT055-1, UT055-2, UT055-3",luuhâm ja luhhum are the same form of a participle but from a different verb (luuhâđ 'to read' ja luhhuđ 'to be read').
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Petter Morottaja (p.c. 2020),"UT055-1, UT055-2, UT055-3",luuhâm ja luhhum are the same form of a participle but from a different verb (luuhâđ 'to read' and luhhuđ 'to be read').
 UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,Petter Morottaja (p.c. 2020),,
 UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,Petter Morottaja (p.c. 2020),,
 UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,Petter Morottaja (p.c. 2020),UT058,
@@ -60,8 +60,8 @@ UT059,Is there a future participle?,0,Petter Morottaja (p.c. 2020),,
 UT060,Are there participles that can encode their subject by possessive suffixes?,0,Petter Morottaja (p.c. 2020),,
 UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,Petter Morottaja (p.c. 2020),,
 UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,Petter Morottaja (p.c. 2020),,
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,Petter Morottaja (p.c. 2020),"UT063-1, UT063-2",Participle perfect can be used as action nominalization.
-UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,Petter Morottaja (p.c. 2020),"UT064-1, UT064-2",Participle present can be used as agent.
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,Petter Morottaja (p.c. 2020),"UT063-1, UT063-2",Perfect participle can be used as action nominalization.
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,Petter Morottaja (p.c. 2020),"UT064-1, UT064-2",Present participle can be used to express an agent.
 UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,Petter Morottaja (p.c. 2020),,
 UT066,Is OV the neutral order in affirmative imperative clauses?,0,Petter Morottaja (p.c. 2020),,
 UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,Petter Morottaja (p.c. 2020),UT067,
@@ -92,7 +92,7 @@ UT091,Are there two sets of local cases?,0,Petter Morottaja (p.c. 2020),,
 UT092,Is there a third set of local cases?,0,Petter Morottaja (p.c. 2020),,
 UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Petter Morottaja (p.c. 2020),UT093,Comitative case is used in the instrumental and comitative function.
 UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Petter Morottaja (p.c. 2020),,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Petter Morottaja (p.c. 2020),"UT095-1, UT095-2","There is essive case, which has both essive and translative function."
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Petter Morottaja (p.c. 2020),"UT095-1, UT095-2","There is the essive case, which has both essive and translative function."
 UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Petter Morottaja (p.c. 2020),,
 UT097,Is there a separate morphological marker for expressing equative meaning?,0,Petter Morottaja (p.c. 2020),,
 UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Petter Morottaja (p.c. 2020),,
@@ -103,7 +103,7 @@ UT102,Can the possessor in the attributive construction be encoded with the nomi
 UT103,Is non-singular possession marked in the possessive declension?,1,Petter Morottaja (p.c. 2020),"UT103-1, UT103-2",In certain cases there is a difference.
 UT104,Can 2Sg possessive suffix be used to mark definiteness?,0,Petter Morottaja (p.c. 2020),,
 UT105,Can 3Sg possessive suffix be used to mark definiteness?,0,Petter Morottaja (p.c. 2020),,
-UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,Petter Morottaja (p.c. 2020),"UT106-1, UT106-2",
+UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,Petter Morottaja (p.c. 2020),UT106,
 UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Petter Morottaja (p.c. 2020),,
 UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Petter Morottaja (p.c. 2020),,
 UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Petter Morottaja (p.c. 2020),UT109,tot 'it' can be used instead of sun 's/he'.
