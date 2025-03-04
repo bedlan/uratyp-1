@@ -8,7 +8,7 @@ UT006,Can adpositions be used to mark core verbal arguments?,1,Niina Aasmäe (p.
 UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT007,
 UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT008,
 UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT009,
-UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT010-1, UT010-2",
 UT011,Does object marking correlate with aspectuality?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
 UT012,Does the marking of the object depend on the verb conjugation form?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
 UT013,Is there differential subject marking?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT013-1, UT013-2",The subject is in the dative in necessive constructions.
@@ -26,7 +26,7 @@ UT024,Is there grammatical marking of mirativity?,0,Niina Aasmäe (p.c. 2020); M
 UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT025,
 UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT026,
 UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT027,
-UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT028,The infinitive-participle -ma can mark necessity. The subject has to be in the dative case in this construction.
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT028,The infinitival participle -ma can mark necessity. The subject has to be in the dative case in this construction.
 UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
 UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT030,"The passive/reflexive marker v is used to express capability, possibility, passive voice (depending on a context)."
 UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT031-1, UT031-2",
@@ -43,7 +43,7 @@ UT042,Are clauses with only infinitive predicates possible?,1,Niina Aasmäe (p.c
 UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT043,
 UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT044,
 UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,The copula is covert: son mokšа (3SG.NOM Moksha) 's/he is a Moksha'.
-UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT046,"The copula in the present tense has future reference.  In the past tense, it is possible to use the copula with predicate nominals, but predicate nominals can also be conjugated in the second past tense: Mar'a stir'-ks mazije-l' (Mary girl-TRA beautiful-PST2.3SG) Mary was beautiful as a girl."
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT046-1, UT046-2","In the past tense, it is possible to use the copula with predicate nominals, but predicate nominals can also be conjugated in the second past tense. The copula in the present tense has future reference. "
 UT047,Can locative adverbial phrases act as predicates without a copula?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT047,In other persons the locative adverbial gets verbal endings: Mon kud-s-an (1SG house-INE-1SG) 'I am at home'.
 UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"It is possible to use the same coordinating conjunction in all cases, though with nouns different types of coordinating is also possible: t'äd'ä-t-s't'iR'-t' (mother-PL.NOM-girl-PL.NOM) 'mothers and daughters'."
 UT049,Does existential negation have a separate operator?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT049-1, UT049-2","In existential sentences, the negation particle aš is used. In other sentences, the negation particle af is used in the present tense and the negation verb iz'- or aš- (which conjugates according to person) in the past tense."
@@ -81,7 +81,7 @@ UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,
 UT081,Is there a genitive case that has an affix?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT081,
 UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT082,
 UT083,Is there a terminative case?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
-UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT084,"The abessive can be used as a case-ending or in an adnominal function as an adjective. The latter function might be more frequent. Therefore, the abessive is not considered as a case-ending in most of the grammars."
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT084,"The abessive can be used as a case ending or in an adnominal function as an adjective. The latter function might be more frequent. Therefore, the abessive is not considered as a case ending in most of the grammars."
 UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT085,
 UT086,Is there a locative case that marks goal?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT086,
 UT087,Is there a locative case that marks location?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT087,
