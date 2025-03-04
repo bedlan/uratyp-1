@@ -47,7 +47,7 @@ UT046,Is a copula needed for predicate nominals in the past and/or future tense?
 UT047,Can locative adverbial phrases act as predicates without a copula?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
 UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",1,Minerva Piha and Mervi de Heer (p.c. 2019),"UT048-1, UT048-2",
 UT049,Does existential negation have a separate operator?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
-UT050,Can standard negation be asymmetric in the present tense?,1,Minerva Piha and Mervi de Heer (p.c. 2019),"UT050-1, UT050-2",
+UT050,Can standard negation be asymmetric in the present tense?,1,Minerva Piha and Mervi de Heer (p.c. 2019),UT050,
 UT051,Can non-finite dependent clauses use the standard negation construction?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
 UT052,Is there a special negator that combines with non-finite forms?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
 UT053,Are there special negative non-finite forms?,1,Minerva Piha and Mervi de Heer (p.c. 2019),"UT053-1, UT053-2",
@@ -82,7 +82,7 @@ UT081,Is there a genitive case that has an affix?,1,Minerva Piha and Mervi de He
 UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
 UT083,Is there a terminative case?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
 UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,Minerva Piha and Mervi de Heer (p.c. 2019),UT084,
-UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,Minerva Piha & Mervi de Heer (p.c. 2019); Ylikoski 2018,,"In Finnish, prolative (e.g. postitse 'by post') is not counted as a productive case."
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,Ylikoski 2018,,"In Finnish, prolative (e.g. postitse 'by post') is not counted as a productive case."
 UT086,Is there a locative case that marks goal?,1,Minerva Piha and Mervi de Heer (p.c. 2019),UT086,
 UT087,Is there a locative case that marks location?,1,Minerva Piha and Mervi de Heer (p.c. 2019),UT087,
 UT088,Is there a locative case that marks source?,1,Minerva Piha and Mervi de Heer (p.c. 2019),UT088,
@@ -90,9 +90,9 @@ UT089,Is there case syncretism of goal and location marking?,0,Minerva Piha and 
 UT090,Is there case syncretism of location and source marking?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
 UT091,Are there two sets of local cases?,1,Minerva Piha and Mervi de Heer (p.c. 2019),"UT091-1, UT091-2",
 UT092,Is there a third set of local cases?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
-UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Minerva Piha and Mervi de Heer (p.c. 2019),Hän kirjoitti kyn-i-ne-en;3SG write.PST.3SG pen-PL-COM-POSS.3;S/he wrote with a pen;,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Minerva Piha and Mervi de Heer (p.c. 2019),UT093,
 UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Minerva Piha and Mervi de Heer (p.c. 2019),,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Minerva Piha and Mervi de Heer (p.c. 2019),UT095,"For essive, see UT096."
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Minerva Piha and Mervi de Heer (p.c. 2019),UT095,
 UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",1,Minerva Piha and Mervi de Heer (p.c. 2019),UT096,
 UT097,Is there a separate morphological marker for expressing equative meaning?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
 UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
@@ -103,7 +103,7 @@ UT102,Can the possessor in the attributive construction be encoded with the nomi
 UT103,Is non-singular possession marked in the possessive declension?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
 UT104,Can 2Sg possessive suffix be used to mark definiteness?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
 UT105,Can 3Sg possessive suffix be used to mark definiteness?,0,Minerva Piha and Mervi de Heer (p.c. 2019),,
-UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,Minerva Piha and Mervi de Heer (p.c. 2019),,"kuka 'who' is used for humans, mikä 'what' is used for animals, inanimate objects."
+UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,Minerva Piha and Mervi de Heer (p.c. 2019),,"kuka 'who' is used for humans, mikä 'what' is used for animals, inanimate objects"
 UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Minerva Piha and Mervi de Heer (p.c. 2019),,A different relative pronoun is used.
 UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Minerva Piha and Mervi de Heer (p.c. 2019),,A different relative pronoun is used.
 UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Minerva Piha and Mervi de Heer (p.c. 2019),UT109,In the spoken language it is possible to use se 'it' to mean 's/he'.
