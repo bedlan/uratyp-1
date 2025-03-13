@@ -18,7 +18,7 @@
 "GB041","Are there several nouns (more than three) which are suppletive for number?",0,"Nickel 1994: in passim; Aikio and Ylikoski 2022: in passim",,
 "GB042","Is there productive overt morphological singular marking on nouns?",0,"Nickel 1994: in passim; Aikio and Ylikoski 2022: in passim",,
 "GB043","Is there productive morphological dual marking on nouns?",0,"Nickel 1994: in passim; Aikio and Ylikoski 2022: in passim",,
-"GB044","Is there productive morphological plural marking on nouns?",1,"Nickel 1994: 69, Aikio and Ylikoski 2022: 158",,"GB044"
+"GB044","Is there productive morphological plural marking on nouns?",1,"Nickel 1994: 69; Aikio and Ylikoski 2022: 158",,"GB044"
 "GB046","Is there an associative plural marker for nouns?",0,"Aikio and Ylikoski 2022: 160","There is no associative plural marker, but the nominal dual marker guovttos can function as an associative dual.",
 "GB047","Is there a productive morphological pattern for deriving an action/state noun from a verb?",1,"Nickel 1990: 295; Aikio and Ylikoski 2022: 164",,"GB047-1, GB047-2"
 "GB048","Is there a productive morphological pattern for deriving an agent noun from a verb?",1,"Nickel 1990: 294; Aikio and Ylikoski 2022: 165",,"GB048"
@@ -149,7 +149,7 @@
 "GB302","Is there a phonologically free passive marker ('particle' or 'auxiliary')?",0,"Nickel 1994: in passim; Aikio and Ylikoski 2022: in passim",,
 "GB303","Is there a phonologically free antipassive marker ('particle' or 'auxiliary')?",0,"Nickel 1994: in passim; Aikio and Ylikoski 2022: in passim",,
 "GB304","Can the agent be expressed overtly in a passive clause?",1,"Aikio and Ylikoski 2022: 171",,"GB304"
-"GB305","Is there a phonologically independent reflexive pronoun?",1,"Nickel 1994: 109ff, Aikio and Ylikoski 2022: 162",,"GB305"
+"GB305","Is there a phonologically independent reflexive pronoun?",1,"Nickel 1994: 109ff; Aikio and Ylikoski 2022: 162",,"GB305"
 "GB306","Is there a phonologically independent non-bipartite reciprocal pronoun?",1,"Nickel 1994: 113ff","There are three reciprocal pronouns. While nubbi nuppi consists of two quantifiers (nubbi ‘second; other’), goabbat guoibmi and guhtet guoibmi contain the word guoibmi which translates as ‘partner; friend’.","GB306-1, GB306-2"
 "GB309","Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,"Nickel 1994: in passim; Aikio and Ylikoski 2022: in passim",,
 "GB312","Is there overt morphological marking on the verb dedicated to mood?",1,"Aikio and Ylikoski 2022: 168",,"GB312-1, GB312-2"
