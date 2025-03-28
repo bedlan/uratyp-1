@@ -18,7 +18,7 @@ GB039,Is there nonphonological allomorphy of noun number markers?,0,Wilbur 2014:
 GB041,Are there several nouns (more than three) which are suppletive for number?,0,"Wilbur 2014:178-179, 138-139, 208",,
 GB042,Is there a productive overt morphological singular marker on nouns?,0,Wilbur 2014:92-95,,
 GB043,Is there a productive morphological dual marker on nouns?,0,Wilbur 2014:82-83,,
-GB044,Is there a productive morphological plural marker on nouns?,0,Wilbur 2014:92-95,,
+GB044,Is there a productive morphological plural marker on nouns?,1,Wilbur 2014:92-95,,
 GB046,Is there an associative plural marker for nouns?,0,Wilbur 2014:92-98,,
 GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Wilbur 2014:199-200,,GB047 
 GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Wilbur 2014:200-201,,GB048 
@@ -55,7 +55,7 @@ GB094,Can the P argument be indexed by a prefix/proclitic on the verb in the sim
 GB095,Are variations in marking strategies of core participants based on TAM distinctions?,0,Wilbur 2014:in passim,,
 GB096,Are variations in marking strategies of core participants based on verb classes?,0,Wilbur 2014:in passim,,
 GB098,Are variations in marking strategies of core participants based on person distinctions?,0,Wilbur 2014:in passim,,
-GB099,Is there verb suppletion for participant person?,1,Wilbur 2014:178-179,,GB099
+GB099,Is there verb suppletion for participant person?,0,Wilbur 2014:178-179,Only årrot ’to be’ is suppletive. ,
 GB103,Can a verb have a benefactive marker (applicative marker or index)?,0,Wilbur 2014:149-181,,
 GB104,Can a verb have an instrumental marker (applicative marker or index)?,0,Wilbur 2014:149-181,,
 GB105,Can the recipient in a ditransitive construction be marked like the transitive patient?,0,"Wilbur 2014:86-87, 233-234",,
