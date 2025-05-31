@@ -34,3 +34,6 @@ ID,Name,Subfamily,Glottocode,ISO.639.3,Latitude,Longitude,citations
 33,Nganasan,Samoyed,ngan1291,nio,72.12,102.83,"wagner-nagy_grammar_2018,pajusalu_towards_2018,klumpp_typology_2018,janhunen_nganasan_2020"
 34,Komi_Permyak,Permic,komi1269,koi,59.96,54.51,
 35,Ume_Saami,Saami,umes1235,sju,65.3,17.97,
+36,Kildin_Saami,Saami,kild1236,sjd,68.22,35.83,
+37,Ter_Saami,Saami,ters1235,sjt,67.25,38.51,
+38,Akkala_Saami,Saami,akka1237,sia,67.86,32.4,
