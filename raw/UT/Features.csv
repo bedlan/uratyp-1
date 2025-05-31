@@ -113,10 +113,10 @@ UT112,Are there different words for mother’s brother and father’s brother?,L
 UT113,Are there different words for younger and older relative for other relations than siblings?,Lexicon
 UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,Lexicon
 UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,Lexicon
-UT116,Is there contrastive length of consonants?,Phonology
-UT117,Is there contrastive length of vowels?,Phonology
-UT118,Is there contrast between short and long unstressed vowels?,Phonology
-UT119,Is there contrast in duration of geminate consonants?,Phonology
+UT116,Is there contrastive length for consonants?,Phonology
+UT117,Is there contrastive length for vowels?,Phonology
+UT118,Is there a contrast between short and long unstressed vowels?,Phonology
+UT119,Is there a contrast in the length of geminate consonants?,Phonology
 UT120,Are there more than two phonological quantities?,Phonology
 UT121,Are there extralong syllables?,Phonology
 UT122,Is the main foot structure trochaic?,Phonology
@@ -128,39 +128,39 @@ UT127,Is there non-initial primary stress?,Phonology
 UT128,Is there palatal vowel harmony?,Phonology
 UT129,Is there velar vowel harmony?,Phonology
 UT130,Is there labial vowel harmony?,Phonology
-UT131,Are there rising diphthongs?,Phonology
-UT132,Are there lowering diphthongs?,Phonology
-UT133,Is there qualitative contrast between subsets of short and long vowels?,Phonology
+UT131,Are there closing diphthongs?,Phonology
+UT132,Are there opening diphthongs?,Phonology
+UT133,Is there a qualitative contrast between subsets of short and long vowels?,Phonology
 UT134,Are there full vs. reduced vowels as contrastive subsets?,Phonology
-UT135,Is there front high rounded vowel ü [y]?,Phonology
-UT136,Is there front midhigh rounded vowel ö [ø]?,Phonology
-UT137,Is there back high unrounded vowel ï [ɯ]?,Phonology
-UT138,Is there back midhigh unrounded vowel ë [ɤ]?,Phonology
-UT139,Is there back low round vowel [ɒ]?,Phonology
-UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,Phonology
+UT135,Is there a high front rounded vowel /y/?,Phonology
+UT136,Is there a mid-high front rounded vowel /ø/?,Phonology
+UT137,Is there a high back unrounded vowel /ɯ ɨ/?,Phonology
+UT138,Is there a mid-high back unrounded vowel /ɤ ɘ/?,Phonology
+UT139,Is there a low back rounded vowel /ɒ/?,Phonology
+UT140,Is there a contrast between mid front vowels (/e/ or /ɛ/) and low front vowels (/æ/ or /a/)?,Phonology
 UT141,Are there word-initial consonant clusters?,Phonology
-UT142,Are there word-internal consonant clusters in syllable onset?,Phonology
-UT143,Are there consonant clusters in syllable coda?,Phonology
-UT144,Are there clusters of three or more consonants in a word between vowels?,Phonology
+UT142,Are there word-internal consonant clusters in the syllable onset?,Phonology
+UT143,Are there consonant clusters in the syllable coda?,Phonology
+UT144,Are there word-internal intervocalic clusters of three or more consonants?,Phonology
 UT145,Are there word-final clusters of three or more consonants?,Phonology
-UT146,Are there palatalized dentals?,Phonology
-UT147,Are there palatalized labials and velars?,Phonology
-UT148,Is there palatal stop [c]?,Phonology
-UT149,Is there palatal nasal [ɲ]?,Phonology
-UT150,Is there palatal lateral [ʎ]?,Phonology
-UT151,Is there phonemic velar nasal [ŋ]?,Phonology
-UT152,Is there dental affricate [t͡s]?,Phonology
-UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",Phonology
-UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,Phonology
-UT155,"Are there voiced plosives [b, g, d]?",Phonology
-UT156,Is there glottal stop [ˀ]?,Phonology
-UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,Phonology
-UT158,Is there a constraint on word-initial r?,Phonology
-UT159,Is there laryngeal fricative [h]?,Phonology
-UT160,Is there voiced velar fricative [ɣ]?,Phonology
-UT161,Is there voiceless velar fricative [x]?,Phonology
-UT162,Is there voiced dental fricative [ð]?,Phonology
-UT163,Is there phonemic labio-velar approximant [w]?,Phonology
-UT164,Is there voiceless labiodental fricative [f]?,Phonology
+UT146,Are there palatalized alveolar consonants?,Phonology
+UT147,Are there palatalized labial and velar consonants?,Phonology
+UT148,Is there a palatal stop?,Phonology
+UT149,Is there a palatal nasal /ɲ/?,Phonology
+UT150,Is there a palatal lateral /ʎ/?,Phonology
+UT151,Is there a velar nasal /ŋ/?,Phonology
+UT152,Is there an alveolar affricate /t͡s/?,Phonology
+UT153,"Is there a non-alveolar affricate (e.g., /t͡ʃ/, /t͡ɕ/)?",Phonology
+UT154,Is there a phonological contrast between an unvoiced alveolar sibilant /s/ and an unvoiced postalveolar sibilant /ʃ/?,Phonology
+UT155,"Are there voiced plosives (e.g., /b g d/)?",Phonology
+UT156,Is there a glottal stop /ʔ/?,Phonology
+UT157,"Is there a phonological contrast between plain and labial velar consonants (e.g., /k/ vs. /kʷ/)?",Phonology
+UT158,Is there a constraint on the word-initial alveolar trill /r/?,Phonology
+UT159,Is there a laryngeal fricative /h/?,Phonology
+UT160,Is there a voiced velar fricative /ɣ/?,Phonology
+UT161,Is there a voiceless velar fricative /x/?,Phonology
+UT162,Is there a voiced dental fricative /ð/?,Phonology
+UT163,Is there a labio-velar approximant /w/?,Phonology
+UT164,Is there a voiceless labiodental fricative /f/?,Phonology
 UT165,Is there radical qualitative consonant gradation?,Phonology
 UT166,Is there quantitative consonant gradation?,Phonology
