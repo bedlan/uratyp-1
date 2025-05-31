@@ -19,7 +19,7 @@ GB041,Are there several nouns (more than three) which are suppletive for number?
 GB042,Is there a productive overt morphological singular marker on nouns?,0,Heinike Heinsoo (p.c. 2019),,
 GB043,Is there a productive morphological dual marker on nouns?,0,Heinike Heinsoo (p.c. 2019),,
 GB044,Is there a productive morphological plural marker on nouns?,1,Ariste 1948:21-22,,GB044
-GB046,Is there an associative plural marker for nouns?,0,Ariste 1948: 42-46,,
+GB046,Is there an associative plural marker for nouns?,0,Ariste 1948:42-46,,
 GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Ariste 1948:87,,GB047
 GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Ariste 1948:88,,GB048
 GB049,Is there a productive morphological pattern for deriving an object noun from a verb?,1,Ariste 1948:125,,GB049
@@ -54,7 +54,7 @@ GB093,Can the P argument be indexed by a suffix/enclitic on the verb in the simp
 GB094,Can the P argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Heinike Heinsoo (p.c. 2019),,
 GB095,Are variations in marking strategies of core participants based on TAM distinctions?,0,Heinike Heinsoo (p.c. 2019),,
 GB096,Are variations in marking strategies of core participants based on verb classes?,0,Heinike Heinsoo (p.c. 2019),,
-GB098,Are variations in marking strategies of core participants based on person distinctions?,0,,,
+GB098,Are variations in marking strategies of core participants based on person distinctions?,0,Heinike Heinsoo (p.c. 2019),,
 GB099,Is there verb suppletion for participant person?,0,Heinike Heinsoo (p.c. 2019),,
 GB103,Can a verb have a benefactive marker (applicative marker or index)?,0,Heinike Heinsoo (p.c. 2019),,
 GB104,Can a verb have an instrumental marker (applicative marker or index)?,0,Heinike Heinsoo (p.c. 2019),,
@@ -81,10 +81,10 @@ GB127,Are different posture verbs used obligatorily depending on an inanimate lo
 GB129,Is there a notably small number of verb roots in the language?,0,Heinike Heinsoo (p.c. 2019),,
 GB130,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,Heinike Heinsoo (p.c. 2019),S precedes V.,GB130
 GB131,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,Heinike Heinsoo (p.c. 2019),,
-GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,1,,,GB132
+GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,1,Markus and Rozhanskiy 2022:345,,GB132
 GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,0,Heinike Heinsoo (p.c. 2019),,
-GB134,Is the order of constituents the same in main and subordinate clauses?,1,,,"GB134-1, GB134-2"
-GB135,Do clausal objects usually occur in the same position as nominal objects?,1,,,"GB135-1, GB135-2"
+GB134,Is the order of constituents the same in main and subordinate clauses?,1,Markus and Rozhanskiy 2022:348,,"GB134-1, GB134-2"
+GB135,Do clausal objects usually occur in the same position as nominal objects?,1,Markus and Rozhanskiy 2022:347,,"GB135-1, GB135-2"
 GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,Heinike Heinsoo (p.c. 2019),,
 GB137,Can standard negation be marked clause-finally?,0,Heinike Heinsoo (p.c. 2019),,
 GB138,Can standard negation be marked clause-initially?,0,Heinike Heinsoo (p.c. 2019),,
@@ -126,7 +126,7 @@ GB252,Can predicative possession be expressed with an S-like possessum and a loc
 GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Heinike Heinsoo (p.c. 2019),,
 GB254,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,0,Heinike Heinsoo (p.c. 2019),,
 GB256,Can predicative possession be expressed with a comitative/conjunctional construction?,0,Heinike Heinsoo (p.c. 2019),,
-GB257,Can polar interrogation be marked by intonation only?,?,,"However, the role of intonation in polar interrogation needs further research.",GB257
+GB257,Can polar interrogation be marked by intonation only?,1,Heinike Heinsoo (p.c. 2019),"However, the role of intonation in polar interrogation needs further research.",GB257
 GB260,Can polar interrogation be indicated by a special word order?,1,Heinike Heinsoo (p.c. 2019),,
 GB262,Is there a clause-initial polar interrogative particle?,1,Heinike Heinsoo (p.c. 2019),,GB262
 GB263,Is there a clause-final polar interrogative particle?,0,Heinike Heinsoo (p.c. 2019),,
