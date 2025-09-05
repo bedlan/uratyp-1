@@ -21,7 +21,7 @@ GB043,Is there a productive morphological dual marker on nouns?,0,Sulev Iva (p.c
 GB044,Is there a productive morphological plural marker on nouns?,1,Iva 2007:43,,GB044
 GB046,Is there an associative plural marker for nouns?,0,Sulev Iva (p.c. 2019),,
 GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Iva 2007:70,,GB047
-GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Iva 2007:109,"Often used instead of present active participle, e.g. haukja pini 'barking dog', literally 'barker dog' (Iva 2007:109).",GB048
+GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Iva 2007:109,"Often used instead of the present active participle, e.g. haukja pini 'barking dog', literally 'barker dog' (Iva 2007:109).",GB048
 GB049,Is there a productive morphological pattern for deriving an object noun from a verb?,1,Faster et al. 2014:põleng,,GB049
 GB051,Is there a noun class/gender system where masculine and feminine categories are a factor in class assignment?,0,Sulev Iva (p.c. 2019),,
 GB052,Is there a noun class/gender system where shape is a factor in class assignment?,0,Sulev Iva (p.c. 2019),,
@@ -59,7 +59,7 @@ GB099,Is there verb suppletion for participant person?,0,Sulev Iva (p.c. 2019),,
 GB103,Can a verb have a benefactive marker (applicative marker or index)?,0,Sulev Iva (p.c. 2019),,
 GB104,Can a verb have an instrumental marker (applicative marker or index)?,0,Sulev Iva (p.c. 2019),,
 GB105,Can the recipient in a ditransitive construction be marked like the transitive patient?,0,Sulev Iva (p.c. 2019),,
-GB107,"Can standard negation be marked by an affix, clitic or modification of the verb?",1,Iva 2007:81,"Preverbal negation can also be used. Postverbal negation particle ei is often assimilated with the verb, becoming a suffix, e.g. tulõ ei > tulõ-õi 'does not come'. Negation in Võro South Estonian is unmarked for person.  ",GB107
+GB107,"Can standard negation be marked by an affix, clitic or modification of the verb?",1,Iva 2007:81,"Preverbal negation can also be used. Postverbal negation particle ei is often assimilated with the verb, becoming a suffix, e.g. tulõ ei > tulõ-õi 'doesn’t come'. Negation in Võro South Estonian is unmarked for person.  ",GB107
 GB108,Is there directional or locative morphological marking on verbs?,0,Sulev Iva (p.c. 2019),,
 GB109,Is there verb suppletion for participant number?,0,Sulev Iva (p.c. 2019),,
 GB110,Is there verb suppletion for tense or aspect?,0,Sulev Iva (p.c. 2019),,
@@ -72,7 +72,7 @@ GB117,Is there a copula for predicate nominals?,1,Keem and Käsi 2002:173,,GB117
 GB118,Are there serial verb constructions?,0,Sulev Iva (p.c. 2019),,
 GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,Sulev Iva (p.c. 2019),,
 GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,0,Sulev Iva (p.c. 2019),,
-GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,Iva 2007:79–80,,GB121
+GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,Iva 2007:79-80,,GB121
 GB122,Is verb compounding a regular process?,0,Sulev Iva (p.c. 2019),,
 GB123,Are there verb-adjunct (aka light-verb) constructions?,0,Sulev Iva (p.c. 2019),,
 GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,Sulev Iva (p.c. 2019),,
@@ -88,8 +88,8 @@ GB135,Do clausal objects usually occur in the same position as nominal objects?,
 GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,Sulev Iva (p.c. 2019),,
 GB137,Can standard negation be marked clause-finally?,1,Pilvik and Plado and Lindström 2021,,GB137
 GB138,Can standard negation be marked clause-initially?,0,Sulev Iva (p.c. 2019),,
-GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,Iva 2007:102,"However, it is also possible to use the standard negation particle ei 'no' in prohibitive, e.g. andku eiq 'don't give!' (Iva 2007:102)","GB139-1, GB139-2"
-GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,"Faster et al. 2014:fenomen; Keem and Käsi 2002:122, 132","Negation particle also occurs postverbally, e.g. olõ ei, olõ-õi.","GB140-1, GB140-2, GB140-3"
+GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,Iva 2007:102,"However, it is also possible to use the standard negation particle ei 'no' in prohibitive constructions, e.g. andku eiq 'don't give!' (Iva 2007:102)","GB139-1, GB139-2"
+GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,"Faster et al. 2014:fenomen; Keem and Käsi 2002:122, 132","The negation particle can also occur postverbally, e.g. olõ ei, olõ-õi ’is not’.","GB140-1, GB140-2, GB140-3"
 GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,Sulev Iva (p.c. 2019),,
 GB147,Is there a morphological passive marked on the lexical verb?,1,Iva 2007:100,,GB147
 GB148,Is there a morphological antipassive marked on the lexical verb?,0,Sulev Iva (p.c. 2019),,
@@ -148,7 +148,7 @@ GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Sulev Iva (p.c.
 GB301,Is there an inclusory construction?,0,Sulev Iva (p.c. 2019),,
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Iva 2007:99-102,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Sulev Iva (p.c. 2019),,
-GB304,Can the agent be expressed overtly in a passive clause?,1,Kasak 1990:69–77,,GB304
+GB304,Can the agent be expressed overtly in a passive clause?,1,Kasak 1990:69-77,,GB304
 GB305,Is there a phonologically independent reflexive marker?,1,Faster et al. 2014:asendaja,,GB305
 GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other; two + two)?,0,Sulev Iva (p.c. 2019),,
 GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,Sulev Iva (p.c. 2019),,
@@ -163,7 +163,7 @@ GB319,Is trial number regularly marked in the noun phrase by a phonologically fr
 GB320,Is paucal number regularly marked in the noun phrase by a phonologically free element?,0,Sulev Iva (p.c. 2019),,
 GB321,Is there a large class of nouns whose noun class/gender is not phonologically or semantically predictable?,0,Sulev Iva (p.c. 2019),,
 GB322,Is there grammatical marking of direct evidence (perceived with the senses)?,0,Sulev Iva (p.c. 2019),,
-GB323,"Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?",1,Iva 2007:96,"For quotative, -v and -vAt are used in both written and spoken Võro. Southwestern dialects of Võro also use -bEv suffix, e.g. saabõv 'they say it is getting' (Iva 2007:96)",GB323
+GB323,"Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?",1,Iva 2007:96,"The quotative is marked by -v and -vAt in both written and spoken Võro. Additionally, southwestern dialects employ the suffix -bEv, as in saabõv 'they say it is getting' (Iva 2007:96)",GB323
 GB324,"Is there an interrogative verb for content interrogatives (who?, what?, etc.)?",0,Sulev Iva (p.c. 2019),,
 GB325,Is there a count/mass distinction in interrogative quantifiers?,1,"Faster et al. 2014:leer, mitu",,"GB325-1, GB325-2"
 GB326,Do (nominal) content interrogatives normally or frequently occur in situ?,0,Sulev Iva (p.c. 2019),,

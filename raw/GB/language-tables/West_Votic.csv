@@ -3,8 +3,8 @@ GB020,Are there definite or specific articles?,0,Heinike Heinsoo (p.c. 2019),,
 GB021,Are there indefinite or non-specific articles?,0,Heinike Heinsoo (p.c. 2019),,
 GB022,Are there prenominal articles?,0,Heinike Heinsoo (p.c. 2019),,
 GB023,Are there postnominal articles?,0,Heinike Heinsoo (p.c. 2019),,
-GB024,What is the order of numeral and noun in the NP?,1,Ariste 1948:68,Numeral is placed before the noun.,GB024
-GB025,What is the order of adnominal demonstrative and noun?,1,Ariste 1948:65,Adnominal demonstrative is placed before the noun.,GB025
+GB024,What is the order of numeral and noun in the NP?,1,Ariste 1948:68,The numeral comes before the noun.,GB024
+GB025,What is the order of adnominal demonstrative and noun?,1,Ariste 1948:65,An adnominal demonstrative precedes the noun it modifies.,GB025
 GB026,Can adnominal property words occur discontinuously?,0,Heinike Heinsoo (p.c. 2019),,
 GB027,Are nominal conjunction and comitative expressed by different elements?,1,Ariste 1948:39,,"GB027-1, GB027-2"
 GB028,Is there a distinction between inclusive and exclusive?,0,Heinike Heinsoo (p.c. 2019),,
@@ -30,7 +30,7 @@ GB054,Is there a noun class/gender system where plant status is a factor in clas
 GB057,Are there numeral classifiers?,0,Heinike Heinsoo (p.c. 2019),,
 GB058,Are there possessive classifiers?,0,Heinike Heinsoo (p.c. 2019),,
 GB059,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,Heinike Heinsoo (p.c. 2019),,
-GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,Ariste 1948:23,Possessor is placed before the possessed noun.,GB065
+GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,Ariste 1948:23,The possessor typically comes before the possessed noun.,GB065
 GB068,"Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",0,Heinike Heinsoo (p.c. 2019),,
 GB069,"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,Heinike Heinsoo (p.c. 2019),,
 GB070,"Are there morphological cases for non-pronominal core arguments (i.e. S, A or P)?",1,Ariste 1948:21-26,,GB070
@@ -48,7 +48,7 @@ GB084,Is there overt morphological marking on the verb dedicated to future tense
 GB086,Is a morphological distinction between perfective and imperfective aspect available on verbs?,0,Heinike Heinsoo (p.c. 2019),,
 GB089,Can the S argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Ariste 1948:75,,GB089
 GB090,Can the S argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Heinike Heinsoo (p.c. 2019),,
-GB091,Can the A argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Ariste 1948:73-75,There are suffixes for each person in singular and plural.,GB091
+GB091,Can the A argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Ariste 1948:73-75,,GB091
 GB092,Can the A argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Heinike Heinsoo (p.c. 2019),,
 GB093,Can the P argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,0,Heinike Heinsoo (p.c. 2019),,
 GB094,Can the P argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Heinike Heinsoo (p.c. 2019),,
@@ -148,7 +148,7 @@ GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Heinike Heinsoo
 GB301,Is there an inclusory construction?,1,Heinike Heinsoo (p.c. 2019),,
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Heinike Heinsoo (p.c. 2019),,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Heinike Heinsoo (p.c. 2019),,
-GB304,Can the agent be expressed overtly in a passive clause?,1,Heinike Heinsoo (p.c. 2019),,
+GB304,Can the agent be expressed overtly in a passive clause?,1,Heinike Heinsoo (p.c. 2019),,GB304
 GB305,Is there a phonologically independent reflexive marker?,1,Heinike Heinsoo (p.c. 2019),,GB305
 GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other,0,Heinike Heinsoo (p.c. 2019),,GB306
 GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,Heinike Heinsoo (p.c. 2019),,

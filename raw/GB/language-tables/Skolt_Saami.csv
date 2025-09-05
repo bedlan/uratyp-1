@@ -18,7 +18,7 @@ GB039,Is there nonphonological allomorphy of noun number markers?,0,Feist 2015:1
 GB041,Are there several nouns (more than three) which are suppletive for number?,0,Feist 2015:137-161,,
 GB042,Is there a productive overt morphological singular marker on nouns?,0,Feist 2015:137-139,,
 GB043,Is there a productive morphological dual marker on nouns?,0,Feist 2015:137,,
-GB044,Is there a productive morphological plural marker on nouns?,1,Feist 2015:137-138,There is a dedicated plural marker that appears in all cases except the NOM.PL.,GB044
+GB044,Is there a productive morphological plural marker on nouns?,1,Feist 2015:137-138,There is a dedicated plural marker that appears in all cases except the nominative plural.,GB044
 GB046,Is there an associative plural marker for nouns?,1,Miestamo 2011: 121,,
 GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Feist 2015:126-127,,GB047
 GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Feist 2015:126-127,,GB048
@@ -92,7 +92,7 @@ GB139,Is there a difference between imperative (prohibitive) and declarative neg
 GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,Feist 2015:228-232,,"GB140-1, GB140-2"
 GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,Feist 2015:in passim,,
 GB147,Is there a morphological passive marked on the lexical verb?,1,Feist 2015:261-262,Auxiliary + passive participle in -um.,GB147
-GB148,Is there a morphological antipassive marked on the lexical verb?,0,Feist 2015:in passim,"Reciprocal and reflexive markers which decrease valency, but no antipassives.",
+GB148,Is there a morphological antipassive marked on the lexical verb?,0,Feist 2015:in passim,"There are reciprocal and reflexive markers which decrease valency, but no antipassives.",
 GB149,Is there a morphologically marked inverse on verbs?,0,Feist 2015:in passim,,
 GB150,Is there clause chaining?,0,Feist 2015:290-297,,
 GB151,Is there an overt verb marker dedicated to signaling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (‘switch reference’)?,0,Feist 2015:200-232,,
@@ -172,7 +172,7 @@ GB328,Can the relative clause precede the noun?,0,Feist 2015:194-199,,
 GB329,Are there internally-headed relative clauses?,0,Feist 2015:194-199,,
 GB330,Are there correlative relative clauses?,0,Feist 2015:194-199,,
 GB331,Are there non-adjacent relative clauses?,0,Feist 2015:194-199,,
-GB333,Is there a decimal numeral system?,1,Feist 2015:109-111,suffix -lo is a shortened form of lååi 'ten',GB333
+GB333,Is there a decimal numeral system?,1,Feist 2015:109-111,The suffix -lo is a shortened form of lååi 'ten',GB333
 GB334,Is there synchronic evidence for any element of a quinary numeral system?,0,Feist 2015:109-111,,
 GB335,Is there synchronic evidence for any element of a vigesimal numeral system?,0,Feist 2015:109-111,,
 GB336,Is there a body-part tallying system?,0,Feist 2015:109-111,,
@@ -184,7 +184,7 @@ GB408,Is there any accusative alignment of flagging?,1,Feist 2015:240-241,,GB408
 GB409,Is there any ergative alignment of flagging?,0,Feist 2015:239,,
 GB410,Is there any neutral alignment of flagging?,0,Feist 2015:239-241,,
 GB415,Is there a politeness distinction in second person forms?,0,Feist 2015:200-232,,
-GB421,Is there a preposed complementizer for complements of verbs of thinking and/or knowing?,1,Feist 2015:290-292,"Russian borrowing što is used, but also Finnsih että occurs.","GB421-1, GB421-2"
+GB421,Is there a preposed complementizer for complements of verbs of thinking and/or knowing?,1,Feist 2015:290-292,"Russian borrowing što is used, but Finnsih että also occurs.","GB421-1, GB421-2"
 GB422,Is there a postposed complementizer for complements of verbs of thinking and/or knowing?,0,Feist 2015:290-292,,
 GB430,Can adnominal possession be marked by a prefix on the possessor?,0,Feist 2015:187-188,,
 GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,Feist 2015:187-188,,
