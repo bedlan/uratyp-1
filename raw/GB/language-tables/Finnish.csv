@@ -32,7 +32,7 @@ GB058,Are there possessive classifiers?,0,Hakulinen et al. 2004:in passim,,
 GB059,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,"Hakulinen et al. 2004:§ 546, § 574",,
 GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,Hakulinen et al. 2004:§ 96,,GB065
 GB068,"Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",0,Hakulinen et al. 2004:§ 450,,
-GB069,"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,Mervi de Heer (p.c. 2019),,
+GB069,"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,"Hakulinen et al. 2004:§ 260-297, §122",,
 GB070,"Are there morphological cases for non-pronominal core arguments (i.e. S, A or P)?",1,Hakulinen et al. 2004:§ 925,"The object may appear in the nominative (unmarked), genitive, or partitive case.",GB070
 GB071,"Are there morphological cases for phonologically independent personal pronominal core arguments (i.e. S, A or P)?",1,"Hakulinen et al. 2004:§ 925, § 930","The object may appear in the nominative (unmarked), genitive, partitive, or accusative case.",GB071
 GB072,"Are there morphological cases for oblique non-pronominal NPs (i.e. not S, A or P)?",1,Hakulinen et al. 2004:§ 1235-1241,,GB072
@@ -58,7 +58,7 @@ GB098,Are variations in marking strategies of core participants based on person 
 GB099,Is there verb suppletion for participant person?,0,Hakulinen et al. 2004:in passim,,
 GB103,Can a verb have a benefactive marker (applicative marker or index)?,0,Hakulinen et al. 2004:§ 105-118,,
 GB104,Can a verb have an instrumental marker (applicative marker or index)?,0,Hakulinen et al. 2004:§ 105-118,,
-GB105,Can the recipient in a ditransitive construction be marked like the transitive patient?,0,Mervi de Heer (p.c. 2019),,
+GB105,Can the recipient in a ditransitive construction be marked like the transitive patient?,0,Hakulinen et al. 2004:in passim,,
 GB107,"Can standard negation be marked by an affix, clitic or modification of the verb?",0,"Hakulinen et al. 2004:§ 108-109, § 1615-1644",,
 GB108,Is there directional or locative morphological marking on verbs?,0,Hakulinen et al. 2004:in passim,,
 GB109,Is there verb suppletion for participant number?,0,Hakulinen et al. 2004:§ 71-77,,
@@ -70,9 +70,9 @@ GB115,Is there a phonologically bound reciprocal marker on the verb?,0,Hakulinen
 GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,Hakulinen et al. 2004:in passim,,
 GB117,Is there a copula for predicate nominals?,1,Hakulinen et al. 2004:§ 456,,GB117
 GB118,Are there serial verb constructions?,0,Hakulinen et al. 2004:in passim,,
-GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,Hakulinen et al. 2004:§ 1590-1600,,
+GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,1,Hakulinen et al. 2004:§ 1590-1600,,GB119
 GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,0,Hakulinen et al. 2004:§ 1508-1515,,
-GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,Hakulinen et al. 2004:§ 112,,GB121
+GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,Hakulinen et al. 2004:§ 1540,,GB121
 GB122,Is verb compounding a regular process?,0,Hakulinen et al. 2004:in passim,,
 GB123,Are there verb-adjunct (aka light-verb) constructions?,0,Hakulinen et al. 2004:in passim,,
 GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,Hakulinen et al. 2004:in passim,,
@@ -91,14 +91,14 @@ GB138,Can standard negation be marked clause-initially?,0,Hakulinen et al. 2004:
 GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,Hakulinen et al. 2004:§ 889,,GB 139
 GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,Hakulinen et al. 2004:§ 108,The negator inflects for person.,"GB140-1, GB140-2, GB140-3"
 GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,Hakulinen et al. 2004:in passim,,
-GB147,Is there a morphological passive marked on the lexical verb?,1,Hakulinen et al. 2004:§ 110,,
+GB147,Is there a morphological passive marked on the lexical verb?,1,Hakulinen et al. 2004:§ 110,,GB147
 GB148,Is there a morphological antipassive marked on the lexical verb?,0,Hakulinen et al. 2004:in passim,,
 GB149,Is there a morphologically marked inverse on verbs?,0,Hakulinen et al. 2004:in passim,,
 GB150,Is there clause chaining?,0,Hakulinen et al. 2004:in passim,,
-GB151,Is there an overt verb marker dedicated to signaling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (‘switch reference’)?,0,Mervi de Heer (p.c. 2019),,
+GB151,Is there an overt verb marker dedicated to signaling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (‘switch reference’)?,0,Hakulinen et al. 2004:in passim,,
 GB152,Is there a morphologically marked distinction between simultaneous and sequential clauses?,0,Hakulinen et al. 2004:in passim,,
 GB155,Are causatives formed by affixes or clitics on verbs?,1,"Hakulinen et al. 2004:§ 303, § 311-332",,GB113
-GB156,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for ‘to say’?,0,Mervi de Heer (p.c. 2019),,
+GB156,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for ‘to say’?,0,Hakulinen et al. 2004:§318,,
 GB158,Are verbs reduplicated?,0,Hakulinen et al. 2004:in passim,,
 GB159,Are nouns reduplicated?,1,Hakulinen et al. 2004:§ 425,,GB159
 GB160,Are elements apart from verbs or nouns reduplicated?,0,Hakulinen et al. 2004:in passim,,
@@ -121,12 +121,12 @@ GB197,Is there a masculine/feminine distinction in phonologically independent fi
 GB198,Can an adnominal numeral agree with the noun in noun class/gender?,0,Hakulinen et al. 2004:in passim,,
 GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,Hakulinen et al. 2004:§ 750,,GB203
 GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,"Hakulinen et al. 2004:§ 750, § 752",,"GB204-1, GB204-2"
-GB250,Can predicative possession be expressed with a transitive ‘habeo’ verb?,1,Mervi de Heer (p.c. 2019),,
+GB250,Can predicative possession be expressed with a transitive ‘habeo’ verb?,1,Kielitoimiston sanakirja:omistaa,"However, it is more common to express predicative possession by means of a locative coded possessor.",GB250
 GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,1,Karlsson 2018:243-244,,GB252
-GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Mervi de Heer (p.c. 2019),,
-GB254,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,0,Mervi de Heer (p.c. 2019),,
-GB256,Can predicative possession be expressed with a comitative/conjunctional construction?,0,Mervi de Heer (p.c. 2019),,
-GB257,Can polar interrogation be marked by intonation only?,0,Mervi de Heer (p.c. 2019),,
+GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Hakulinen et al. 2004:in passim,,
+GB254,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,0,Hakulinen et al. 2004:in passim,,
+GB256,Can predicative possession be expressed with a comitative/conjunctional construction?,0,Hakulinen et al. 2004:in passim,,
+GB257,Can polar interrogation be marked by intonation only?,0,Hakulinen et al. 2004:in passim,,
 GB260,Can polar interrogation be indicated by a special word order?,0,"Hakulinen et al. 2004:§ 888, § 1689",,
 GB262,Is there a clause-initial polar interrogative particle?,0,"Hakulinen et al. 2004:§ 888, § 1689",,
 GB263,Is there a clause-final polar interrogative particle?,0,"Hakulinen et al. 2004:§ 888, § 1689",,
@@ -140,12 +140,12 @@ GB276,Is there a non-bound comparative degree marker modifying the property word
 GB285,Can polar interrogation be marked by a question particle and verbal morphology?,0,"Hakulinen et al. 2004:§ 888, § 1689",,
 GB286,Can polar interrogation be indicated by overt verbal morphology only?,0,"Hakulinen et al. 2004:§ 888, § 1689",,
 GB291,Can polar interrogation be marked by tone?,0,"Hakulinen et al. 2004:§ 888, § 1689",,
-GB296,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,0,Mervi de Heer (p.c. 2019),,
+GB296,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,0,Hakulinen et al. 2004:in passim,,
 GB297,Can polar interrogation be indicated by a V-not-V construction?,0,"Hakulinen et al. 2004:§ 888, § 1689",,
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,1,Karlsson 2018:150-153,,GB298
 GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,0,Hakulinen et al. 2004:§ 1615-1644,,
-GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Mervi de Heer (p.c. 2019),,
-GB301,Is there an inclusory construction?,0,Mervi de Heer (p.c. 2019),,
+GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Hakulinen et al. 2004:in passim,,
+GB301,Is there an inclusory construction?,1,Kurki 2024,,GB301
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Hakulinen et al. 2004:§ 1315-1346,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Hakulinen et al. 2004:in passim,,
 GB304,Can the agent be expressed overtly in a passive clause?,0,Hakulinen et al. 2004:§ 1315-1346,,
@@ -153,7 +153,7 @@ GB305,Is there a phonologically independent reflexive marker?,1,Hakulinen et al.
 GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other; two + two)?,1,Hakulinen et al. 2004:§ 732,,GB306
 GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,Hakulinen et al. 2004:§ 1523-1550,,
 GB312,Is there overt morphological marking on the verb dedicated to mood?,1,Hakulinen et al. 2004:§ 115,,GB312
-GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,0,Mervi de Heer (p.c. 2019),,
+GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,0,Hakulinen et al. 2004:in passim,,
 GB314,Can augmentative meaning be expressed productively by a shift of noun class/gender?,0,Hakulinen et al. 2004:in passim,,
 GB315,Can diminutive meaning be expressed productively by a shift of noun class/gender?,0,Hakulinen et al. 2004:in passim,,
 GB316,Is singular number regularly marked in the noun phrase by a phonologically free element?,0,Hakulinen et al. 2004:§ 79-80,,
@@ -168,18 +168,18 @@ GB324,"Is there an interrogative verb for content interrogatives (who?, what?, e
 GB325,Is there a count/mass distinction in interrogative quantifiers?,1,"Hakulinen et al. 2004:§ 555, Karlsson 2018:158",,"GB325-1, GB325-2"
 GB326,Do (nominal) content interrogatives normally or frequently occur in situ?,0,Hakulinen et al. 2004:§ 1678-1706,,
 GB327,Can the relative clause follow the noun?,1,Hakulinen et al. 2004:§ 1164,,GB327
-GB328,Can the relative clause precede the noun?,0,Mervi de Heer (p.c. 2019),,
-GB329,Are there internally-headed relative clauses?,0,Mervi de Heer (p.c. 2019),,
-GB330,Are there correlative relative clauses?,0,Mervi de Heer (p.c. 2019),,
-GB331,Are there non-adjacent relative clauses?,1,Mervi de Heer (p.c. 2019),,
+GB328,Can the relative clause precede the noun?,0,Hakulinen et al. 2004:in passim,,
+GB329,Are there internally-headed relative clauses?,0,Hakulinen et al. 2004:in passim,,
+GB330,Are there correlative relative clauses?,0,Hakulinen et al. 2004:in passim,,
+GB331,Are there non-adjacent relative clauses?,1,Hakulinen et al. 2004:in passim,,
 GB333,Is there a decimal numeral system?,1,Karlsson 2018:266-268,,GB333
-GB334,Is there synchronic evidence for any element of a quinary numeral system?,0,Mervi de Heer (p.c. 2019),,
-GB335,Is there synchronic evidence for any element of a vigesimal numeral system?,0,Mervi de Heer (p.c. 2019),,
+GB334,Is there synchronic evidence for any element of a quinary numeral system?,0,Häkkinen 1993:in passim,,
+GB335,Is there synchronic evidence for any element of a vigesimal numeral system?,0,Häkkinen 1993:in passim,,
 GB336,Is there a body-part tallying system?,0,Hakulinen et al. 2004:in passim,,
 GB400,"Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?",0,Hakulinen et al. 2004:§ 106-107,,
 GB401,Is there a class of patient-labile verbs?,0,Hakulinen et al. 2004:in passim,,
-GB402,Does the verb for ‘see’ have suppletive verb forms?,0,Mervi de Heer (p.c. 2019),,
-GB403,Does the verb for ‘come’ have suppletive verb forms?,0,Mervi de Heer (p.c. 2019),,
+GB402,Does the verb for ‘see’ have suppletive verb forms?,0,Kielitoimiston sanakirja:nähdä,,
+GB403,Does the verb for ‘come’ have suppletive verb forms?,0,Kielitoimiston sanakirja:tulla,,
 GB408,Is there any accusative alignment of flagging?,1,Karlsson 2018:214,,GB408
 GB409,Is there any ergative alignment of flagging?,0,Hakulinen et al. 2004:in passim,,
 GB410,Is there any neutral alignment of flagging?,0,Hakulinen et al. 2004:in passim,,
