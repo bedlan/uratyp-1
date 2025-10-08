@@ -19,7 +19,7 @@ GB041,Are there several nouns (more than three) which are suppletive for number?
 GB042,Is there a productive overt morphological singular marker on nouns?,0,Feist 2015:137-139,,
 GB043,Is there a productive morphological dual marker on nouns?,0,Feist 2015:137,,
 GB044,Is there a productive morphological plural marker on nouns?,1,Feist 2015:137-138,There is a dedicated plural marker that appears in all cases except the nominative plural.,GB044
-GB046,Is there an associative plural marker for nouns?,1,Miestamo 2011: 121,,
+GB046,Is there an associative plural marker for nouns?,1,Miestamo 2011:121,,
 GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Feist 2015:126-127,,GB047
 GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Feist 2015:126-127,,GB048
 GB049,Is there a productive morphological pattern for deriving an object noun from a verb?,1,Feist 2015:126-127,,GB049
@@ -83,7 +83,7 @@ GB130,What is the pragmatically unmarked order of S and V in intransitive clause
 GB131,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,Feist 2015:234-238,,
 GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,1,Feist 2015:234-235,"Possible, but less common than OV (see also GB133).",
 GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,1,Feist 2015:234-235,See also GB132.,GB133
-GB134,Is the order of constituents the same in main and subordinate clauses?,?,"Feist 2015:236-237, 290-295",Both SOV and SVO can be attested.,
+GB134,Is the order of constituents the same in main and subordinate clauses?,1,"Feist 2015:236-237, 290-295",Both SOV and SVO can be attested.,
 GB135,Do clausal objects usually occur in the same position as nominal objects?,0,"Feist 2015:233-238, 290-295","Whereas clausal objects usually follow the verb, nominal objects usually precede the verb.",GB135
 GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,Feist 2015:234-238,,
 GB137,Can standard negation be marked clause-finally?,0,Feist 2015:228-231,,

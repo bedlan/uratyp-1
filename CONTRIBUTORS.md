@@ -56,4 +56,7 @@ ID|Subgroup|Language|UT|Values and examples|GB|Values and examples
 33|Mordvin|Moksha|✔|Niina Aasmäe,  Mariann Bernhardt|✔|Arja Hamari, Mariann Bernhardt, Denys Teptiuk
 34|Mari|Meadow Mari|✔|Jeremy Bradley|✔|Jeremy Bradley, Przemysław Podleśny
 35|Mari|Hill Mari|✔|Jeremy Bradley|✔|Jeremy Bradley, Denys Teptiuk, Marili Tomingas
+36|Saami|Kildin Saami|✔|Ilia Egorov|✔|Ilia Egorov
+37|Saami|Akkala Saami|✔|Ilia Egorov|✔|Ilia Egorov
+38|Saami|Ter Saami|✔|Ilia Egorov|✔|Ilia Egorov
 
