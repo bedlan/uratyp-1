@@ -35,7 +35,7 @@ ID|Subgroup|Language|UT|Values and examples|GB|Values and examples
 12|Permic|Komi-Zyrian|✔|Nikolay Kuznetsov|✔|Rogier Blokland, Nikolay Kuznetsov, Przemysław Podleśny
 13|Permic|Udmurt|✔|Svetlana Edygarova, Nikolay Kuznetsov|✔|Denys Teptiuk
 14|Permic|Komi-Permyak|✔|Nikolay Kuznetsov|✔|Nikolett F. Gulyás, Nikolay Kuznetsov
-15|Saami|Ume Saami|||✔|Ilja Egorov, Merit Niinemägi
+15|Saami|Ume Saami|||✔|Ilya Egorov, Merit Niinemägi
 16|Saami|North Saami|✔|Katri Hiovain-Asikainen, Jussi Ylikoski|✔|Merit Niinemägi
 17|Saami|Inari Saami|✔|Petter Morottaja, Helen Türk|✔|Merit Niinemägi
 18|Saami|Skolt Saami|✔|Markus Juutinen, Miika Lehtinen|✔|Maria Merilo
@@ -56,7 +56,7 @@ ID|Subgroup|Language|UT|Values and examples|GB|Values and examples
 33|Mordvin|Moksha|✔|Niina Aasmäe,  Mariann Bernhardt|✔|Arja Hamari, Mariann Bernhardt, Denys Teptiuk
 34|Mari|Meadow Mari|✔|Jeremy Bradley|✔|Jeremy Bradley, Przemysław Podleśny
 35|Mari|Hill Mari|✔|Jeremy Bradley|✔|Jeremy Bradley, Denys Teptiuk, Marili Tomingas
-36|Saami|Kildin Saami|✔|Ilia Egorov|✔|Ilia Egorov
-37|Saami|Akkala Saami|✔|Ilia Egorov|✔|Ilia Egorov
-38|Saami|Ter Saami|✔|Ilia Egorov|✔|Ilia Egorov
+36|Saami|Kildin Saami|✔|Ilya Egorov|✔|Ilya Egorov
+37|Saami|Akkala Saami|✔|Ilya Egorov|✔|Ilya Egorov
+38|Saami|Ter Saami|✔|Ilya Egorov|✔|Ilya Egorov
 
