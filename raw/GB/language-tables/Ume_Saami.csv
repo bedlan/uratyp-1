@@ -70,7 +70,7 @@ GB115,Is there a phonologically bound reciprocal marker on the verb?,0,von Gertt
 GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,von Gertten 2015:in passim,,
 GB117,Is there a copula for predicate nominals?,1,von Gertten 2015:112,,GB117
 GB118,Are there serial verb constructions?,0,von Gertten 2015:in passim,,
-GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,1,Schlachter 1958:XVIII,,GB119
+GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,1,Schlachter 1958:XVIII,,
 GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,0,von Gertten 2015:in passim,,
 GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,von Gertten 2015:109,,GB121
 GB122,Is verb compounding a regular process?,0,von Gertten 2015:in passim,,
@@ -89,7 +89,7 @@ GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,v
 GB137,Can standard negation be marked clause-finally?,0,von Gertten 2015:in passim,,
 GB138,Can standard negation be marked clause-initially?,0,von Gertten 2015:in passim,,
 GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,von Gertten 2015:90-91,,"GB139-1, GB139-2"
-GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,von Gertten 2015:109-111,,GB298
+GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,von Gertten 2015:109-111,,"GB140-1, GB140-2"
 GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,von Gertten 2015:in passim,,
 GB147,Is there a morphological passive marked on the lexical verb?,1,von Gertten 2015:117,,GB147
 GB148,Is there a morphological antipassive marked on the lexical verb?,0,von Gertten 2015:in passim,,
@@ -119,8 +119,8 @@ GB193,What is the order of adnominal property word and noun?,1,von Gertten 2015:
 GB196,Is there a masculine/feminine distinction in phonologically independent second person pronouns?,0,von Gertten 2015:in passim,,
 GB197,Is there a masculine/feminine distinction in phonologically independent first person pronouns?,0,von Gertten 2015:in passim,,
 GB198,Can an adnominal numeral agree with the noun in noun class/gender?,0,von Gertten 2015:in passim,,
-GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,von Gertten 2015:107,,
-GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,,,
+GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,von Gertten 2015:107,,GB203
+GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,"Schlachter 1958:39, 42",,
 GB250,Can predicative possession be expressed with a transitive ‘habeo’ verb?,1,Siegl 2017:13,,GB133
 GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,0,Siegl 2017:13,,
 GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Siegl 2017:13,,
@@ -150,7 +150,7 @@ GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxili
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,von Gertten 2015:in passim,,
 GB304,Can the agent be expressed overtly in a passive clause?,1,von Gertten 2015:117,,GB147
 GB305,Is there a phonologically independent reflexive marker?,1,von Gertten 2015:73,,GB305
-GB306,"Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other, two + two)?",?,,,
+GB306,"Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other, two + two)?",?,Schlachter 1958:59,,
 GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,von Gertten 2015:in passim,,
 GB312,Is there overt morphological marking on the verb dedicated to mood?,1,Schlachter 1958:XVIII; von Gertten 2015:82,,GB312
 GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,0,von Gertten 2015:in passim,,
@@ -165,7 +165,7 @@ GB321,Is there a large class of nouns whose noun class/gender is not phonologica
 GB322,Is there grammatical marking of direct evidence (perceived with the senses)?,0,von Gertten 2015:in passim,,
 GB323,"Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?",0,von Gertten 2015:in passim,,
 GB324,"Is there an interrogative verb for content interrogatives (who?, what?, etc.)?",0,von Gertten 2015:in passim,,
-GB325,Is there a count/mass distinction in interrogative quantifiers?,?,,,
+GB325,Is there a count/mass distinction in interrogative quantifiers?,?,Schlachter 1958:in passim,,
 GB326,Do (nominal) content interrogatives normally or frequently occur in situ?,0,von Gertten 2015:in passim,,
 GB327,Can the relative clause follow the noun?,1,von Gertten 2015:115-116,,GB134-2
 GB328,Can the relative clause precede the noun?,0,von Gertten 2015:115-116,,
@@ -189,7 +189,7 @@ GB422,Is there a postposed complementizer for complements of verbs of thinking a
 GB430,Can adnominal possession be marked by a prefix on the possessor?,0,von Gertten 2015:in passim,,
 GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,von Gertten 2015:in passim,,
 GB432,Can adnominal possession be marked by a suffix on the possessor?,1,von Gertten 2015:63-65,,GB065
-GB433,Can adnominal possession be marked by a suffix on the possessed noun?,1,von Gertten 2015:65,,
+GB433,Can adnominal possession be marked by a suffix on the possessed noun?,1,von Gertten 2015:65,"No examples provided, possibly rare.",
 GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,0,von Gertten 2015:in passim,,
 GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,0,von Gertten 2015:in passim,,
 GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,0,von Gertten 2015:in passim,,
