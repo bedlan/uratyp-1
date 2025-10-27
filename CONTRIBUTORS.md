@@ -59,5 +59,5 @@ ID|Subgroup|Language|UT|Values and examples|GB|Values and examples
 36|Saami|Kildin Saami|✔|Ilya Egorov|✔|Ilya Egorov
 37|Saami|Akkala Saami|✔|Ilya Egorov|✔|Ilya Egorov
 38|Saami|Ter Saami|✔|Ilya Egorov|✔|Ilya Egorov
-39|Samoyedic||✔||✔|Miina Norvik, Olesya Khanina
+39|Samoyedic|Tundra Enets|||✔|Miina Norvik, Olesya Khanina
 
