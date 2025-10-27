@@ -121,13 +121,13 @@ GB197,Is there a masculine/feminine distinction in phonologically independent fi
 GB198,Can an adnominal numeral agree with the noun in noun class/gender?,0,Erelt et al. 1995:in passim,,
 GB203,What is the order of the adnominal collective universal quantifier (all) and the noun?,1,Erelt and Metslang 2017:382-383,,GB203
 GB204,Do collective (all) and distributive (every) universal quantifiers differ in their forms or their syntactic positions?,1,"Erelt and Metslang 2017:127, 382-383",,"GB203, GB204"
-GB250,Can predicative possession be expressed with a transitive habeo verb?,1,Erelt and Metslang 2017:84-85,,
+GB250,Can predicative possession be expressed with a transitive habeo verb?,1,Erelt and Metslang 2017:84-85,,GB250
 GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,1,Erelt and Metslang 2017:311-316,,GB252
 GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Erelt and Metslang 2017:313-314,,
 GB254,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,0,Erelt and Metslang 2017:311-316,,
 GB256,Can predicative possession be expressed with a comitative/conjunctional construction?,0,Erelt and Metslang 2017:311-318,,
 GB257,Can polar interrogation be marked by intonation only?,1,Erelt and Metslang 2017:516,,GB257
-GB260,Can polar interrogation be indicated by a special word order?,1,Erelt and Metslang 2017:520-521,,
+GB260,Can polar interrogation be indicated by a special word order?,1,Erelt and Metslang 2017:520-521,,GB260
 GB262,Is there a clause-initial polar interrogative particle?,1,Erelt and Metslang 2017:518,,GB262
 GB263,Is there a clause-final polar interrogative particle?,1,Erelt and Metslang 2017:519-522,,GB263
 GB264,Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?,0,Erelt and Metslang 2017:519-520,,
@@ -177,7 +177,7 @@ GB334,Is there synchronic evidence for any element of a quinary numeral system?,
 GB335,Is there synchronic evidence for any element of a vigesimal numeral system?,0,Rätsep 2003,,
 GB336,Is there a body-part tallying system?,0,Rätsep 2003,,
 GB400,"Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?",1,Viht and Habicht 2019:355,,GB400
-GB401,Is there a class of patient-labile verbs?,1,Erelt and Metslang 2017:233,,
+GB401,Is there a class of patient-labile verbs?,1,Erelt and Metslang 2017:233,,"GB401-1, GB401-2"
 GB402,Does the verb for see have suppletive verb forms?,0,Erelt et al. 1995:131,,
 GB403,Does the verb for come have suppletive verb forms?,0,Erelt et al. 1995:131,,
 GB408,Is there any accusative alignment of flagging?,1,Erelt and Metslang 2017:258,,GB070
