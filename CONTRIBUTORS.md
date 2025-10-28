@@ -42,9 +42,9 @@ ID|Subgroup|Language|UT|Values and examples|GB|Values and examples
 19|Saami|South Saami|✔|Richard Kowalik|✔|Richard Kowalik, Merit Niinemägi
 20|Saami|Pite Saami|✔|Joshua Wilbur|✔|Joshua Wilbur, Mihkel Rünkla
 21|Saami|Lule Saami|✔|Olle Kejonen|✔|Olle Kejonen, Merit Niinemägi
-22|Samoyedic|Forest Enets|✔|Olesya Khanina|✔|
+22|Samoyedic|Forest Enets|✔|Olesya Khanina|✔|Miina Norvik, Olesya Khanina
 23|Samoyedic|Tundra Nenets|✔|Sven-Erik Soosaar, Irina Nikolaeva|✔|Denys Teptiuk
-24|Samoyedic|Nganasan|✔|Beáta Wagner Nagy|✔|
+24|Samoyedic|Nganasan|✔|Beáta Wagner Nagy|✔|Denys Teptiuk
 25|Samoyedic|Kamas|✔|Gerson Klumpp|✔|Gerson Klumpp, Marili Tomingas
 26|Samoyedic|South Selkup|✔|Josefina Budzisch, Gerson Klumpp|✔|Gerson Klumpp
 27|Hungarian|Hungarian|✔|Mariann Bernhardt, Márta Csepregi, Péter Pomozi|✔|Mariann Bernhardt, Nikolett F. Gulyás,  Mihkel Rünkla
