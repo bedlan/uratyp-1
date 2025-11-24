@@ -1,9 +1,9 @@
 ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
-GB020,"akte baernie aktem niejtem vööjni, men dihte niejte dam baerniem idtji vuejnieh",,"akte baernie akte-m niejte-m vööjn-i, men dihte niejte da-m baernie-m idtji vuejnie-h",one(=INDF) boy one(=INDF)-ACC girl-ACC see-PST.3SG but it(=DEF) girl it(=DEF)-ACC boy-ACC NEG.PST.3SG see-CNG,"A boy saw a girl, but the girl didn’t see the boy",Ylikoski 2022:126
+GB020,"akte baernie aktem niejtem vööjni, men dihte niejte dam baerniem idtji vuejnieh",,"akte baernie akte-m niejte-m vööjn-i, men dihte niejte da-m baernie-m idtji vuejnie-h",one(=INDF) boy one(=INDF)-ACC girl-ACC see-PST.3SG but it(=DEF) girl it(=DEF)-ACC boy-ACC NEG.PST.3SG see-CNG,"A boy saw a girl, but the girl didn’t see the boy",Ylikoski_South 2022:126
 GB024,golme baernieh lin gierestalleminie,,golme baernie-h lin gierestalle-minie,three boy-PL be.PST.3PL downhill.ski-PROG,Three boys were skiing,Kowalik 2023:182
 GB025,duennie gåetesne,,duennie gåete-sne,DEM.DIST.LOC house-LOC,In this house over there,Kowalik 2023:110
 GB027-1,manne edtjeb staarese minnedh mov aethjine,,manne edtje-b staare-se minnedh mov aethj-ine,1SG shall-1SG town-ILL visit.INF 1SG.GEN father-COM,I am going into town with my father,Kowalik 2023:169
-GB027-2,rijhkeraadijovesne jih maajehvååjnesisnie,,rijhkeraadijove-sne jih maajehvååjnesi-snie,national_radio-INE and television_broadcast-INE,on the national radio and television broadcasts,Ylikoski 2022:128
+GB027-2,rijhkeraadijovesne jih maajehvååjnesisnie,,rijhkeraadijove-sne jih maajehvååjnesi-snie,national_radio-INE and television_broadcast-INE,on the national radio and television broadcasts,Ylikoski_South 2022:128
 GB031,"monnah, dotnah",,"monnah, dotnah","1DU, 2DU","we (two), you (two)",Kowalik 2023:100
 GB035,"dihte, daate, doete, dohte",,"dihte, daate, doete, dohte","DEM, DEM.PROX, DEM.DIST1, DEM.DIST2","this, that, this (here), that (there), that (over there)",Kowalik 2023:107
 GB044,gärja- > gärjah,,gärja- > gärja-h,book > book-PL,book > books,Kowalik 2023:133
@@ -27,8 +27,8 @@ GB089,vaestedem,,vaestede-m,answer-1SG,I answer,Kowalik 2023:204
 GB099,arredh: leam,,arred-h: lea-m,be-INF: be-1SG,to be: I am,Kowalik 2023:215
 GB113,gajhkedh > gajhkedidh,,gajhke-dh > gajhke-di-dh,dry-INF > dry-TR-INF,to dry (intransitive & transitive) > to dry (transitive),Kowalik 2023:381
 GB117,dah leah tjeehpes lårhvoehbienjh,,dah leah tjeehpes lårhvoeh-bienj-h,DEM.PL be.3PL black shaggy-dog-PL,These are black shaggy dogs,Kowalik 2023:319
-GB121-1,Manne leam orre bijlem åasteme,,Manne leam orre bijle-m åaste-me.,1SG be.1SG new car-ACC buy-PST.PTCP,I have bought a new car,Ylikoski 2022:123
-GB121-2,Manne lim orre bijlem åasteme,,Manne lim orre bijle-m åaste-me.,1SG be.PST.1SG new car-ACC buy-PST.PTCP,I had bought a new car,Ylikoski 2022:123
+GB121-1,Manne leam orre bijlem åasteme,,Manne leam orre bijle-m åaste-me.,1SG be.1SG new car-ACC buy-PST.PTCP,I have bought a new car,Ylikoski_South 2022:123
+GB121-2,Manne lim orre bijlem åasteme,,Manne lim orre bijle-m åaste-me.,1SG be.PST.1SG new car-ACC buy-PST.PTCP,I had bought a new car,Ylikoski_South 2022:123
 GB126-1,jueskiedahkesne mielhkie gååvnese,,jueskiedahke-sne mielhkie gååvnese,fridge-LOC milk exist.3SG,There is milk in the fridge,Kowalik 2023:322
 GB126-2,Sveerjesne vaejsieh gååvnesh,,Sveerje-sne vaejsie-h gååvnes-h,Sweden-LOC moose-PL exist-3PL,There are moose in Sweden,Kowalik 2023:322
 GB130,aehtjie skååjjesne barka,,aehtjie skååjje-sne barka,father forest-LOC work.3SG,Father works in the forest,Kowalik 2023:306
@@ -39,8 +39,8 @@ GB135-1,de dihte saemie vööjni aktem ståapoem,,de dihte saemie vööjn-i akte
 GB135-2,manne vööjnim Piere dam daan aereden darjaji,,manne vööjn-i-m Piere dam daan aerede-n darja-ji,1SG see-PST-1PL Piere DEM.ACC DEM.PROX.GEN morning-GEN do-PST.3SG,I saw (that) Piere did this this morning,Kowalik 2023:338
 GB138,edtjin naan daaroenalmetjh mijjiem nöödth dannasinie mijjien ietniengiele staaran sjidti,,edtjin naan daaroe-n-almetj-h mijjiem nöödt-h dannasinie mijjien ietnie-n-giele staaran sjidt-i,NEG.PST.3PL some Scandinavian-GEN-people-PL 1PL.ACC reach-CNG therefore 1PL.GEN mother-GEN-language strong become-PST.3SG,"No Scandinavians reached us here, therefore our mother tongue was strong",Kowalik 2023:332
 GB139-1,Ih goh vuajneme igke tjuatseme?,,Ih goh vuajne-me igke tjuatse-me?,NEG.2SG PTCL see-PST.PTCP that snow-PST.PTCP,Haven’t you seen that it has snowed?,Kowalik 2023:362
-GB139-2,Aellede daan dovres gœrjam åestieh!,,Aelle-de daan dovres gœrja-m åestie-h!,NEG.IMP1-2PL this.GEN expensive book-ACC buy-CNG,Dont buy a book as expensive as this!,Ylikoski 2022:123
-GB139-3,Ollede daan dovres gœrjam åestieh!,,Olle-de daan dovres gœrja-m åestie-h!,NEG.IMP2-2PL this.GEN expensive book-ACC buy-CNG,Beware of buying a book as expensive as this!,Ylikoski 2022:123
+GB139-2,Aellede daan dovres gœrjam åestieh!,,Aelle-de daan dovres gœrja-m åestie-h!,NEG.IMP1-2PL this.GEN expensive book-ACC buy-CNG,Dont buy a book as expensive as this!,Ylikoski_South 2022:123
+GB139-3,Ollede daan dovres gœrjam åestieh!,,Olle-de daan dovres gœrja-m åestie-h!,NEG.IMP2-2PL this.GEN expensive book-ACC buy-CNG,Beware of buying a book as expensive as this!,Ylikoski_South 2022:123
 GB140-1,Laara ij leah baektesne ,,Laara ij lea-h baekte-sne ,Laara NEG.3SG be-CNG steep.mountain-INE,Laara is not on the mountain,SIKOR
 GB140-2,museumisnie ij lij vielie sijjie,,museumi-snie ij lij vielie sijjie,museum-INE NEG.3SG be.PST.CNG more space,There is not more space in the museum,SIKOR
 GB140-3,ij leah gujht då riekte almetje akte nåvsere,,ij lea-h gujht då riekte almetje akte nåvsere,NEG.3SG be-CNG certainly PTCL real human one ghost,"It is not a real human, it is a ghost",Kowalik 2023:357
