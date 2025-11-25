@@ -71,7 +71,7 @@ GB116,"Do verbs classify the shape, size or consistency of absolutive arguments 
 GB117,Is there a copula for predicate nominals?,1,Feist 2015:255-257,,GB117
 GB118,Are there serial verb constructions?,0,Feist 2015:200-232,,
 GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,1,Feist 2015:222-228,,GB119
-GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,?,Feist 2015: 219-221,,
+GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,?,Feist 2015:219-221,,
 GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,Feist 2015:217-219,"Present perfect requires the auxiliary verb to appear in the present tense, while the past perfect requires it to be in the past tense.",GB121
 GB122,Is verb compounding a regular process?,0,Feist 2015:133-136,,
 GB123,Are there verb-adjunct (aka light-verb) constructions?,0,Feist 2015:200-232,,
@@ -84,7 +84,7 @@ GB131,Is a pragmatically unmarked constituent order verb-initial for transitive 
 GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,1,Feist 2015:234-235,"Possible, but less common than OV (see also GB133).",
 GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,1,Feist 2015:234-235,See also GB132.,GB133
 GB134,Is the order of constituents the same in main and subordinate clauses?,1,"Feist 2015:236-237, 290-295",Both SOV and SVO can be attested.,
-GB135,Do clausal objects usually occur in the same position as nominal objects?,0,"Feist 2015:233-238, 290-295","Whereas clausal objects usually follow the verb, nominal objects usually precede the verb.",GB135
+GB135,Do clausal objects usually occur in the same position as nominal objects?,0,"Feist 2015:233-238, 290-295","Whereas clausal objects usually follow the verb, nominal objects usually precede the verb.",
 GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,Feist 2015:234-238,,
 GB137,Can standard negation be marked clause-finally?,0,Feist 2015:228-231,,
 GB138,Can standard negation be marked clause-initially?,0,Feist 2015:228-231,,
@@ -120,7 +120,7 @@ GB196,Is there a masculine/feminine distinction in phonologically independent se
 GB197,Is there a masculine/feminine distinction in phonologically independent first person pronouns?,0,Feist 2015:1609,,
 GB198,Can an adnominal numeral agree with the noun in noun class/gender?,0,Feist 2015:in passim,,
 GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,"Feist 2015:177, 192-194",,GB203
-GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,0,Feist 2015:192-194,,
+GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,Markus Juutinen (p.c. 2025),,"GB204-1, GB204-2"
 GB250,Can predicative possession be expressed with a transitive ‘habeo’ verb?,0,"Feist 2015:247-248, 255-257",,
 GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,1,Feist 2015:247-248,,GB252
 GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,"Feist 2015:247-248, 255-257",,
@@ -145,7 +145,7 @@ GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Feist 20
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,1,Feist 2015:228-231,,GB298
 GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,0,Feist 2015:228-231,,
 GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Feist 2015:in passim,,
-GB301,Is there an inclusory construction?,0,Feist 2015:in passim,,
+GB301,Is there an inclusory construction?,1,Markus Juutinen (p.c. 2025),,GB301
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Feist 2015:261-262,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Feist 2015:in passim,,
 GB304,Can the agent be expressed overtly in a passive clause?,0,Feist 2015:261-262,,
@@ -165,7 +165,7 @@ GB321,Is there a large class of nouns whose noun class/gender is not phonologica
 GB322,Is there grammatical marking of direct evidence (perceived with the senses)?,0,Feist 2015:in passim,,
 GB323,"Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?",0,Feist 2015:in passim,,
 GB324,"Is there an interrogative verb for content interrogatives (who?, what?, etc.)?",0,Feist 2015:268-270,,
-GB325,Is there a count/mass distinction in interrogative quantifiers?,?,"Feist 2015:112, 172, 192-194, 268-270",,
+GB325,Is there a count/mass distinction in interrogative quantifiers?,1,Markus Juutinen (p.c. 2025),,"GB325-1, GB325-2"
 GB326,Do (nominal) content interrogatives normally or frequently occur in situ?,0,Feist 2015:268-270,,
 GB327,Can the relative clause follow the noun?,1,Feist 2015:194-199,,GB327
 GB328,Can the relative clause precede the noun?,0,Feist 2015:194-199,,
