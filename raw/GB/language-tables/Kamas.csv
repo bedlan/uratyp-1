@@ -42,7 +42,7 @@ GB075,Are there postpositions?,1,Klumpp 2016:65,"The head of a postpositional ph
 GB079,"Do verbs have prefixes or proclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",0,Gerson Klumpp (p.c. 2022),,
 GB080,"Do verbs have suffixes or enclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",1,Klumpp 2016:57,,GB080
 GB081,Is there productive infixation in verbs?,0,Gerson Klumpp (p.c. 2022),,
-GB082,Is there overt morphological marking of present tense on verbs?,1,Klumpp 2016: 51-52,"The productive present tense marker in 19th- and 20th-century Kamas was -LiA. All verbs borrowed from Turkic form their present tense with this suffix. Its origin is most likely a construction involving the converb in -LAʔ and the copula verb i- in the zero tense (traditionally referred to as the ’aorist’ in Samoyedology), e.g., 1SG -LjA-m < *-LAʔ i-m. In addition to this form, there are three archaic present tense forms used only with specific verbs, as well as a newly developed durative present tense (continous form).",GB082
+GB082,Is there overt morphological marking of present tense on verbs?,1,Klumpp 2016:51-52,"The productive present tense marker in 19th- and 20th-century Kamas was -LiA. All verbs borrowed from Turkic form their present tense with this suffix. Its origin is most likely a construction involving the converb in -LAʔ and the copula verb i- in the zero tense (traditionally referred to as the ’aorist’ in Samoyedology), e.g., 1SG -LjA-m < *-LAʔ i-m. In addition to this form, there are three archaic present tense forms used only with specific verbs, as well as a newly developed durative present tense (continous form).",GB082
 GB083,Is there overt morphological marking on the verb dedicated to past tense?,1,Klumpp 2016:51-52,"The marker is -BiA in 1st and 2nd person singular, and -Bi elsewhere.",GB083
 GB084,Is there overt morphological marking on the verb dedicated to future tense?,1,Klumpp 2016:51-52,"The most frequent future tense marker is -LA. Less commonly, and only with transitive verbs, the marker-Lji occurs. The element -L- is the same as in the present tense marker -LiA and the converb ending -LAʔ, and most likely originates from the frequentative derivational marker -l.",GB084
 GB086,Is a morphological distinction between perfective and imperfective aspect available on verbs?,1,Klumpp 2016:59,"Many different Aktionsarts (e.g., durative, resultative) represented under perfective and imperfective aspect, see Klumpp 2016:59)","GB086-1, GB086-2"
@@ -70,7 +70,7 @@ GB115,Is there a phonologically bound reciprocal marker on the verb?,1,Klumpp 20
 GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,Gerson Klumpp (p.c. 2022),,
 GB117,Is there a copula for predicate nominals?,1,Klumpp 2016:67,"While in 3rd person present tense, zero-copula predication seems the default case, in 1st and 2nd person, zero-copula predication varies with predication with the help of the copula verb i- ‘be’.",GB117
 GB118,Are there serial verb constructions?,0,Gerson Klumpp (p.c. 2022),,
-GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,Klumpp 2016: 50-51,,
+GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,Klumpp 2016:50-51,,
 GB120,Can aspect be marked by an inflecting word ('auxiliary verb')?,1,Klumpp 2016:59-60,,GB120
 GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,0,Klumpp 2016:51,,
 GB122,Is verb compounding a regular process?,0,Gerson Klumpp (p.c. 2022),,
@@ -86,8 +86,8 @@ GB133,Is a pragmatically unmarked constituent order verb-final for transitive cl
 GB134,Is the order of constituents the same in main and subordinate clauses?,1,Künnap 1976:116,,GB134
 GB135,Do clausal objects usually occur in the same position as nominal objects?,1,Klumpp 2016:69,,GB135
 GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",1,Klumpp 2016:65,"SOV is the basic word order, with S in many cases realized by a zero pronoun. The order SVO occurs mainly in imperative clauses, but also in verum focus context.","GB136-1, GB136-2"
-GB137,Can standard negation be marked clause-finally?,0,Klumpp 2016: 65-66,,
-GB138,Can standard negation be marked clause-initially?,0,Klumpp 2016: 65-66,In focus context.,
+GB137,Can standard negation be marked clause-finally?,0,Klumpp 2016:65-66,,
+GB138,Can standard negation be marked clause-initially?,0,Klumpp 2016:65-66,In focus context.,
 GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,Klumpp 2016:53,,"GB139-1, GB193-2"
 GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",0,Klumpp 2016:53,,
 GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,Gerson Klumpp (p.c. 2022),,
@@ -97,7 +97,7 @@ GB149,Is there a morphologically marked inverse on verbs?,0,Gerson Klumpp (p.c. 
 GB150,Is there clause chaining?,1,Klumpp 2016:55,,GB150
 GB151,Is there an overt verb marker dedicated to signaling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (‘switch reference’)?,0,Gerson Klumpp (p.c. 2022),,
 GB152,Is there a morphologically marked distinction between simultaneous and sequential clauses?,1,Klumpp 2016:55-56,,"GB152-1, GB152-2"
-GB155,Are causatives formed by affixes or clitics on verbs?,1,Klumpp 2016:,The causative marker is -Tǝ.,GB155
+GB155,Are causatives formed by affixes or clitics on verbs?,1,Klumpp 2016:57,The causative marker is -Tǝ.,GB155
 GB156,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for ‘to say’?,0,Gerson Klumpp (p.c. 2022),,
 GB158,Are verbs reduplicated?,0,Gerson Klumpp (p.c. 2022),,
 GB159,Are nouns reduplicated?,0,Gerson Klumpp (p.c. 2022),,
@@ -191,6 +191,6 @@ GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,Kl
 GB432,Can adnominal possession be marked by a suffix on the possessor?,1,Klumpp 2016:67,,GB332
 GB433,Can adnominal possession be marked by a suffix on the possessed noun?,1,Klumpp 2016:46,,GB433
 GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,1,Klumpp 2016:50,"In Matthias Alexander Castrén’s mid-19th-century Kamas data, the marker -NTA could occur alone and denoted a (probably hypotetical) future tense, while the conditional/conjunctive meaning was contributed by the enclitic particle in its full form ize.",GB519
-GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,0,Klumpp 2016: 58-59,The productive means of specifying imperfective and perfective Aktionsarten in Kamas is the use of auxiliaries that follow a converbal main verb.,
+GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,0,Klumpp 2016:58-59,The productive means of specifying imperfective and perfective Aktionsarten in Kamas is the use of auxiliaries that follow a converbal main verb.,
 GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,0,Klumpp 2016:51-52,,
 GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,1,Klumpp 2016:48,,GB522
