@@ -5,7 +5,6 @@ UT003,Can finite verbs agree in number with the nominal object?,0,Gerson Klumpp 
 UT004,Can an adnominal property word agree with the noun in case?,0,Gerson Klumpp (p.c. 2020),,Occurs only in the case of inversion: Adj. N > N Adj.
 UT005,Are there cases that do not show agreement in terms of case?,1,Gerson Klumpp (p.c. 2020),UT005,There is no agreement in case or number in the NP.
 UT006,Can adpositions be used to mark core verbal arguments?,0,Gerson Klumpp (p.c. 2020),,
-UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,0,Gerson Klumpp (p.c. 2020),,
 UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,Gerson Klumpp (p.c. 2020),UT008,"A genitive subject with a participle + LOC + possessive suffix is expected. Unfortunately, in all attested instances (possessive suffixes, personal pronouns of the 1st/2nd persons) the genitive form is identical to the nominative."
 UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,Gerson Klumpp (p.c. 2020),,
 UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,Gerson Klumpp (p.c. 2020),"UT010-1, UT010-2",Object marking depends on the givenness.
@@ -34,9 +33,7 @@ UT032,Is there morphological marking on the verb used to express indirect comman
 UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,?,Gerson Klumpp (p.c. 2020),,Not attested.
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Gerson Klumpp (p.c. 2020),,
 UT035,Is there reflexive conjugation?,0,Gerson Klumpp (p.c. 2020),,
-UT036,Are there syntactically ditransitive verbs?,0,Gerson Klumpp (p.c. 2020),,
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Gerson Klumpp (p.c. 2020),,
-UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,Gerson Klumpp (p.c. 2020),,
 UT039,Can third person plural verb forms be used for impersonal reference?,1,Gerson Klumpp (p.c. 2020),UT039,
 UT040,Can second person singular verb forms be used in generic meaning?,?,Gerson Klumpp (p.c. 2020),,Not attested.
 UT042,Are clauses with only infinitive predicates possible?,1,Gerson Klumpp (p.c. 2020),UT042,Modal infinitive clauses as in Russian are attested in late Kamas.
@@ -58,7 +55,6 @@ UT057,"Are there nonfinite forms that can relativize at least some noncore parti
 UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,Gerson Klumpp (p.c. 2020),,
 UT059,Is there a future participle?,0,Gerson Klumpp (p.c. 2020),,
 UT060,Are there participles that can encode their subject by possessive suffixes?,1,Gerson Klumpp (p.c. 2020),"UT060, UT061",
-UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,1,Gerson Klumpp (p.c. 2020),UT061,Nominative and genitive forms of the 1st and 2nd person pronouns coincide.
 UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,Gerson Klumpp (p.c. 2020),,
 UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,Gerson Klumpp (p.c. 2020),"UT063-1, UT063-2",
 UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,Gerson Klumpp (p.c. 2020),"UT064-1, UT064-2","In nominalization, participles need a dummy noun of general meaning, e.g., kuza ‘man’ (Klumpp 2016:54)."
@@ -66,7 +62,6 @@ UT065,"Are there nonfinite forms that can be used both as participles and conver
 UT066,Is OV the neutral order in affirmative imperative clauses?,1,Gerson Klumpp (p.c. 2020),UT066,"SOV is the basic word order. The reverse order, VO, can occur in imperative clauses, but also in verum focus context. There are also examples of imperative at the end of a clause."
 UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,Gerson Klumpp (p.c. 2020),,
 UT068,Are there preverbs?,1,Gerson Klumpp (p.c. 2020),UT068,"There are preverbs like d'ürdəj ‘away’, saj ‘off’, etc."
-UT069,Are there verbal prefixes?,0,Gerson Klumpp (p.c. 2020),,
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Gerson Klumpp (p.c. 2020),,
 UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,1,Gerson Klumpp (p.c. 2020),UT071,
 UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,Gerson Klumpp (p.c. 2020),UT072,The accusative case is used.
@@ -78,7 +73,6 @@ UT077,Is case compounding possible?,0,Gerson Klumpp (p.c. 2020),,
 UT078,Are there case categories only found in pronouns?,0,Gerson Klumpp (p.c. 2020),,
 UT079,Does the numeral modification of a noun have an effect on its case selection?,0,Gerson Klumpp (p.c. 2020),,
 UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,Gerson Klumpp (p.c. 2020),UT080,
-UT081,Is there a genitive case that has an affix?,1,Klumpp 2016:44,UT081,The genitive affix is -(ǝ)n.
 UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,Gerson Klumpp (p.c. 2020),,
 UT083,Is there a terminative case?,0,Gerson Klumpp (p.c. 2020),,
 UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,Gerson Klumpp (p.c. 2020),,"Caritive -žət is rather a derivation, not a case."
@@ -91,7 +85,7 @@ UT090,Is there case syncretism of location and source marking?,0,Gerson Klumpp (
 UT091,Are there two sets of local cases?,0,Gerson Klumpp (p.c. 2020),,
 UT092,Is there a third set of local cases?,0,Gerson Klumpp (p.c. 2020),,
 UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Gerson Klumpp (p.c. 2020),UT093,There is an instrumental case with the ending -Śǝʔ.
-UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Gerson Klumpp (p.c. 2020),,There is no prolative in Kamas.
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Gerson Klumpp (p.c. 2020),,
 UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,0,Gerson Klumpp (p.c. 2020),,
 UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Gerson Klumpp (p.c. 2020),,
 UT097,Is there a separate morphological marker for expressing equative meaning?,0,Gerson Klumpp (p.c. 2020),,
