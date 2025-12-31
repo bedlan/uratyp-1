@@ -1,7 +1,6 @@
 ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
 UT004,sūrsõ knaššõs nīnõs,,sūr-sõ	knašš-õs	nīn-õs,big-INE	beautiful-INE	town-INE,in a beautiful big town,
 UT005,knaš neitsõn,,knaš	neits-õn,beautiful.GEN	girl-DAT,to a beautiful girl,
-UT007,Vanāǟma vȯstīz kalāmī’ed kä’dst lešti,,Vanāǟma	vȯst-īz	kalāmī’e-d	kä’dst	lešti,grandmother	buy-PST.3SG	fisherman-PL.GEN	from	flatfish.PL.PRT,Grandmother bought some flatfish from the fishermen,
 UT011-1,Ta mīž eņtš laps järā,,Ta	mī-ž	eņtš	laps	järā,3SG	sell-PST.3SG	own.GEN	child.GEN	away,S/he sold his/her child,
 UT011-2,Mī’ed bõuvõbõd su’dmaļtõ,,Mī’e-d bõuvõ-bõd su’dmaļ-tõ,man-PL	build-3PL	mill-PRT,Men are building a mill,
 UT012-1,"Võtā eņtš kirrõ, li tubbõ",,"Võtā	eņtš	kirrõ,	li	tubbõ",take.IMP.2SG	own.GEN	ax.GEN	go.IMP.2SG	room.ILL,Take your ax and go inside,Stalte 2011
@@ -29,7 +28,7 @@ UT050-1,ma lugūb,,ma lugū-b,1SG read-1SG,I read,
 UT050-2,ma äb lu’g,,ma äb lu’g,1SG NEG.PRS.1SG read.CNG,I don’t read,
 UT051,"Tēg lǟt umbõ, äb tundõs äb kēridi äb Jumal joudõ",,"Tēg	lǟ-t	umbõ,	äb	tund-õs	äb	kēr-idi	äb	Jumal	joud-õ",2PL	go.2PL	dead_end.ILL	NEG	know-CVB	NEG	Scripture-PL.PRT	NEG	God.GEN	power.PRT,"You are mistaken, not understanding the Scriptures nor the power of God","ŪT, Matt 22:29"
 UT053,tīemõt tīe,,tīe-mõt	tīe,do-SUP.ABE	work,undone work,
-UT054,sie reit si’nnõn sǭb iera’ltõt jalgõt,,sie	reit	si’nn-õn	sǭ-b	iera’l-tõt	jalg-õt,his	time	2SG-DAT	get-3SG	cut_off-PASS.PST.PTCP	leg-PRT,This time your leg will be cut off,Mägiste 1964
+UT054,sie reit si’nnõn sǭb iera’ltõt jalgõ,,sie reit si’nn-õn sǭ-b iera’l-tõt jalg-õ,his	time	2SG-DAT	get-3SG	cut_off-PASS.PST.PTCP	leg-PRT,This time your leg will be cut off,Mägiste 1964
 UT055-1,lu'ggõn,,lu'gg-õn,read-ACT.PST.PTCP,,
 UT055-2,lugdõd,,lug-dõd,read.PASS.PST.PTCP,,
 UT057,pan-dõb pāika,,pan-dõb pāika,put-PASS.PRS.PTCP	place,a place where one can put things,Kettunen 1938:LXVIII
@@ -37,7 +36,6 @@ UT064-1,a'iliji,,a'ili-ji,run-AG.NMLZ,a runner,
 UT064-2,a'iliji i'bbi,,a'ili-ji	i'bbi,run-AG.NMLZ horse,a running horse (lit. ‘a runner horse’),
 UT067,Alā tīedõ kartõ,,Alā	tīedõ	kartõ,IMP.NEG.2SG	work-PRT	afraid.IMP.CNG,Don't be afraid of work,
 UT068,mǭ’zõ tappõ,,mǭ’zõ	tappõ,down	kill.INF,to kill,Viitso and Ernštreits 2012
-UT069,sakutsõnd,,sa-kutsõnd,PFX-call.ACT.PST.PTCP,have called together,
 UT071-1,laps pie’zzimi,,laps pie’zzi-mi,child.GEN	wash-NMLZ,washing the child / child's washing,
 UT071-2,laps pipā,,laps	pipā,child.GEN	doll,a child's doll,
 UT072-1,sīlda parāntimi,,sīlda parānti-mi,bridge.GEN repair-NMLZ,repairing of the bridge,
@@ -46,14 +44,13 @@ UT073,pūd attõ sūrd,,pū-d	attõ	sūr-d,tree-PL	be.3PL	big-PL,the trees are b
 UT076,si'zzõl : sizāl : sizāld,,si'zzõl : sizāl : sizāld,into.ALL : in.ADE : in.ABL,into : inside : from inside,
 UT079,ikš kalā : kakš ka'llõ,,ikš kalā : kakš ka'llõ,one.NOM fish.NOM : two.NOM fish.PRT,one fish: two fish,
 UT082,Ānda sīe minnõn!,,Ānda	sīe	minn-õn!,give.IMP.2SG	this.GEN	1SG-DAT,Give it to me!,
+UT084,bäs pǟtõ,,bäs pǟ-tõ,without head-ABE,without a head,
 UT086,mõtsõ,,mõts-õ,forest-ILL,into the forest,
 UT087,mõtsās,,mõtsā-s,forest-INE,in the forest,
 UT088,mõtsāst,,mõtsā-st,forest-ELA,from the forest,
 UT089,pȭrandõl,,pȭrand-õl,floor-ALL/ADE,"to the floor, on the floor",
 UT093-1,kǭjõks,,kǭjõ-ks,spoon-INS,with a spoon,
 UT093-2,lapsõks,,lapsõ-ks,child-INS,with a child,
-UT095-1,Di’drõk kōgiņ perīmī’ekõks i’z ūo,,Di’drõk kōgiņ perīmī’e-kõks i’z ūo,Di'drõk long master-INS NEG.PST.3SG be.CNG,Di'drõk was not  master for long,
-UT095-2,perīmī’ekõks,,Perīmī’e-kõks,master-INS,with	a	master,
 UT107,"ne ūškad, kis...",,"ne ūška-d, kis...",these	snake-PL	who,the snakes that…,Viitso and Ernštreits 2012
 UT108,"suodākuoigīd, kis…",,suodākuoigī-d kis…,war_ship-PL who,warships that…,Stalte 2011
 UT109,se u’m pī’lõn ne’i vāgiž,,se	u’m	pī’lõ-n	ne’i	vāgiž,it	be.3SG	stand-ACT.PST.PTCP.SG	so	still,S/he (lit. it) has been standing so still,LLC
