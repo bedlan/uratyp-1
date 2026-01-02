@@ -17,7 +17,7 @@ UT016,Is there grammatical marking of habituality?,0,Petter Morottaja (p.c. 2020
 UT017,Is there grammatical marking of frequentativity?,1,Petter Morottaja (p.c. 2020),"UT017-1, UT017-2, UT017-3",It is possible to derive frequentative verbs from other verbs with various derivative markers.
 UT018,Is there grammatical marking of progressivity?,1,Petter Morottaja (p.c. 2020),UT018,
 UT019,Is it common to use a verb in the present tense for future time reference?,1,Petter Morottaja (p.c. 2020),UT019,There is no future tense in Inari Saami. The present tense can be used to mean something that will happen in the future.
-UT020,Is there grammatical marking of the immediate future?,1,Petter Morottaja (p.c. 2020),UT020,"Depending on the verb aspect, the mmediate future reading is possible."
+UT020,Is there grammatical marking of the immediate future?,1,Petter Morottaja (p.c. 2020),UT020,"Depending on the verb aspect, the immediate future reading is possible."
 UT021,Is there grammatical marking of pluperfect?,1,Petter Morottaja (p.c. 2020),UT021,
 UT022,Can aspect be expressed overtly in the negative marker?,0,Petter Morottaja (p.c. 2020),,
 UT023,Can tense be expressed overtly in the negative marker?,0,Petter Morottaja (p.c. 2020),,
@@ -47,12 +47,12 @@ UT049,Does existential negation have a special negator?,0,Petter Morottaja (p.c.
 UT050,Can standard negation be asymmetric in the present tense?,1,Petter Morottaja (p.c. 2020),"UT050-1, UT050-2",
 UT051,Can non-finite dependent clauses use the standard negation construction?,0,Petter Morottaja (p.c. 2020),,
 UT052,Is there a special negator that combines with non-finite forms?,0,Petter Morottaja (p.c. 2020),,
-UT053,Are there special negative non-finite forms?,1,Petter Morottaja (p.c. 2020),UT053,"There is also a caritive derivation for nouns and also for verbs, e.g. viste > viste-ttem 'house - houseless', jäämmiđ > jämi-mettum 'to die - never dying'. There is also an abessive case, meaning 'without': viste : viste-ttáá 'house' : 'without house'."
+UT053,Are there special negative non-finite forms?,1,Petter Morottaja (p.c. 2020),UT053,"There is also a caritive derivation for nouns and also for verbs, e.g., viste > viste-ttem 'house - houseless', jäämmiđ > jämi-mettum 'to die - never dying'. There is also an abessive case, meaning 'without': viste : viste-ttáá 'house' : 'without house' (see also UT084)."
 UT054,Is there an impersonal passive construction?,1,Petter Morottaja (p.c. 2020),,
 UT055,"Are there non-finite forms specializing in the relativization of particular core participants, e.g., subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Petter Morottaja (p.c. 2020),"UT055-1, UT055-2, UT055-3",luuhâm ja luhhum are the same form of a participle but from a different verb (luuhâđ 'to read' and luhhuđ 'to be read').
 UT056,Are there non-finite forms that can relativize at least all core participants (S/A/P) and possibly also some non-core participants?,0,Petter Morottaja (p.c. 2020),,
 UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all or some of the core participants?,0,Petter Morottaja (p.c. 2020),,
-UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,Petter Morottaja (p.c. 2020),UT058,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,Valtonen et al. 2022:190,UT058,The negative participle is a counterpart for participles and converbs.
 UT059,Is there a future participle?,0,Petter Morottaja (p.c. 2020),,
 UT060,Are there participles that can encode their subject with possessive suffixes?,0,Petter Morottaja (p.c. 2020),,
 UT062,Are there participles that must agree with the nouns they modify in case and number?,0,Petter Morottaja (p.c. 2020),,
@@ -97,7 +97,7 @@ UT102,Can the possessor in the attributive construction be encoded with the nomi
 UT103,Is non-singular possession marked in the possessive declension?,1,Petter Morottaja (p.c. 2020),"UT103-1, UT103-2",In certain cases there is a difference.
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Petter Morottaja (p.c. 2020),,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,Petter Morottaja (p.c. 2020),,
-UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Petter Morottaja (p.c. 2020),UT106,
+UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Morottaja and Morottaja (in preparation),UT106,
 UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Petter Morottaja (p.c. 2020),,
 UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Petter Morottaja (p.c. 2020),,
 UT109,Can a demonstrative stem be used in the function of a pronoun with a 3Sg human referent?,1,Petter Morottaja (p.c. 2020),UT109,tot 'it' can be used instead of sun 's/he'.

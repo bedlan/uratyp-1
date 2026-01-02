@@ -1,6 +1,6 @@
 ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
 UT005,tõn tääʹlv mon leʹjjem vuäǯǯam eeʹjjest ođđ sââʹvǩid,,tõn tääʹlv mon leʹjjem vuäǯǯam eeʹjjest ođđ sââʹvǩid,DIST.SG.GEN winter.SG.GEN 1SG.NOM be.PST.1SG receive.PST.PTCP father.SG.LOC new ski.PL.ACC,that winter I had received new skis from father,Feist 2015:243
-UT008-1,suu tieʹđǩâni,,suu	tieʹđǩâni,3SG.GEN	know.V.ABE,without him/her knowing,
+UT008-1,suu tieʹđǩâni,,suu	tieʹđǩâni,3SG.GEN know.CVB.NEG,without him/her knowing,
 UT008-2,suu lookkâm ǩeʹrjj,,suu	lookkâm	ǩeʹrjj,3SG.GEN	read.PST.PTCP	book.SG.NOM,a book that s/he has read,
 UT014,son-a pâi kuuskõõzzid ǩeäčč da njorgg,,son-a	pâi	kuuskõõzzid	ǩeäčč	da	njorgg,3SG.NOM-EMP	only	aurora.PL.ACC	watch.PRS.3SG	and	whistle.PRS.3SG,he just watches the northern lights and whistles,
 UT017-1,vuõjjâd : vuõjeed,,vuõjjâd	:	vuõjeed,,swim : swim around,
@@ -27,14 +27,14 @@ UT054,Tõin	võnnsin miʹjjid uiddeeš täʹlvv-siʹjdde,,Tõin	võnnsin miʹjji
 UT055-1,lookki  päʹrnn,,lookki	päʹrnn,read.PRS.PTCP boy.SG.NOM,a boy that reads,
 UT055-2,lookkâm päʹrnn,,lookkâm	päʹrnn,read.PST.PTCP boy.SG.NOM,a boy that has read,
 UT055-3,lokkum ǩeʹrjj,,lokkum	ǩeʹrjj,read.PASS.PTCP	book,book that has been read,
-UT058,Ǩeʹrjj lij looǥǥǩani,,Ǩeʹrjj	lij	looǥǥǩani,book	be.PRS.3SG	read.ABE.PTCP,a book that hasn't been read,
+UT058,Mâŋŋa nuʹt tieʹđkani puäʹtte suõnid pââʹnned,,Mâŋŋa nuʹt tieʹđkani puäʹtte suõnid pââʹnned,later that.way know.CVB.NEG come.3PL thread.PL.ACC spin.INF,"Later, that way, without knowing, they came to act as match makers (lit. Came to spin threads)",Koponen et al. 2022:216
 UT064-1,leʹjje takai jooʹtti oummu,,leʹjje	takai	jooʹtti	oummu,be.PST.3PL habitual wander.PRS.PTCP person.PL.NOM,they were habitual wandering people,Feist 2010:213-214
 UT064-2,jooʹtti,,jooʹtti,wander.PRS.PTCP,habitual wanderer,Feist 2010:213-214
 UT071-1,suu leeiʹb poorrmõš,,suu	leeiʹb	poorrmõš,3SG.GEN	bread.SG.GEN	eating,his/her eating of bread,
 UT071-2,suu pess,,suu	pess,3SG.GEN	gun.NOM.SG,his/her gun,
 UT073,niõđ lie ääʹrj,,niõđ	lie	ääʹrj,girl.PL.NOM	PRS.3PL	shy.PL.NOM,the girls are shy,
 UT074,cueʹǩǩ : cueʹjjab : cueʹjjmõs,,cueʹǩǩ	:	cueʹjjab	:	cueʹjjmõs,shallow	:	shallow-COMP	:	shallow-SUPL,shallow : shallower : shallowest,
-UT075,âlnnan : ââlnad : ââʹlnes,,âlnnan	:	ââlnad	:	ââʹlnes,,on me : on you : on him/her,
+UT075,âlnnan : ââlnad : ââʹlnes,,âlnnan : ââlnad : ââʹlnes,,on me : on you : on him/her,
 UT079-1,mon veʹt pukkveezz leʹjjem lååi peiʹvved,,mon	veʹt	pukkveezz	leʹjjem	lååi	peiʹvved,1SG.NOM EMP in.all be.PST.1SG ten.SG.NOM day.PRT,altogether I was there for ten days!,Feist 2010:249
 UT079-2,nellj oummu mõʹnne tuõddra,,nellj	oummu	mõʹnne	tuõddra,four.SG.NOM	men.SG.GEN	go.PST.3PL	fell.SG.ILL,four men went to the fell,Feist 2010:223
 UT084,võõnâs ij jååʹđ ääirtää,,võõnâs	ij	jååʹđ	ääirtää,boat.SG.NOM	NEG.3SG	travel.NEG	oar.SG.ABE,the boat won't move without an oar,

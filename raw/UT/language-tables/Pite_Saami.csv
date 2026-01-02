@@ -11,7 +11,7 @@ UT010,"Do characteristics of the object referent (topicality, animacy, definiten
 UT011,Does object marking correlate with aspectuality?,0,Joshua Wilbur (p.c. 2020),,
 UT012,Does object marking depend on the verb conjugation form?,0,Joshua Wilbur (p.c. 2020),,
 UT013,Is there differential subject marking?,0,Joshua Wilbur (p.c. 2020),,
-UT014,"Can S and A be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",1,Joshua Wilbur (p.c. 2020),UT014,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",1,Joshua Wilbur (p.c. 2020),,
 UT015,"Can S and P be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",0,Joshua Wilbur (p.c. 2020),,
 UT016,Is there grammatical marking of habituality?,0,Joshua Wilbur (p.c. 2020),,
 UT017,Is there grammatical marking of frequentativity?,1,Joshua Wilbur (p.c. 2020),"UT017-1, UT017-2",
@@ -60,7 +60,7 @@ UT063,Are there non-finite forms that can be used both as participles and action
 UT064,Are there non-finite forms that can be used both as participles and agentive nominalizations?,0,Joshua Wilbur (p.c. 2020),,They are different: jåhtem 'migrating' vs. jåhtej 'migrator'.
 UT065,Are there non-finite forms that can be used both as participles and converbs?,0,Joshua Wilbur (p.c. 2020),,
 UT066,Is OV the neutral order in affirmative imperative clauses?,0,Joshua Wilbur (p.c. 2020),,
-UT067,Is it pragmatically neutral to place an object between the negative marker and the main verb in imperative constructions?,1,Joshua Wilbur (p.c. 2020),UT067,
+UT067,Is it pragmatically neutral to place an object between the negative marker and the main verb in imperative constructions?,1,Joshua Wilbur (p.c. 2020),,
 UT068,Are there preverbs?,1,Joshua Wilbur (p.c. 2020),UT068,They can also occur in other positions and function.
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Wilbur 2014:202,,The diminutive verbalizing suffix -tj expresses doing the activity referred to by the verbal base a little bit or to a limited extent.
 UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,?,Joshua Wilbur (p.c. 2020),,No significant evidence in my corpus to be sure.
@@ -75,7 +75,7 @@ UT079,Does the numeral modification of a noun have an effect on its case selecti
 UT080,Is the singular form of the noun also used with numerals greater than 1?,0,Joshua Wilbur (p.c. 2020),,
 UT082,Is there a dedicated case that expresses indirect object/recipient/goal (different from a local case)?,0,Joshua Wilbur (p.c. 2020),,
 UT083,Is there a dedicated case that expresses a terminative meaning?,0,Joshua Wilbur (p.c. 2020),,
-UT084,Is there a dedicated case that expresses the absence of a referent (abessive)?,1,Joshua Wilbur (p.c. 2020),,"Abessive has very few evidence in the corpus outside of elicitation sessions, and even then speakers are inconsistent and uncertain. But historically it existed (cf. Wilbur 2014:97-98)."
+UT084,Is there a dedicated case that expresses the absence of a referent (abessive)?,1,Wilbur 2014:90-91,,"Abessive has very few evidence in the corpus outside of elicitation sessions, and even then speakers are inconsistent and uncertain. But historically it existed (cf. Wilbur 2014:97-98)."
 UT085,Is there a dedicated case that expresses motion along or by a referent (prolative)?,0,Joshua Wilbur (p.c. 2020),,
 UT086,Is there a locative case that expresses goal?,1,Joshua Wilbur (p.c. 2020),UT086,
 UT087,Is there a locative case that expresses location?,1,Joshua Wilbur (p.c. 2020),UT087,

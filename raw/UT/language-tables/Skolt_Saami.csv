@@ -3,7 +3,7 @@ UT001,Is there a distinct category of dual for verbal agreement with a dual subj
 UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT003,Can finite verbs agree in number with a nominal object?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT004,Can an adnominal property word agree with the noun in case?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
-UT005,Is there non-agreement between an adnominal property word and the head noun? ,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),UT005,Adjectives don't (usually) agree with the noun case at all.
+UT005,Is there non-agreement between an adnominal property word and the head noun? ,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),UT005,Adjectives do not (usually) agree with the noun case at all.
 UT006,Can adpositions be used to mark core verbal arguments?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT008,Can non-finite clauses use a special means for core argument (S/A) marking?,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),"UT008-1, UT008-2",
 UT009,Can non-finite clauses use a special means for core argument (P) marking?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
@@ -52,7 +52,7 @@ UT054,Is there an impersonal passive construction?,1,Markus Juutinen and Miika L
 UT055,"Are there non-finite forms specializing in the relativization of particular core participants, e.g., subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Markus Juutinen and Miika Lehtinen (p.c. 2020),"UT055-1, UT055-2, UT055-3",
 UT056,Are there non-finite forms that can relativize at least all core participants (S/A/P) and possibly also some non-core participants?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all or some of the core participants?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
-UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,Markus Juutinen and Miika Lehtinen (p.c. 2020),UT058,"In some varieties it is possible to say e.g., puuđkani jieʹllem (end.ABE.PTCP life.SG.NOM) 'a life without an end'."
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,"Koponen et al. 2022:210, 215",UT058,
 UT059,Is there a future participle?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT060,Are there participles that can encode their subject with possessive suffixes?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT062,Are there participles that must agree with the nouns they modify in case and number?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
@@ -97,7 +97,7 @@ UT102,Can the possessor in the attributive construction be encoded with the nomi
 UT103,Is non-singular possession marked in the possessive declension?,1,Feist 2010:175,UT103,
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
-UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Feist 2010:325,UT106,
+UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,"Feist 2015:172, 198",UT106,"Probably yes, but further research is needed."
 UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Markus Juutinen and Miika Lehtinen (p.c. 2020),,
 UT109,Can a demonstrative stem be used in the function of a pronoun with a 3Sg human referent?,1,Markus Juutinen and Miika Lehtinen (p.c. 2020),UT109,
