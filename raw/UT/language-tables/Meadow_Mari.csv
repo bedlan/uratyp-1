@@ -11,7 +11,7 @@ UT010,"Do characteristics of the object referent (topicality, animacy, definiten
 UT011,Does object marking correlate with aspectuality?,0,Riese et al. 2019:70,,
 UT012,Does object marking depend on the verb conjugation form?,0,Jeremy Bradley (p.c. 2020),,
 UT013,Is there differential subject marking?,0,Jeremy Bradley (p.c. 2020),,
-UT014,"Can S and A be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",1,corp,UT014,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",1,Meadow Mari corpus,UT014,
 UT015,"Can S and P be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",0,Jeremy Bradley (p.c. 2020),,
 UT016,Is there grammatical marking of habituality?,1,"Riese et al. 2019:222-228, 286, 292","UT016-1, UT016-2","Compound past tenses I & II (formed by present-tense form followed by ‘to be’ in the third person singular, either in simple past I or II) are habitual (the distinction between them is evidential). Also, aspectual auxiliaries (light verbs) илаш ‘to live’ and шогалаш ‘to stand up’ can be coupled with a converb and give the resulting pairing a habitual value."
 UT017,Is there grammatical marking of frequentativity?,1,"Riese et al. 2019:389-390, 290","UT017-1, UT017-2","Numerous defivational suffixes, descending by their productivity: v-л [-l]: лӱмдаш [lymdɑʃ] ‘to name’ → лӱмдылаш [lymdəlɑʃ] ‘to call names’, -ешт [-eʃt]: колаш [kolɑʃ] ‘to hear’ → колышташ [koləʃtɑʃ] ‘to listen’, -кал [-kɑl]: ойыраш [ojərɑʃ] ‘to separate’ → ойыркалаш [ojərkɑlɑʃ] ‘to sort’, -ед [-ed]: пуаш [puɑʃ] ‘to give’ → пуэдаш [puedɑʃ] ‘to hand out’. Also auxiliary опташ ‘to place (several items)’."
@@ -38,7 +38,7 @@ UT039,Can the 3rd person plural verb form and impersonal (passive) verb form be 
 UT040,Are 2nd singular verb forms commonly used with a generic meaning?,1,Riese et al. 2019:434,UT040,
 UT042,Can an infinitival verb form be used in a directive function?,1,Jeremy Bradley (p.c. 2020),"UT042-1, UT042–2","Exclamative clauses and in sentences used to express a desire can have bare infinitive predicates (Riese et al. 2019:255). In negation, the nominalization is used in negative existentical clauses to indicate emphatic negation (Riese et al. 2019:379)."
 UT043,Can verbs in purposive subordinate clauses be in the bare infinitive form?,1,Riese et al. 2019:255,UT043,
-UT044,Are there sentences without overt verbal arguments?,1,MED: кылмыкташ,UT044,"This typically happens in Mari (only) with causative verb forms. The verbs meaning ‘rain’, ‘snow’ , and ‘blow’ (wind) require a subject."
+UT044,Are there sentences without overt verbal arguments?,1,Riese et al. 2014: кылмыкташ,UT044,"This typically happens in Mari (only) with causative verb forms. The verbs meaning ‘rain’, ‘snow’ , and ‘blow’ (wind) require a subject."
 UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,0,Riese et al. 2019:295-296,,"Copula is not needed, e.g. тудо пиалан [tudo piɑlɑn] (3SG happy) 's/he is happy'; it is, however, possible to use  one."
 UT046,Is a copula commonly used for predicate nominals in the past tense?,1,Riese et al. 2019:296-301,UT046,
 UT047,Can locative constructions commonly occur without a copula?,1,Riese et al. 2019:305,UT047,
@@ -91,22 +91,22 @@ UT096,"Is there a case that expresses the result of a change (translative), whic
 UT097,Is there morphological marking dedicated to the expression of equativity?,1,Riese et al. 2019:91-93,UT097,"“The comparative case is used to express similarity, likeness and can usually be translated into English as ‘like something/someone’, ‘as something/someone’. The object/person with which a noun in the comparative is compared can be used in varying syntactic functions in the sentence: subject, object, etc.”."
 UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Riese et al. 2019:294,,The dative is used to mark benefactors.
 UT099,Is there (in addition to the basic declension) a declension different from a possessive declension? ,0,Jeremy Bradley (p.c. 2020),,
-UT100,Is it possible to use the singular with paired body parts/clothing/accessories that accompany them?,1,Riese et al. 2019:56; MED,"UT100-1, UT100-2",
+UT100,Is it possible to use the singular with paired body parts/clothing/accessories that accompany them?,1,Riese et al. 2019:56; Riese et al. 2014,"UT100-1, UT100-2",
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Riese et al. 2019:61-68,,
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Riese et al. 2019:61-68,,"It should be noted that inanimate nouns traditionally did not occur in the genitive at all; inanimate nouns serving as a modification do occur in the nominative (Riese et al. 2019:61-68), e.g. Вена университет [Venɑ universitet] (Vienna.NOM university) University of Vienna’ (see www.mari-language.com)."
 UT103,Is non-singular possession marked in the possessive declension?,1,Riese et al. 2017:516,"UT103-1, UT103-2",
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,1,Riese et al. 2017:125,UT104,"“Like the possessive suffix third person singular […] this possessive suffix can beused as a determining element, though its usage is more typical of folklore texts” (Riese et al. 2017:125)."
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,1,Riese et al. 2017:125,UT105,The possessive suffix is used to indicate a rreference to something previously discussed or otherwise salient to the conversation. It is especially commonly used to refer to a subset of a larger whole that is salient.
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Riese et al. 2019:148,"UT106-1, UT106-2",
-UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,MED,,
-UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,MED,,
-UT109,Can a demonstrative stem be used in the function of a pronoun with a 3Sg human referent?,1,Riese et al. 2017:333; MED,"UT109-1, UT109-2",
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Riese et al. 2014,,
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Riese et al. 2014,,
+UT109,Can a demonstrative stem be used in the function of a pronoun with a 3Sg human referent?,1,Riese et al. 2017:333; Riese et al. 2014,"UT109-1, UT109-2",
 UT110,Are there possessive suffixes the position of which can vary in relation to case/number suffixes?,1,Riese et al. 2017:516,"UT110-1, UT110-2",The “degrees of freedom” depend on the case.
 UT111,Is the order of number and case suffixes the same across the paradigm?,1,Riese et al. 2017:516,,There are no indications which would show that Cx before Nx is possible.
-UT112,Are there different words for mother’s brother and father’s brother?,1,Riese et al. 2017:70-72; MED,"UT112-1, UT112-2, UT112-3",
-UT113,Are there different words for younger and older relatives for relations other than siblings?,1,Riese et al. 2017:70-72; MED,"UT113-1, UT113-2, UT113-3, UT113-4, UT113-5",
-UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,1,Riese et al. 2017:243; MED,"UT114-1, UT114-2, UT114-3, UT114-4",
-UT115,Is there a distinction for both 'warm' and 'cold' depending on whether reference is to weather or the temperature of objects?,0,MED,,"The same word is used in both cases, e.g. шокшо игечe [ʃokʃo iget͡ɕe] 'hot weather' - шокшо вӱд [ʃokʃo vyd] ‘hot water’; йӱштӧ игечe [jyʃtø iget͡ɕe] ‘cold weather’ - йӱштӧ вӱд [jyʃtø vyd] ‘cold water’."
+UT112,Are there different words for mother’s brother and father’s brother?,1,Riese et al. 2017:70-72; Riese et al. 2014,"UT112-1, UT112-2, UT112-3",
+UT113,Are there different words for younger and older relatives for relations other than siblings?,1,Riese et al. 2017:70-72; Riese et al. 2014,"UT113-1, UT113-2, UT113-3, UT113-4, UT113-5",
+UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,1,Riese et al. 2017:243; Riese et al. 2014,"UT114-1, UT114-2, UT114-3, UT114-4",
+UT115,Is there a distinction for both 'warm' and 'cold' depending on whether reference is to weather or the temperature of objects?,0,Riese et al. 2014,,"The same word is used in both cases, e.g. шокшо игечe [ʃokʃo iget͡ɕe] 'hot weather' - шокшо вӱд [ʃokʃo vyd] ‘hot water’; йӱштӧ игечe [jyʃtø iget͡ɕe] ‘cold weather’ - йӱштӧ вӱд [jyʃtø vyd] ‘cold water’."
 UT116,Is there contrastive length for consonants?,0,Riese et al. 2019:24,,"Geminate (long) consonants only occur at morpheme boundaries. Minimal pairs are possible: ныллымше [nəlːəmʃe] ‘fortieth’ (← ныл [nəl] ‘four’ + лу [lu] ‘ten’ + ORD), нылымше [nələmʃe] ‘fourth’ (← ныл [nəl] ‘four’ + ORD)."
 UT117,Is there contrastive length for vowels?,0,Riese et al. 2019:23,,"Reduced vowels are shorter than full vowels, but there is a clear qualitative difference between non-reduced and reduced vowels, so it cannot be reasoned that vowel length alone is distinctive."
 UT118,Is there a contrast between short and long unstressed vowels?,0,Riese et al. 2019:23,,No distinctive vowel length at all.
@@ -133,10 +133,10 @@ UT137,Is there a high back unrounded vowel /ɯ ɨ/?,0,Riese et al. 2019:23,,
 UT138,Is there a mid-high back unrounded vowel /ɤ ɘ/?,0,Riese et al. 2019:23; Krasnova et al. 2017: 44,,"There is however a “mid unrounded central vowel, reduced vowel similarly to the English reduced vowel that is denoted in different ways (alone, lemon, heaven)”, e.g. пыл [pəl] ‘cloud’."
 UT139,Is there a low back rounded vowel /ɒ/?,0,Riese et al. 2019:23,,
 UT140,Is there a contrast between mid front vowels (/e/ or /ɛ/) and low front vowels (/æ/ or /a/)?,0,Riese et al. 2019:23,,
-UT141,Are there word-initial consonant clusters?,1,MED,UT141,Fairly rare and the effect of a fairly recent loss of reduced vowels that did not happen in all varieties of Mari.
+UT141,Are there word-initial consonant clusters?,1,Riese et al. 2014,UT141,Fairly rare and the effect of a fairly recent loss of reduced vowels that did not happen in all varieties of Mari.
 UT142,Are there word-internal consonant clusters in the syllable onset?,1,Riese et al. 2019:58,UT142,
-UT143,Are there consonant clusters in the syllable coda?,1,MED,UT143,
-UT144,Are there word-internal intervocalic clusters of three or more consonants?,1,MED,UT144,
+UT143,Are there consonant clusters in the syllable coda?,1,Riese et al. 2014,UT143,
+UT144,Are there word-internal intervocalic clusters of three or more consonants?,1,Riese et al. 2014,UT144,
 UT145,Are there word-final clusters of three or more consonants?,0,Jeremy Bradley (p.c. 2020),,
 UT146,Are there palatalized alveolar consonants?,0,Riese et al. 2019:22,,The palatal consonants [ʎ] and [ɲ] are frequently mislabelled as palatalized. Palatalized pronunciation under Russian influence and especially in Russian loan words does happen.
 UT147,Are there palatalized labial and velar consonants?,0,Riese et al. 2019:22,,Only in Russian loan words among contemporary speakers.
