@@ -36,7 +36,7 @@ GB069,"Do core adjectives (defined semantically as property concepts; value, sha
 GB070,Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?,1,Nikolaeva 2014:60-72,,GB105
 GB071,Are there morphological cases for pronominal core arguments (i.e. S/A/P)?,1,Nikolaeva 2014:47-50,,GB135
 GB072,Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?,1,Nikolaeva 2014:60-72,,GB273
-GB073,Are there morphological cases for oblique independent personal pronouns (i.e. not S/A/P)?,1,"Nikolaeva 2014:47-50, 61-62, 177","A genitive pronominal case exists, but its use is rare and generally reserved for the oblique object of adjectival/postpositional phrases.",GB305
+GB073,Are there morphological cases for oblique independent personal pronouns (i.e. not S/A/P)?,0,Nikolaeva 2014:47-50,Pronouns only have three grammatical cases.,
 GB074,Are there prepositions?,0,Nikolaeva 2014:1-511,Not mentioned.,
 GB075,Are there postpositions?,1,"Nikolaeva 2014:9, 51-52",,GB075
 GB079,"Do verbs have prefixes/proclitics, other than those that only mark A, S or P (do include portmanteau: A & S + TAM)?",0,Nikolaeva 2014:8,,
@@ -62,7 +62,7 @@ GB105,Can the recipient in a ditransitive construction be marked like the monotr
 GB107,"Can standard negation be marked by an affix, clitic or modification of the verb?",0,Nikolaeva 2014:272-274,,
 GB108,Is there directional or locative morphological marking on verbs?,0,Nikolaeva 2014:78,,
 GB109,Is there verb suppletion for participant number?,0,Nikolaeva 2014:24-25,Not mentioned.,
-GB110,Is there verb suppletion for tense or aspect?,1,Nikolaeva 2014:24-25,See comment in GB300.,
+GB110,Is there verb suppletion for tense or aspect?,1,Nikolaeva 2014:24-25,,
 GB111,Are there conjugation classes?,1,Nikolaeva 2014:78-79,,"GB111-1, GB111-2"
 GB113,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,1,Nikolaeva 2014:230-231,,GB113
 GB114,Is there a phonologically bound reflexive marker on the verb?,0,"Nikolaeva 2014:48-50, 394-396",,
@@ -144,7 +144,7 @@ GB296,Is there a phonologically or morphosyntactically definable class of ideoph
 GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Nikolaeva 2014:267,,
 GB298,"Can standard negation be marked by an inflecting word (""""auxiliary verb"""")?",1,Nikolaeva 2014:272-274,,GB306
 GB299,"Can standard negation be marked by a non-inflecting word (""""auxiliary particle"""")?",0,Nikolaeva 2014:272-274,,
-GB300,Does the verb for 'give' have suppletive verb forms?,1,Nikolaeva 2014:24-25,"The verb ta- 'to bring, to give' has the following irregular forms: taº 3SG, taq CONNEG, tada~tana IMPRF.PTCP, taq IMP.2SG, tətəº FUT.3SG.",
+GB300,Does the verb for 'give' have suppletive verb forms?,0,Nikolaeva 2014:24-25,,
 GB301,Is there an inclusory construction?,0,Nikolaeva 2014:141-171,,
 GB302,"Is there a phonologically free passive marker (""""particle"""" or """"auxiliary"""")?",1,Nikolaeva 2014:239-245,The auxiliary 'to be' appears in the future tense and in non-indicative moods.,GB302
 GB303,"Is there a phonologically free antipassive marker (""""particle"""" or """"auxiliary"""")?",0,Nikolaeva 2014:in passim,,
