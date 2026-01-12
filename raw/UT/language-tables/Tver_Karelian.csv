@@ -49,7 +49,7 @@ UT051,Can non-finite dependent clauses use the standard negation construction?,0
 UT052,Is there a special negator that combines with non-finite forms?,0,Irina Novak (p.c. 2019),,
 UT053,Are there special negative non-finite forms?,1,Irina Novak (p.c. 2019),UT053,
 UT054,Is there an impersonal passive construction?,1,Irina Novak (p.c. 2019),UT054,
-UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Irina Novak (p.c. 2019),UT055,
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Irina Novak (p.c. 2019),"UT055-1, UT055-2",
 UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,Irina Novak (p.c. 2019),,
 UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,Irina Novak (p.c. 2019),,
 UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,Irina Novak (p.c. 2019),,
@@ -70,7 +70,7 @@ UT074,Is it possible to form synthetic superlative?,0,Irina Novak (p.c. 2019),,
 UT075,Can adpositions have person/number marking?,0,Irina Novak (p.c. 2019),,
 UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",0,Irina Novak (p.c. 2019),,
 UT077,Is case compounding possible?,0,Irina Novak (p.c. 2019),,
-UT078,Are there case categories only found in pronouns?,1,Irina Novak (p.c. 2019),,"The accusative is only used with pronouns, e.g. miut 'me', miät 'us'."
+UT078,Are there case categories only found in pronouns?,1,Irina Novak (p.c. 2019),,"The accusative is only used with pronouns, e.g., miut 'me', miät 'us'."
 UT079,Does the numeral modification of a noun have an effect on its case selection?,1,Irina Novak (p.c. 2019),UT079,
 UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,Irina Novak (p.c. 2019),UT080,
 UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,0,Irina Novak (p.c. 2019),,
@@ -86,8 +86,8 @@ UT091,Are there two sets of local cases?,1,Irina Novak (p.c. 2019),,External and
 UT092,Is there a third set of local cases?,0,Irina Novak (p.c. 2019),,There are some indications that a third set started to develop but it never fully developed.
 UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Irina Novak (p.c. 2019),"UT093-1, UT093-2",
 UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Irina Novak (p.c. 2019),,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Irina Novak (p.c. 2019),UT095,
-UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",1,Irina Novak (p.c. 2019),UT096,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Irina Novak (p.c. 2019),"UT095, UT096",
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",1,Irina Novak (p.c. 2019),"UT096, UT095",
 UT097,Is there a separate morphological marker for expressing equative meaning?,0,Irina Novak (p.c. 2019),,
 UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Irina Novak (p.c. 2019),,A postposition is used.
 UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,Irina Novak (p.c. 2019),,
