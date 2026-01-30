@@ -1,101 +1,101 @@
 ID,Feature,Value,Source,Comment,Example
-GB020,Are there definite or specific articles?,0,Lytkin 1962:198-199,Marked with Px,
-GB021,Are there indefinite or non-specific articles?,0,,,
-GB022,Are there prenominal articles?,0,,,
-GB023,Are there postnominal articles?,1,Lytkin 1962:198,Marked with Px,GB020
+GB020,Are there definite or specific articles?,1,Lytkin 1962:198-199,Marked with Px (cf. GB065).,GB023
+GB021,Are there indefinite or non-specific articles?,0,Lytkin 1962:in passim,,
+GB022,Are there prenominal articles?,0,Lytkin 1962:in passim,,
+GB023,Are there postnominal articles?,1,Lytkin 1962:198-199,Marked with Px (cf. GB065).,GB023
 GB024,What is the order of numeral and noun in the NP?,1,Lytkin 1962:227,0 for giving an approximate number,GB024
 GB025,What is the order of adnominal demonstrative and noun?,1,Lytkin 1962:238,,GB025
-GB026,Can adnominal property words occur discontinuously?,0,,,
-GB027,Are nominal conjunction and comitative expressed by different elements?,1,,,GB027-1 ja GB027-2
-GB028,Is there a distinction between inclusive and exclusive?,0,,,
-GB030,Is there a gender distinction in phonologically independent third person pronouns?,0,,,
-GB031,Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun or person index system?,0,,,
+GB026,Can adnominal property words occur discontinuously?,0,Lytkin 1962:in passim,,
+GB027,Are nominal conjunction and comitative expressed by different elements?,1,"Lytkin 1962:188, 310",,"GB027-1, GB027-2"
+GB028,Is there a distinction between inclusive and exclusive?,0,Lytkin 1962:in passim,,
+GB030,Is there a gender distinction in phonologically independent third person pronouns?,0,Lytkin 1962:in passim,,
+GB031,Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun or person index system?,0,Lytkin 1962:in passim,,
 GB035,Are there three or more distance contrasts in adnominal demonstratives?,0,Lytkin 1962:238,,
-GB036,Do adnominal demonstratives show an elevation distinction?,0,,,
-GB037,Do adnominal demonstratives show a visible-nonvisible distinction?,0,,,
-GB038,Are there demonstrative classifiers?,0,,,
-GB039,Is there nonphonological allomorphy of noun number markers?,0,,,
-GB041,Are there several nouns (more than three) which are suppletive for number?,0,,,
+GB036,Do adnominal demonstratives show an elevation distinction?,0,Lytkin 1962:in passim,,
+GB037,Do adnominal demonstratives show a visible-nonvisible distinction?,0,Lytkin 1962:in passim,,
+GB038,Are there demonstrative classifiers?,0,Lytkin 1962:in passim,,
+GB039,Is there nonphonological allomorphy of noun number markers?,0,Lytkin 1962:in passim,,
+GB041,Are there several nouns (more than three) which are suppletive for number?,0,Lytkin 1962:in passim,,
 GB042,Is there a productive overt morphological singular marker on nouns?,0,Lytkin 1962:181,,
-GB043,Is there a productive morphological dual marker on nouns?,0,,,
+GB043,Is there a productive morphological dual marker on nouns?,0,Lytkin 1962:in passim,,
 GB044,Is there a productive morphological plural marker on nouns?,1,Lytkin 1962:181,,GB044
 GB046,Is there an associative plural marker for nouns?,1,Lytkin 1962:181,"In case of proper names, plural marker takes this function.",GB046
 GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Lytkin 1962:205,,GB047
 GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Lytkin 1962:205,,GB048
 GB049,Is there a productive morphological pattern for deriving an object noun from a verb?,1,Lytkin 1962:205,,GB049
-GB051,Is there a noun class/gender system where masculine and feminine categories are a factor in class assignment?,0,,,
-GB052,Is there a noun class/gender system where shape is a factor in class assignment?,0,,,
-GB053,Is there a noun class/gender system where animacy is a factor in class assignment?,0,,,
-GB054,Is there a noun class/gender system where plant status is a factor in class assignment?,0,,,
-GB057,Are there numeral classifiers?,0,,,
-GB058,Are there possessive classifiers?,0,,,
-GB059,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,,,
-GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,,,GB065
-GB068,"Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",0,,,
-GB069,"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,,,
-GB070,"Are there morphological cases for non-pronominal core arguments (i.e. S, A or P)?",1,,,GB070
-GB071,"Are there morphological cases for phonologically independent personal pronominal core arguments (i.e. S, A or P)?",1,,,GB071
-GB072,"Are there morphological cases for oblique non-pronominal NPs (i.e. not S, A or P)?",1,,,
-GB073,"Are there morphological cases for phonologically independent oblique personal pronouns (i.e. not S, A or P)?",1,,,
+GB051,Is there a noun class/gender system where masculine and feminine categories are a factor in class assignment?,0,Lytkin 1962:in passim,,
+GB052,Is there a noun class/gender system where shape is a factor in class assignment?,0,Lytkin 1962:in passim,,
+GB053,Is there a noun class/gender system where animacy is a factor in class assignment?,0,Lytkin 1962:in passim,,
+GB054,Is there a noun class/gender system where plant status is a factor in class assignment?,0,Lytkin 1962:in passim,,
+GB057,Are there numeral classifiers?,0,Lytkin 1962:in passim,,
+GB058,Are there possessive classifiers?,0,Lytkin 1962:in passim,,
+GB059,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,Lytkin 1962:in passim,,
+GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,Lytkin 1962:185,,GB065
+GB068,"Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",0,Lytkin 1962:in passim,,
+GB069,"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,Lytkin 1962:in passim,,
+GB070,"Are there morphological cases for non-pronominal core arguments (i.e. S, A or P)?",1,Lytkin 1962:185,,GB070
+GB071,"Are there morphological cases for phonologically independent personal pronominal core arguments (i.e. S, A or P)?",1,Lytkin 1962:233-235,,GB071
+GB072,"Are there morphological cases for oblique non-pronominal NPs (i.e. not S, A or P)?",1,Lytkin 1962:182-193,,GB0172
+GB073,"Are there morphological cases for phonologically independent oblique personal pronouns (i.e. not S, A or P)?",1,Lytkin 1962:233-235,,GB0173
 GB074,Are there prepositions?,0,Lytkin 1962:301,,
 GB075,Are there postpositions?,1,Lytkin 1962:301,,GB075
-GB079,"Do verbs have prefixes or proclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",0,,,
+GB079,"Do verbs have prefixes or proclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",0,Lytkin 1962:in passim,,
 GB080,"Do verbs have suffixes or enclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",1,Lytkin 1962:258,,GB080
-GB081,Is there productive infixation in verbs?,0,,,
+GB081,Is there productive infixation in verbs?,0,Lytkin 1962:in passim,,
 GB082,Is there overt morphological marking of present tense on verbs?,1,Lytkin 1962:251-252,,GB082
-GB083,Is there overt morphological marking on the verb dedicated to past tense?,1,Lytkin 1962:252,,GB082-2
+GB083,Is there overt morphological marking on the verb dedicated to past tense?,1,Lytkin 1962:252,,GB083
 GB084,Is there overt morphological marking on the verb dedicated to future tense?,0,Lytkin 1962:251,Only 3SG and 3PL can be marked for the future tense.,
 GB086,Is a morphological distinction between perfective and imperfective aspect available on verbs?,1,Lytkin 1962:260-261,,GB086
 GB089,Can the S argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Lytkin 1962:246,,GB089
-GB090,Can the S argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,,,
+GB090,Can the S argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Lytkin 1962:in passim,,
 GB091,Can the A argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Lytkin 1962:253,,GB070
-GB092,Can the A argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,,,
-GB093,Can the P argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,0,,,
-GB094,Can the P argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,,,
-GB095,Are variations in marking strategies of core participants based on TAM distinctions?,0,,,
-GB096,Are variations in marking strategies of core participants based on verb classes?,0,,,
-GB098,Are variations in marking strategies of core participants based on person distinctions?,0,,,
-GB099,Is there verb suppletion for participant person?,0,,,
-GB103,Can a verb have a benefactive marker (applicative marker or index)?,0,,,
-GB104,Can a verb have an instrumental marker (applicative marker or index)?,0,,,
-GB105,Can the recipient in a ditransitive construction be marked like the transitive patient?,0,,,
-GB107,"Can standard negation be marked by an affix, clitic or modification of the verb?",0,,,
-GB108,Is there directional or locative morphological marking on verbs?,0,,,
-GB109,Is there verb suppletion for participant number?,0,,,
-GB110,Is there verb suppletion for tense or aspect?,0,,Only for the verb 'to be'.,
-GB111,Are there conjugation classes?,0,,,
+GB092,Can the A argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Lytkin 1962:in passim,,
+GB093,Can the P argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,0,Lytkin 1962:in passim,,
+GB094,Can the P argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Lytkin 1962:in passim,,
+GB095,Are variations in marking strategies of core participants based on TAM distinctions?,0,Lytkin 1962:in passim,,
+GB096,Are variations in marking strategies of core participants based on verb classes?,0,Lytkin 1962:in passim,,
+GB098,Are variations in marking strategies of core participants based on person distinctions?,0,Lytkin 1962:in passim,,
+GB099,Is there verb suppletion for participant person?,0,Lytkin 1962:in passim,,
+GB103,Can a verb have a benefactive marker (applicative marker or index)?,0,Lytkin 1962:in passim,,
+GB104,Can a verb have an instrumental marker (applicative marker or index)?,0,Lytkin 1962:in passim,,
+GB105,Can the recipient in a ditransitive construction be marked like the transitive patient?,0,Lytkin 1962:in passim,,
+GB107,"Can standard negation be marked by an affix, clitic or modification of the verb?",0,Lytkin 1962:in passim,,
+GB108,Is there directional or locative morphological marking on verbs?,0,Lytkin 1962:in passim,,
+GB109,Is there verb suppletion for participant number?,0,Lytkin 1962:in passim,,
+GB110,Is there verb suppletion for tense or aspect?,0,Lytkin 1962:in passim,Only for the verb 'to be'.,
+GB111,Are there conjugation classes?,0,Lytkin 1962:in passim,,
 GB113,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,1,Lytkin 1962:270-272; Gribanov 1940:164,,GB113
 GB114,Is there a phonologically bound reflexive marker on the verb?,1,Lytkin 1962:263-264,,GB114
 GB115,Is there a phonologically bound reciprocal marker on the verb?,1,Lytkin 1962:265,,GB115
-GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,,,
+GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,Lytkin 1962:in passim,,
 GB117,Is there a copula for predicate nominals?,1,Lytkin 1962:254-256,,GB117
-GB118,Are there serial verb constructions?,0,,,
-GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,,,
-GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,0,,,
+GB118,Are there serial verb constructions?,0,Lytkin 1962:in passim,,
+GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,Lytkin 1962:in passim,,
+GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,0,Lytkin 1962:in passim,,
 GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,Lytkin 1962:254;  Gribanov 1940:155,Future reference can be expressed with auxiliaries such as пондыны ‘will; start’ and мöдны ‘will; begin’.,GB121
 GB122,Is verb compounding a regular process?,1,Lytkin 1962:278,"Two verbs can be coupled to express the same thing from different angles: one verb expresses an action, the other the nature of the action or state.",GB122
 GB123,Are there verb-adjunct (aka light-verb) constructions?,1,Lytkin 1962:277-278,"Adjectives and ideophones with verbs видзны 'to hold', керны 'to do', мунны 'to go'.",GB123
-GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,,,
+GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,Lytkin 1962:in passim,,
 GB126,Is there an existential verb?,1,Mayshev 1940:63,,GB126
-GB127,Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. ‘to lie’ vs. ‘to stand’)?,0,,,
-GB129,Is there a notably small number of verb roots in the language?,0,,,
-GB130,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,,,GB072
-GB131,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,,,
-GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,1,,,GB132
-GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,0,,,
-GB134,Is the order of constituents the same in main and subordinate clauses?,1,,,"GB132, GB134"
-GB135,Do clausal objects usually occur in the same position as nominal objects?,1,,,"GB132, GB135"
-GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,,,
-GB137,Can standard negation be marked clause-finally?,0,,,
-GB138,Can standard negation be marked clause-initially?,0,,Negation appears clause-initially if it is in focus.,
+GB127,Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. ‘to lie’ vs. ‘to stand’)?,0,Lytkin 1962:in passim,,
+GB129,Is there a notably small number of verb roots in the language?,0,Batalova & Krivoshchёkova-Gantman 1985:in passim,,
+GB130,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,Bartens 2000:342-345,,GB072
+GB131,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,Bartens 2000:in passim,,
+GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,1,Bartens 2000:342-345,,GB132
+GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,0,Bartens 2000:in passim,,
+GB134,Is the order of constituents the same in main and subordinate clauses?,1,Bartens 2000:in passim,,"GB132, GB134"
+GB135,Do clausal objects usually occur in the same position as nominal objects?,1,Karavaev et al. 1940:in passim,,"GB132, GB135"
+GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,Karavaev et al. 1940:in passim,,
+GB137,Can standard negation be marked clause-finally?,0,Bartens 2000:in passim,,
+GB138,Can standard negation be marked clause-initially?,0,Bartens 2000:in passim,Negation appears clause-initially if it is in focus.,
 GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,"Lytkin 1962:245, 250, 253-254",,GB139
-GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",0,,The same negator is for these three kinds of non-verbal negation and only for the 2nd past.,
-GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,,,
+GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",0,Lytkin 1962:in passim,"However, the same negator (abu) is used for these three kinds of non-verbal negation and only for the 2nd past.",
+GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,Lytkin 1962:in passim,,
 GB147,Is there a morphological passive marked on the lexical verb?,1,Lytkin 1962:266-267,The passive meaning is found in a construction with a noun in the inctrumental case. It's rarely used.,GB147
 GB148,Is there a morphological antipassive marked on the lexical verb?,1,Lytkin 1962:267,Marked with REFL,GB148
-GB149,Is there a morphologically marked inverse on verbs?,0,,,
-GB150,Is there clause chaining?,0,,,
-GB151,Is there an overt verb marker dedicated to signaling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (‘switch reference’)?,0,,,
+GB149,Is there a morphologically marked inverse on verbs?,0,Lytkin 1962:in passim,,
+GB150,Is there clause chaining?,0,Karavaev et al. 1940:in passim,,
+GB151,Is there an overt verb marker dedicated to signaling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (‘switch reference’)?,0,Karavaev et al. 1940:in passim,,
 GB152,Is there a morphologically marked distinction between simultaneous and sequential clauses?,1,Lytkin 1962:280-283,There are simultaneous and sequential converbs.,GB152
 GB155,Are causatives formed by affixes or clitics on verbs?,1,Lytkin 1962:269-270,,GB155
 GB156,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for ‘to say’?,0,Lytkin 1962:267-273,,
@@ -127,7 +127,7 @@ GB253,Can predicative possession be expressed with an S-like possessum and a dat
 GB254,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,1,Lytkin 1962:185,,GB254
 GB256,Can predicative possession be expressed with a comitative/conjunctional construction?,0,Lytkin 1962:in passim,,
 GB257,Can polar interrogation be marked by intonation only?,1,Karavaev et al. 1940:5-6,,GB257
-GB260,Can polar interrogation be indicated by a special word order?,1,Karavaev et al. 1940:in passim,,
+GB260,Can polar interrogation be indicated by a special word order?,1,Karavaev et al. 1940:5,,GB264
 GB262,Is there a clause-initial polar interrogative particle?,0,Karavaev et al. 1940:5,,
 GB263,Is there a clause-final polar interrogative particle?,0,Karavaev et al. 1940:5,,
 GB264,Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?,1,Karavaev et al. 1940:5,,GB264
@@ -145,7 +145,7 @@ GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Karavaev
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,1,Lytkin 1962:245-246,,GB139-1
 GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,1,Mayshev 1940:63,,GB299
 GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Lytkin 1962:in passim,,
-GB301,Is there an inclusory construction?,0,Lytkin 1962:in passim,,
+GB301,Is there an inclusory construction?,1,Gribanov 1940:73-75,,GB301
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Lytkin 1962:in passim,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Lytkin 1962:in passim,,
 GB304,Can the agent be expressed overtly in a passive clause?,1,Lytkin 1962:266-267,Instrumental is used for this,GB147
@@ -191,6 +191,6 @@ GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,Ly
 GB432,Can adnominal possession be marked by a suffix on the possessor?,1,Lytkin 1962:199-200; Mayshev 1940:27-39,,GB065
 GB433,Can adnominal possession be marked by a suffix on the possessed noun?,1,Lytkin 1962:199-200; Mayshev 1940:27-39,,GB065
 GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,1,"Lytkin 1962:249-250, 315-316",,GB519
-GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,1,Lytkin 1962:in passim,,
+GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,1,Lytkin 1962:316,,GB521
 GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,1,Lytkin 1962:316,,GB521
-GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,1,Lytkin 1962:245-246,,
+GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,1,Lytkin 1962:245-246,,GB522
