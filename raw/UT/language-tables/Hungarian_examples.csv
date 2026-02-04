@@ -1,4 +1,5 @@
 ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
+UT005,hosszú szoknyákat viselnek,,hosszú szoknyá-k-at visel-nek,long skirt-PL-ACC wear-3PL,they are wearing long skirts,Rounds 2001:164
 UT014,A kutya megharapta a fiút és elfutott,,A	kutya	meg-harap-ta	a	fiú-t	és	el-fut-ott,DEF	dog	PRV-bite-PST.OC	DEF	boy-ACC	and	PRV-run-PST.3SG,The dog bit the boy and run away,
 UT017,Olvasgatok,,Olvas-gat-ok,read-FRQ-1SG,I read (repeatedly),
 UT019,Holnap elmegyek a boltba,,Holnap	el-megy-ek	a	bolt-ba,tomorrow	PRV-go-PRS.1SG	DEF	shop-ILL,Tomorrow I will go to the shop,
@@ -15,16 +16,18 @@ UT040,Itt nem sátorozhatsz,,Itt	nem	sátor-oz-hat-sz,here	NEG	tent-VBZ-POT-PRS.
 UT043,Magyarországra megyek magyarul tanulni,,Magyarország-ra	megy-ek	magyar-ul	tanul-ni,Hungary-SUBL	go-PRS.1SG	Hungarian-ESS	study-INF,I'm going to Hungary to learn Hungarian,
 UT044,Havazik,,Hav-az-ik,snow-VBZ-PRS.3SG,It is snowing,
 UT046,Ő tanár volt,,Ő	tanár	volt,3SG	teacher	be.PST.3SG,S/he was a teacher,
-UT048-1,Anna és Péter,,Anna	és	Péter,,Anna and Péter,
+UT048-1,Anna és Péter,,Anna        és        Péter,,Anna and Péter,
 UT048-2,Anna olvas és tanul,,Anna	olvas	és	tanul,Anna	read.PRS.3SG	and	study.PRS.3SG,Anna reads and studies,
 UT048-3,Anna olvas és Péter tanul,,Anna	olvas	és	Péter	tanul,Anna	read.PRS.3SG	and	Péter	study.PRS.3SG,Anna reads and Péter studies,
-UT049,Nincs otthon kenyér,,Nincs	otthon	kenyér,NEG.EX        home.LOC        bread,There is no bread at home,
+UT049,Nincs otthon kenyér,,Nincs	otthon	kenyér,NEG.EX home.LOC bread,There is no bread at home,
 UT051-1,"Nem látva a kutyát, megbotlott",,"Nem	lát-va	a	kutyá-t,	megbotl-ott",NEG	see-PTCP	DEF	dog-ACC	trip.over-PST.3SG," As s/he did not see the dog, he tripped over",
 UT051-2,Nem látta meg a kutyát és megbotlott,,Nem	lát-ta	meg	a	kutyá-t	és	megbotl-ott,NEG	see-PST.3SG	PRV	DEF	dog	and	trip.over-PST.3SG,S/he did not see the dog and tripped over,
 UT053-1,befejezetlen,,befejez-etlen,finish-ADZ,not finished,
 UT053-2,megvarratlan,,megvarr-atlan,sew-ADZ,not sewn,
 UT055-1,olvasó fiú,,olvas-ó	fiú,read-PTCP	boy,a boy who is reading,
 UT055-2,olvasott könyv,,olvas-ott	könyv,read-PTCP	book,a book that has been read,
+UT056-1,az Anna által tegnap olvasott könyv,,az Anna által tegnap olvas-ott könyv,the Anna by yesterday read-PASS.PST.PTCP book,the book read by Anna yesterday,Kenesei et al. 1998:46
+UT056-2,a medencébe ugrott lány,,a medencé-be ugr-ott lány,the pool-ILL dive-PASS.PST.PTCP girl,the girl that (has/had) dived into the pool,Kenesei et al. 1998:47
 UT059,Olvasandó könyv,,Olvas-andó	könyv,read-PTCP	book,a book that will be/has to be read,
 UT064-1,író,,ír-ó,write-PTCP,writer,
 UT064-2,író fiú,,ír-ó	fiú,write-PTCP	boy,a boy who is writing,
