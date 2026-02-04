@@ -7,7 +7,7 @@ UT005,Is there non-agreement between an adnominal property word and the head nou
 UT006,Can adpositions be used to mark core verbal arguments?,0,Hakulinen et al. 2004: § 689,,
 UT008,Can non-finite clauses use a special means for core argument (S/A) marking?,1,"Hakulinen et al. 2004: § 539, 546",UT008,
 UT009,Can non-finite clauses use a special means for core argument (P) marking?,0,Hakulinen et al. 2004:in passim,,
-UT010,"Do characteristics of the object referent (topicality, animacy, definiteness) influence object marking?",0,Hakulinen et al. 2004:in passim,,
+UT010,"Do the characteristics of the object referent (topicality, animacy, definiteness) influence object marking?",0,Hakulinen et al. 2004:in passim,,
 UT011,Does object marking correlate with aspectuality?,1,Hakulinen et al. 2004: § 1508-1515,"UT011-1, UT011-2",
 UT012,Does object marking depend on the verb conjugation form?,1,Hakulinen et al. 2004: § 932-934,"UT012-1, UT012-2",
 UT013,Is there differential subject marking?,1,Hakulinen et al. 2004: § 910,"UT013-1, UT013-2",
@@ -18,13 +18,13 @@ UT017,Is there grammatical marking of frequentativity?,1,Hakulinen et al. 2004: 
 UT018,Is there grammatical marking of progressivity?,1,Hakulinen et al. 2004: § 1519,UT018,
 UT019,Is it common to use a verb in the present tense for future time reference?,1,"Hakulinen et al. 2004: § 1527, 1544",UT019,
 UT020,Is there grammatical marking of the immediate future?,1,Hakulinen et al. 2004: § 1546,UT020,
-UT021,Is there grammatical marking of pluperfect?,1,"Hakulinen et al. 2004: § 1523, 1540-1541",UT021,
+UT021,Is there grammatical marking of the pluperfect?,1,"Hakulinen et al. 2004: § 1523, 1540-1541",UT021,
 UT022,Can aspect be expressed overtly in the negative marker?,0,Hakulinen et al. 2004:in passim,,
 UT023,Can tense be expressed overtly in the negative marker?,0,Hakulinen et al. 2004: § 108,,
 UT024,Is there grammatical marking of mirativity?,0,Hakulinen et al. 2004:in passim,,
 UT025,Is there morphological marking on the verb dedicated to the expression of a desire or wish?,0,Hakulinen et al. 2004: § 1659,,
 UT026,Is there morphological marking on the verb dedicated to irrealis?,1,Hakulinen et al. 2004: § 1592,UT026,
-UT027,Are verbs marked in a non-indicative mood in counterfactual conditional clauses?,1,Hakulinen et al. 2004: § 1594,UT027,
+UT027,Are verbs marked with a non-indicative mood in counterfactual conditional clauses?,1,Hakulinen et al. 2004: § 1594,UT027,
 UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,Hakulinen et al. 2004: § 452,,
 UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Hakulinen et al. 2004: § 1597,UT029,
 UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Hakulinen et al. 2004: § 1666,,
@@ -34,14 +34,14 @@ UT033,Is it common to use the imperative/jussive in complement clauses introduce
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Hakulinen et al. 2004:in passim,,
 UT035,Is there a reflexive conjugation?,0,Hakulinen et al. 2004:in passim,,
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Hakulinen et al. 2004:in passim,,
-UT039,Can 3rd person plural verb forms be used for impersonal reference?,1,Hakulinen et al. 2004: § 1330,UT039,"However, it is not very common."
-UT040,Are 2nd singular verb forms commonly used with a generic meaning?,0,Hakulinen et al. 2004:in passim,,"The 3rd person form is used; in spoken language, 2Sg may also be used."
-UT042,Can an infinitival verb form function as a predicate in an imperative clause?,0,Hakulinen et al. 2004: § 490-491,,
-UT043,Can verbs in purposive subordinate clauses be in the infinitive?,0,Hakulinen et al. 2004: § 492-494,UT043,
+UT039,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Hakulinen et al. 2004: § 1330,UT039,"However, it is not very common."
+UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,0,Hakulinen et al. 2004:in passim,,"The 3rd person form is used; in spoken language, 2Sg may also be used."
+UT042,Can an infinitival verb form be used in a directive function?,0,Hakulinen et al. 2004: § 490-491,,
+UT043,Can verbs in purposive subordinate clauses be bare infinitive forms?,0,Hakulinen et al. 2004: § 492-494,UT043,
 UT044,Are there sentences without overt verbal arguments?,1,"Hakulinen et al. 2004: § 864, 900-901, 913",UT044,
 UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,1,"Hakulinen et al. 2004: § 456, 891",UT045,
 UT046,Is a copula commonly used for predicate nominals in the past tense?,1,"Hakulinen et al. 2004: § 456, 891",UT046,
-UT047,Is it common to omit a copula in locative constructions?,0,Hakulinen et al. 2004:in passim,,
+UT047,Can locative constructions commonly occur without a copula?,0,Hakulinen et al. 2004:in passim,,
 UT048,"Is the same coordinating conjunction commonly used for NPs, VPs, and clauses?",1,Hakulinen et al. 2004: § 1085-1110,"UT048-1, UT048-2",
 UT049,Does existential negation have a special negator?,0,Hakulinen et al. 2004:in passim,,
 UT050,Can standard negation be asymmetric in the present tense?,1,Hakulinen et al. 2004: § 108-109,UT050,
@@ -50,12 +50,12 @@ UT052,Is there a special negator that combines with non-finite forms?,0,"Hakulin
 UT053,Are there special negative non-finite forms?,1,"Hakulinen et al. 2004: § 122, 293","UT053-1, UT053-2",
 UT054,Is there an impersonal passive construction?,1,Hakulinen et al. 2004: § 1313-1346,UT054,
 UT055,"Are there non-finite forms specializing in the relativization of particular core participants, e.g., subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Hakulinen et al. 2004: § 521-537,"UT055-1, UT055-2",
-UT056,Are there non-finite forms that can relativize at least all core participants (S/A/P) and possibly also some non-core participants?,0,Hakulinen et al. 2004:in passim,,
-UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all or some of the core participants?,0,Hakulinen et al. 2004:in passim,,
-UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,Hakulinen et al. 2004:in passim,,
+UT056,Are there non-finite forms that can relativize all core participants (S/A/P) and possibly also some non-core participants?,0,Hakulinen et al. 2004:in passim,,
+UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all core participants?,0,Hakulinen et al. 2004:in passim,,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negative marker?",0,Hakulinen et al. 2004:in passim,,
 UT059,Is there a future participle?,0,Hakulinen et al. 2004:in passim,,
 UT060,Are there participles that can encode their subject with possessive suffixes?,1,Hakulinen et al. 2004: § 1297,UT060,
-UT062,Are there participles that must agree with the nouns they modify in case and number?,1,Hakulinen et al. 2004: § 1302,UT062,
+UT062,Are there participles that must agree with the nouns they modify in case and number in all contexts?,1,Hakulinen et al. 2004: § 1302,UT062,
 UT063,Are there non-finite forms that can be used both as participles and action nominalizations?,0,Hakulinen et al. 2004:in passim,,
 UT064,Are there non-finite forms that can be used both as participles and agentive nominalizations?,1,Hakulinen et al. 2004: § 630,"UT064-1, UT064-2","
 
@@ -63,15 +63,14 @@ UT064,Are there non-finite forms that can be used both as participles and agenti
 "
 UT065,Are there non-finite forms that can be used both as participles and converbs?,0,Hakulinen et al. 2004:in passim,,
 UT066,Is OV the neutral order in affirmative imperative clauses?,0,"Hakulinen et al. 2004: § 1648-1649, 1653",,
-UT067,Is it pragmatically neutral to place an object between the negative marker and the main verb in imperative constructions?,0,Hakulinen et al. 2004:in passim,UT067,It is possible but the sentence is not neutral anymore.
-UT068,Are there preverbs?,1,Hyvärinen 2019:327-332; Hakulinen et al. 2004: § 455,,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,Hakulinen et al. 2004:in passim,UT067,It is possible but the sentence is not neutral anymore.
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Hakulinen et al. 2004:in passim,,
 UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,1,Hakulinen et al. 2004: § 575-577,UT071,
-UT072,Can the modifier of action nominalizations in the patient role be encoded like the direct object?,1,Hakulinen et al. 2004: § 575,"UT072-1, UT072-2",
+UT072,Can the modifier of action nominalizations in the patient role be encoded like a direct object?,1,Hakulinen et al. 2004: § 575,"UT072-1, UT072-2",
 UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Hakulinen et al. 2004: § 946,UT073,
-UT074,Is there morphological superlative marking on the property word?,1,Hakulinen et al. 2004: § 300,UT074,
+UT074,Is there a bound superlative degree marker on property words?,1,Hakulinen et al. 2004: § 300,UT074,
 UT075,Can adpositions have person/number marking?,1,"Hakulinen et al. 2004: § 96, 691","UT075-1, UT075-2",
-UT076,Are there adpositions that show a three-partite system?,1,Hakulinen et al. 2004: § 689-690,"UT076-1, UT076-2, UT076-3",
+UT076,Are there adpositions that show a tripartite system?,1,Hakulinen et al. 2004: § 689-690,"UT076-1, UT076-2, UT076-3",
 UT077,Is there case compounding?,0,Hakulinen et al. 2004:in passim,,
 UT078,Are there morphological cases only used with pronouns?,1,"Hakulinen et al. 2004: § 81, 97, 100, 102",UT078,The accusative case (-t) is only used with pronouns.
 UT079,Does the numeral modification of a noun have an effect on its case selection?,1,Hakulinen et al. 2004: § 770-791,UT079,
@@ -87,28 +86,28 @@ UT089,Is there case syncretism for goal and location marking?,0,Hakulinen et al.
 UT090,Is there case syncretism for location and source marking?,0,Hakulinen et al. 2004: § 1235-1266,,
 UT091,Are there two sets of local cases?,1,Hakulinen et al. 2004: § 1238,"UT091-1, UT091-2",
 UT092,Are there three or more sets of local cases?,0,Hakulinen et al. 2004: § 1238,,
-UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Hakulinen et al. 2004: § 1263-1264,UT093,
-UT094,"Is there a case that expresses instrument (instrumental), which is different from a case that expresses accompaniment (comitative)?",1,"Hakulinen et al. 2004: § 1264, 1266","UT094
+UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Hakulinen et al. 2004: § 1263-1264,UT093,
+UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",1,"Hakulinen et al. 2004: § 1264, 1266","UT094
 ","
 "
-UT095,Is there a dedicated case that expresses the result of a change (translative) and/or a state of being (essive)?,1,Hakulinen et al. 2004: § 1258-1260,"UT095, UT096",
-UT096,"Is there a case that expresses the result of a change (translative), which is different from a case that expresses a state of being (essive)?",1,Hakulinen et al. 2004: § 1258,UT096,
-UT097,Is there morphological marking dedicated to the expression of equativity?,0,Hakulinen et al. 2004:in passim,,
+UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,1,Hakulinen et al. 2004: § 1258-1260,"UT095, UT096",
+UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",1,Hakulinen et al. 2004: § 1258,UT096,
+UT097,Is there a dedicated case that expresses equativity?,0,Hakulinen et al. 2004:in passim,,
 UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Hakulinen et al. 2004:in passim,,
 UT099,Is there (in addition to the basic declension) a declension different from a possessive declension? ,0,Hakulinen et al. 2004:in passim,,
-UT100,Is it possible to use the singular with paired body parts/clothing/accessories that accompany them?,0,Hakulinen et al. 2004:in passim,,
+UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,0,Hakulinen et al. 2004:in passim,,
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Hakulinen et al. 2004:in passim,,
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Hakulinen et al. 2004:in passim,,
-UT103,Is non-singular possession marked in the possessive declension?,0,Hakulinen et al. 2004: § 95,,
+UT103,Are singular and plural possessee distinguished in the possessive declension? ,0,Hakulinen et al. 2004: § 95,,
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Hakulinen et al. 2004:in passim,,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,"Hakulinen et al. 2004: § 95-96, 1294",,
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Hakulinen et al. 2004: § 714,,"kuka 'who' is used for humans, mikä 'what' is used for animals, inanimate objects"
-UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Hakulinen et al. 2004: § 736,,A different relative pronoun is used.
-UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Hakulinen et al. 2004: § 736,,A different relative pronoun is used.
-UT109,Can a demonstrative stem be used in the function of a pronoun with a 3Sg human referent?,1,Hakulinen et al. 2004: § 717,"UT109-1, UT109-2","
+UT107,Does 'who' commonly appear as a relative pronoun used for animates other than humans?,0,Hakulinen et al. 2004: § 736,,A different relative pronoun is used.
+UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Hakulinen et al. 2004: § 736,,A different relative pronoun is used.
+UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Hakulinen et al. 2004: § 717,"UT109-1, UT109-2","
 "
-UT110,Are there possessive suffixes the position of which can vary in relation to case/number suffixes?,0,Hakulinen et al. 2004: § 78,,
-UT111,Is the order of number and case suffixes the same across the paradigm?,1,Hakulinen et al. 2004: § 78,UT111,
+UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Hakulinen et al. 2004: § 78,,
+UT111,Are case and number marked cumulatively across the paradigm?,1,Hakulinen et al. 2004: § 78,UT111,
 UT112,Are there different words for mother’s brother and father’s brother?,1,"Kielitoimiston sanakirja:eno, setä",,
 UT113,Are there different words for younger and older relatives for relations other than siblings?,0,Kielitoimiston sanakirja:in passim,,
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,0,Kielitoimiston sanakirja:in passim,,There is a difference only for 'young'.

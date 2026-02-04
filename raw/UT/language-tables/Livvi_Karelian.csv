@@ -61,7 +61,6 @@ UT064,Are there non-finite forms that can be used both as participles and agenti
 UT065,Are there non-finite forms that can be used both as participles and converbs?,0,Pyöli 2021:in passim,,
 UT066,Is OV the neutral order in affirmative imperative clauses?,0,Markianova 2002,,The neutral word order is VO.
 UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,Pyöli 2021:111,UT067,It is possible only if the object is stressed/in focus.
-UT068,Are there preverbs?,0,Pyöli 2021:in passim,,
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Pyöli 2021:in passim,,
 UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,1,Pyöli 2021:153-175,UT071,
 UT072,Can the modifier of action nominalizations in the patient role be encoded like a direct object?,1,Pyöli 2021:153-175,"UT072-1, UT072-2",
@@ -85,9 +84,9 @@ UT090,Is there case syncretism for location and source marking?,1,Pyöli 2021:44
 UT091,Are there two sets of local cases?,1,Sarhimaa 2022:277-278,,There are external and internal local cases.
 UT092,Are there three or more sets of local cases?,0,Sarhimaa 2022:277-278,,
 UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Markianova 2002,UT093,
-UT094,"Is there a case that expresses instrument (instrumental), which is different from a case that expresses accompaniment (comitative) or locative relations?",0,Pyöli 2021:in passim,,
+UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Pyöli 2021:in passim,,
 UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,1,Markianova 2002,UT095,
-UT096,"Is there a case that expresses the result of a change (translative), which is different from a case that expresses a state of being (essive)?",1,Markianova 2002,UT096,
+UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",1,Markianova 2002,UT096,
 UT097,Is there a dedicated case that expresses equativity?,0,Pyöli 2021:in passim,,
 UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Pyöli 2021:in passim,,
 UT099,Is there (in addition to the basic declension) a declension different from a possessive declension? ,0,Pyöli 2021:in passim,,
