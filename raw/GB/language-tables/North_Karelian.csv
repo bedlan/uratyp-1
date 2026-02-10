@@ -84,7 +84,7 @@ GB131,Is a pragmatically unmarked constituent order verb-initial for transitive 
 GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,1,Zaikov 2013:80; Sarhimaa 2022:285,,GB132
 GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,0,Sarhimaa 2022:285,,
 GB134,Is the order of constituents the same in main and subordinate clauses?,1,"Zaikov 2013:80, 242","However, not necessarily.","GB132, GB134"
-GB135,Do clausal objects usually occur in the same position as nominal objects?,1,Torikka 2009: muistoa,,"GB135-1, GB135-2"
+GB135,Do clausal objects usually occur in the same position as nominal objects?,1,Torikka 2009:muistoa,,"GB135-1, GB135-2"
 GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,"Zaikov 2013:75, 85",,
 GB137,Can standard negation be marked clause-finally?,0,Zaikov 2013:151-172,,
 GB138,Can standard negation be marked clause-initially?,1,Torikka 2009:ei,,
@@ -110,7 +110,7 @@ GB171,Can an adnominal demonstrative agree with the noun in noun class/gender?,0
 GB172,Can an article agree with the noun in noun class/gender?,0,Zaikov 2013:in passim,,
 GB177,"Can the verb carry a marker of animacy of argument, unrelated to any noun class/gender of the argument visible in the NP domain?",0,Zaikov 2013:in passim,,
 GB184,Can an adnominal property word agree with the noun in number?,1,"Zaikov 2013:71, 74; Sarhimaa 2022:286",,GB044
-GB185,Can an adnominal demonstrative agree with the noun in number?,1,Zaikov 2013: 126-127; Sarhimaa 2022:286,,GB185
+GB185,Can an adnominal demonstrative agree with the noun in number?,1,Zaikov 2013:126-127; Sarhimaa 2022:286,,GB185
 GB186,Can an article agree with the noun in number?,0,Zaikov 2013:in passim,There are no articles.,
 GB187,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?,1,Zaikov 2013:104,,GB187
 GB188,Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?,0,Zaikov 2013:104-108,,
@@ -119,11 +119,11 @@ GB193,What is the order of adnominal property word and noun?,1,Zaikov 2013:112; 
 GB196,Is there a masculine/feminine distinction in phonologically independent second person pronouns?,0,Zaikov 2013:in passim,,
 GB197,Is there a masculine/feminine distinction in phonologically independent first person pronouns?,0,Zaikov 2013:in passim,,
 GB198,Can an adnominal numeral agree with the noun in noun class/gender?,0,Zaikov 2013:in passim,,
-GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,Zaikov 2013:134; Torikka 2009: s.v. kaikki,,
+GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,Zaikov 2013:134; Torikka 2009:kaikki,,
 GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,Zaikov 2013:134,,
 GB250,Can predicative possession be expressed with a transitive ‘habeo’ verb?,0,Torikka 2009:omistoa,,
 GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,1,Zaikov 2013:96-97,The syncretic adessive-allative case has both locational and dative functions.,GB252 
-GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,,,
+GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Zaikov 2013:96-97,,
 GB254,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB256,Can predicative possession be expressed with a comitative/conjunctional construction?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB257,Can polar interrogation be marked by intonation only?,?,Atte Huhtala (p.c. 2026),Studies and descriptions not sufficient.,
@@ -145,12 +145,12 @@ GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Zaikov 2
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,1,Zaikov 2013:153-154; Sarhimaa 2022:285,,GB139-1
 GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,0,Sarhimaa 2022:285,,
 GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Torikka 2009:antoa,,
-GB301,Is there an inclusory construction?,1,Torikka 2009: kera,,GB301
+GB301,Is there an inclusory construction?,1,Torikka 2009:kera,,GB301
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB304,Can the agent be expressed overtly in a passive clause?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB305,Is there a phonologically independent reflexive marker?,1,Zaikov 2013:138,,
-GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other; two + two)?,1,Torikka 2009: s.v. toine,,GB306
+GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other; two + two)?,1,Torikka 2009:toine,,GB306
 GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,Sarhimaa 2022:280-283,,
 GB312,Is there overt morphological marking on the verb dedicated to mood?,1,Sarhimaa 2022:280,There are four moods.,
 GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,0,"Zaikov 2013:in passim, Sarhimaa 2022:in passim",,
@@ -183,8 +183,8 @@ GB403,Does the verb for ‘come’ have suppletive verb forms?,0,Torikka 2009:tu
 GB408,Is there any accusative alignment of flagging?,1,Sarhimaa 2022:285-288,,"GB408-1, GB408-2"
 GB409,Is there any ergative alignment of flagging?,0,Sarhimaa 2022:285-288,,
 GB410,Is there any neutral alignment of flagging?,0,Sarhimaa 2022:285-288,,
-GB415,Is there a politeness distinction in second person forms?,0,Torikka 2009: työ2 pers.pron. ,,
-GB421,Is there a preposed complementizer for complements of verbs of thinking and/or knowing?,1,Torikka 2009: tieteä,,GB421
+GB415,Is there a politeness distinction in second person forms?,0,Torikka 2009:työ2 pers.pron. ,,
+GB421,Is there a preposed complementizer for complements of verbs of thinking and/or knowing?,1,Torikka 2009:tieteä,,GB421
 GB422,Is there a postposed complementizer for complements of verbs of thinking and/or knowing?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB430,Can adnominal possession be marked by a prefix on the possessor?,0,Zaikov 2013:78; Sarhimaa 2022: 278-279,,
 GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,Zaikov 2013:124-125; Sarhimaa 2022: 278-279,,
