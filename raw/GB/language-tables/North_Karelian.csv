@@ -64,15 +64,15 @@ GB108,Is there directional or locative morphological marking on verbs?,0,Sarhima
 GB109,Is there verb suppletion for participant number?,0,Zaikov 2013:in passim,,
 GB110,Is there verb suppletion for tense or aspect?,0,Zaikov 2013:in passim,,
 GB111,Are there conjugation classes?,1,"Zaikov 2013:157, 160",,GB111
-GB113,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,1,Zaikov 2013:212,,
+GB113,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,1,Zaikov 2013:212,,GB113
 GB114,Is there a phonologically bound reflexive marker on the verb?,1,Zaikov 2013:212,,GB114
 GB115,Is there a phonologically bound reciprocal marker on the verb?,0,Zaikov 2013:211-214,,
 GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,Zaikov 2013:in passim,,
 GB117,Is there a copula for predicate nominals?,1,Zaikov 2013:256; Sarhimaa 2022:287,,GB117
 GB118,Are there serial verb constructions?,0,Zaikov 2013:in passim,,
-GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,1,Sarhimaa 2022:282-283,,GB119
+GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,1,Sarhimaa 2022:282-283,,
 GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
-GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,Sarhimaa 2022:280,,
+GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,1,Sarhimaa 2022:280,,GB121
 GB122,Is verb compounding a regular process?,0,Zaikov 2013:in passim,,
 GB123,Are there verb-adjunct (aka light-verb) constructions?,?,Zaikov 2013:in passim,,
 GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,Zaikov 2013:in passim,,
@@ -89,7 +89,7 @@ GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,"
 GB137,Can standard negation be marked clause-finally?,0,Zaikov 2013:151-172,,
 GB138,Can standard negation be marked clause-initially?,1,Torikka 2009:ei,,
 GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,"Zaikov 2013:153-154, 174",,"GB139-1, GB139-2"
-GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,"Zaikov 2013:153-154,161-163",,
+GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,"Zaikov 2013:153-154,161-163",,"GB140-1, GB140-2, GB140-3"
 GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB147,Is there a morphological passive marked on the lexical verb?,1,Sarhimaa 2022:284,,GB147
 GB148,Is there a morphological antipassive marked on the lexical verb?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
@@ -110,24 +110,24 @@ GB171,Can an adnominal demonstrative agree with the noun in noun class/gender?,0
 GB172,Can an article agree with the noun in noun class/gender?,0,Zaikov 2013:in passim,,
 GB177,"Can the verb carry a marker of animacy of argument, unrelated to any noun class/gender of the argument visible in the NP domain?",0,Zaikov 2013:in passim,,
 GB184,Can an adnominal property word agree with the noun in number?,1,"Zaikov 2013:71, 74; Sarhimaa 2022:286",,GB044
-GB185,Can an adnominal demonstrative agree with the noun in number?,1,Zaikov 2013:126-127; Sarhimaa 2022:286,,GB185
+GB185,Can an adnominal demonstrative agree with the noun in number?,1,Zaikov 2013:126-127; Sarhimaa 2022:286,,"GB185-1, GB185-2"
 GB186,Can an article agree with the noun in number?,0,Zaikov 2013:in passim,There are no articles.,
-GB187,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?,1,Zaikov 2013:104,,GB187
+GB187,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?,1,Zaikov 2013:104,,"GB187-1, GB187-2, GB187-3"
 GB188,Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?,0,Zaikov 2013:104-108,,
 GB192,Is there a noun class/gender system where a noun’s phonological properties are a factor in class assignment?,0,Zaikov 2013:in passim,,
-GB193,What is the order of adnominal property word and noun?,1,Zaikov 2013:112; Sarhimaa 2022:285,Adnominal property word comes before a noun.,GB044
+GB193,What is the order of adnominal property word and noun?,1,Zaikov 2013:112; Sarhimaa 2022:285,Adnominal property word comes before a noun.,"GB044, GB193"
 GB196,Is there a masculine/feminine distinction in phonologically independent second person pronouns?,0,Zaikov 2013:in passim,,
 GB197,Is there a masculine/feminine distinction in phonologically independent first person pronouns?,0,Zaikov 2013:in passim,,
 GB198,Can an adnominal numeral agree with the noun in noun class/gender?,0,Zaikov 2013:in passim,,
-GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,Zaikov 2013:134; Torikka 2009:kaikki,,
-GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,Zaikov 2013:134,,
+GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,Zaikov 2013:134; Torikka 2009:kaikki,,GB203
+GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,Zaikov 2013:134,,"GB204-1, GB204-2"
 GB250,Can predicative possession be expressed with a transitive ‘habeo’ verb?,0,Torikka 2009:omistoa,,
 GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,1,Zaikov 2013:96-97,The syncretic adessive-allative case has both locational and dative functions.,GB252 
 GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Zaikov 2013:96-97,,
 GB254,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB256,Can predicative possession be expressed with a comitative/conjunctional construction?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB257,Can polar interrogation be marked by intonation only?,?,Atte Huhtala (p.c. 2026),Studies and descriptions not sufficient.,
-GB260,Can polar interrogation be indicated by a special word order?,1,Atte Huhtala (p.c. 2026),At least sporadic examples can be found.,GB260
+GB260,Can polar interrogation be indicated by a special word order?,1,Atte Huhtala (p.c. 2026),At least sporadic examples can be found.,"GB260-1, GB260-2"
 GB262,Is there a clause-initial polar interrogative particle?,0,Zaikov 2013:226,,
 GB263,Is there a clause-final polar interrogative particle?,0,Zaikov 2013:226,,
 GB264,Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?,1,Zaikov 2013:226,,GB264
@@ -145,14 +145,14 @@ GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Zaikov 2
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,1,Zaikov 2013:153-154; Sarhimaa 2022:285,,GB139-1
 GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,0,Sarhimaa 2022:285,,
 GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Torikka 2009:antoa,,
-GB301,Is there an inclusory construction?,1,Torikka 2009:kera,,GB301
+GB301,Is there an inclusory construction?,1,Torikka 2009:kera,,"GB301-1, GB301-2"
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB304,Can the agent be expressed overtly in a passive clause?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
-GB305,Is there a phonologically independent reflexive marker?,1,Zaikov 2013:138,,
+GB305,Is there a phonologically independent reflexive marker?,1,Zaikov 2013:138,,GB305
 GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other; two + two)?,1,Torikka 2009:toine,,GB306
 GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,Sarhimaa 2022:280-283,,
-GB312,Is there overt morphological marking on the verb dedicated to mood?,1,Sarhimaa 2022:280,There are four moods.,
+GB312,Is there overt morphological marking on the verb dedicated to mood?,1,Sarhimaa 2022:280,There are four moods.,"GB312-1, GB312-2"
 GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,0,"Zaikov 2013:in passim, Sarhimaa 2022:in passim",,
 GB314,Can augmentative meaning be expressed productively by a shift of noun class/gender?,0,Zaikov 2013:in passim,,
 GB315,Can diminutive meaning be expressed productively by a shift of noun class/gender?,0,Zaikov 2013:in passim,,
@@ -165,14 +165,14 @@ GB321,Is there a large class of nouns whose noun class/gender is not phonologica
 GB322,Is there grammatical marking of direct evidence (perceived with the senses)?,0,Zaikov 2013:in passim,,
 GB323,"Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?",0,Zaikov 2013:172-187,,
 GB324,"Is there an interrogative verb for content interrogatives (who?, what?, etc.)?",0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
-GB325,Is there a count/mass distinction in interrogative quantifiers?,1,"Zaikov 2013:134, 216",,GB325
+GB325,Is there a count/mass distinction in interrogative quantifiers?,1,"Zaikov 2013:134, 216",,"GB325-1, GB325-2"
 GB326,Do (nominal) content interrogatives normally or frequently occur in situ?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB327,Can the relative clause follow the noun?,1,Zaikov 2013:242,,GB134
 GB328,Can the relative clause precede the noun?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB329,Are there internally-headed relative clauses?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB330,Are there correlative relative clauses?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
 GB331,Are there non-adjacent relative clauses?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,Further research required.,
-GB333,Is there a decimal numeral system?,1,Zaikov 2013:142-143,,
+GB333,Is there a decimal numeral system?,1,Zaikov 2013:142-143,,GB333
 GB334,Is there synchronic evidence for any element of a quinary numeral system?,0,Zaikov 2013:142-143,,
 GB335,Is there synchronic evidence for any element of a vigesimal numeral system?,0,Zaikov 2013:142-143,,
 GB336,Is there a body-part tallying system?,0,Zaikov 2013:in passim; Sarhimaa 2022:in passim,,
