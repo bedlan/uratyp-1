@@ -84,9 +84,8 @@ UT090,Is there case syncretism for location and source marking?,0,Nikolay Kuznet
 UT091,Are there two sets of local cases?,1,Nikolay Kuznetsov (p.c. 2020),"UT091-1, UT091-2",
 UT092,Are there three or more sets of local cases?,0,Nikolay Kuznetsov (p.c. 2020),,"There are only cases, which do not form a set."
 UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Nikolay Kuznetsov (p.c. 2020),"UT093-1, UT093-2",
-UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",1,Nikolay Kuznetsov (p.c. 2020),UT094,
-UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,0,Nikolay Kuznetsov (p.c. 2020),,"Either the instrumental or nominative case is used.
-"
+UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",1,Nikolay Kuznetsov (p.c. 2020),UT093-1,There is a separate instrumental case (see also UT093).
+UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,0,Nikolay Kuznetsov (p.c. 2020),,Either the instrumental or nominative case is used.
 UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Nikolay Kuznetsov (p.c. 2020),,
 UT097,Is there a dedicated case that expresses equativity?,0,Nikolay Kuznetsov (p.c. 2020),,
 UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Nikolay Kuznetsov (p.c. 2020),,
