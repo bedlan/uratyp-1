@@ -59,11 +59,10 @@ UT062,Are there participles that must agree with the nouns they modify in case a
 UT063,Are there non-finite forms that can be used both as participles and action nominalizations?,0,Hakulinen et al. 2004:in passim,,
 UT064,Are there non-finite forms that can be used both as participles and agentive nominalizations?,1,Hakulinen et al. 2004: § 630,"UT064-1, UT064-2","
 
-
 "
 UT065,Are there non-finite forms that can be used both as participles and converbs?,0,Hakulinen et al. 2004:in passim,,
 UT066,Is OV the neutral order in affirmative imperative clauses?,0,"Hakulinen et al. 2004: § 1648-1649, 1653",,
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,Hakulinen et al. 2004:in passim,UT067,It is possible but the sentence is not neutral anymore.
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,Hakulinen et al. 2004:in passim,UT067,It is possible but the sentence is not neutral anymore.
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Hakulinen et al. 2004:in passim,,
 UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,1,Hakulinen et al. 2004: § 575-577,UT071,
 UT072,Can the modifier of action nominalizations in the patient role be encoded like a direct object?,1,Hakulinen et al. 2004: § 575,"UT072-1, UT072-2",
@@ -87,9 +86,7 @@ UT090,Is there case syncretism for location and source marking?,0,Hakulinen et a
 UT091,Are there two sets of local cases?,1,Hakulinen et al. 2004: § 1238,"UT091-1, UT091-2",
 UT092,Are there three or more sets of local cases?,0,Hakulinen et al. 2004: § 1238,,
 UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Hakulinen et al. 2004: § 1263-1264,UT093,
-UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",1,"Hakulinen et al. 2004: § 1264, 1266","UT094
-","
-"
+UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",1,"Hakulinen et al. 2004: § 1264, 1266",UT094,
 UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,1,Hakulinen et al. 2004: § 1258-1260,"UT095, UT096",
 UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",1,Hakulinen et al. 2004: § 1258,UT096,
 UT097,Is there a dedicated case that expresses equativity?,0,Hakulinen et al. 2004:in passim,,
@@ -104,8 +101,7 @@ UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,"Hakulinen et 
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Hakulinen et al. 2004: § 714,,"kuka 'who' is used for humans, mikä 'what' is used for animals, inanimate objects"
 UT107,Does 'who' commonly appear as a relative pronoun used for animates other than humans?,0,Hakulinen et al. 2004: § 736,,A different relative pronoun is used.
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Hakulinen et al. 2004: § 736,,A different relative pronoun is used.
-UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Hakulinen et al. 2004: § 717,"UT109-1, UT109-2","
-"
+UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Hakulinen et al. 2004: § 717,"UT109-1, UT109-2",
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Hakulinen et al. 2004: § 78,,
 UT111,Are case and number marked cumulatively across the paradigm?,1,Hakulinen et al. 2004: § 78,UT111,
 UT112,Are there different words for mother’s brother and father’s brother?,1,"Kielitoimiston sanakirja:eno, setä",,

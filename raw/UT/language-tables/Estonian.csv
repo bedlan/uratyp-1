@@ -59,8 +59,7 @@ UT062,Are there participles that must agree with the nouns they modify in case a
 UT063,Are there non-finite forms that can be used both as participles and action nominalizations?,0,Erelt and Metslang 2017:in passim,,
 UT064,Are there non-finite forms that can be used both as participles and agentive nominalizations?,0,Erelt and Metslang 2017:in passim,,
 UT065,Are there non-finite forms that can be used both as participles and converbs?,1,Erelt and Metslang 2017:791,UT065,
-UT066,Is OV the neutral order in affirmative imperative clauses?,0,Erelt and Metslang 2017:in passim,"
-",
+UT066,Is OV the neutral order in affirmative imperative clauses?,0,Erelt and Metslang 2017:in passim,,
 UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,Erelt and Metslang 2017:184,UT067,The VO order tends to be more neutral in most cases.
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Kasik 2015:in passim,,
 UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,1,Erelt and Metslang 2017:832-833,UT071,
@@ -145,7 +144,7 @@ UT150,Is there a palatal lateral /ʎ/?,0,Asu and Teras 2009:367,,
 UT151,Is there a velar nasal /ŋ/?,0,Asu and Teras 2009:368,,
 UT152,Is there an alveolar affricate /t͡s/?,0,Asu and Teras 2009:367,,
 UT153,"Is there a non-alveolar affricate (e.g., /t͡ʃ/, /t͡ɕ/)?",0,Asu and Teras 2009:367,,
-UT154,Is there a phonological contrast between an unvoiced alveolar sibilant /s/ and an unvoiced postalveolar sibilant /ʃ/?,0,Asu and Teras 2009:367-368,,
+UT154,Is there a phonological contrast between an unvoiced alveolar sibilant /s/ and an unvoiced postalveolar sibilant /ʃ/?,1,Asu et al. 2016:65,,"/ʃ/ (written with letters š and ž) occurs only in foreign words, and there are some minimal pairs with contrast of /ʃ/ and /s/ (e.g., šokk 'shock' – sokk 'sock; goat', šikk 'chic' – sikk 'goat', loož 'loge' – loos 'story, sg.iness'). "
 UT155,"Are there voiced plosives (e.g., /b g d/)?",0,Asu and Teras 2009:367,,
 UT156,Is there a glottal stop /ʔ/?,0,Asu and Teras 2009:367,,
 UT157,"Is there a phonological contrast between plain and labial velar consonants (e.g., /k/ vs. /kʷ/)?",0,Asu and Teras 2009:367,,
@@ -155,6 +154,6 @@ UT160,Is there a voiced velar fricative /ɣ/?,0,Asu and Teras 2009:367,,
 UT161,Is there a voiceless velar fricative /x/?,0,Asu and Teras 2009:367,,
 UT162,Is there a voiced dental fricative /ð/?,0,Asu and Teras 2009:367,,
 UT163,Is there a labio-velar approximant /w/?,0,Asu and Teras 2009:368,,
-UT164,Is there a voiceless labiodental fricative /f/?,0,Asu and Teras 2009:368,,
+UT164,Is there a voiceless labiodental fricative /f/?,1,Asu and Teras 2009:368,,"/f/ occurs only in foreign words, and there are some minimal pairs with contrast of /f/ and /v/ (e.g., farss 'farce' – varss 'foal', faas 'phase' – vaas 'vase'); consonant cluster /hv/ can have a variant [ff] as in kohvik [koffikː] 'café', rahvas [rɑffɑs] 'people', kahvel [kɑfːfel] 'fork'. "
 UT165,Is there radical qualitative consonant gradation?,1,Asu et al. 2016:109-111,"UT165-1, UT165-2",
 UT166,Is there quantitative consonant gradation?,1,Asu et al. 2016:101-102,"UT166-1, UT166-2",
