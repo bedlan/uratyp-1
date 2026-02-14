@@ -1,11 +1,11 @@
 ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
 UT002,шинчаже ылыжыч ~ ылыже,ʃint͡ɕɑʒe ələʒət͡ɕ ~ ələʒe,ʃint͡ɕɑ-ʒe	ələʒ-ət͡ɕ	~	ʃint͡ɕɑ-ʒe	ələʒ-e,eye-POSS.3SG	light_up-PST1.3PL	~	eye-POSS.3SG	light_up-PST1.3SG,His/her eyes lit up,
 UT008,"унавлакын кайымекышт, ме малаш возынна","unɑvlɑkən kɑjəmekəʃt, me mɑlɑʃ vozənnɑ","unɑ-vlɑk-ən	kɑjə-mekə-ʃt,	me	mɑl-ɑʃ	voz-ən-nɑ","guest-PL-GEN	go-CVB.PRI-POSS.3PL,	1PL	sleep-INF	lie_down-PST2-1PL","After the guests left, we went to sleep",
-UT009,Петялан пареҥге эрыкташ кӱлеш,Petʲɑlɑn pɑreŋge erǝktɑʃ kyleʃ,Petʲɑ-lɑn	pɑreŋge	erǝkt-ɑʃ	kyl-eʃ,Petya-DAT	potato.NOM	clean-INF	be_necessary-3SG,Petya has to wash potatoes,Serdobol’skaya and Toldova 2007:216
-UT014,[…] шонымыжым каласыш да писын ошкыльо,…] [ʃonəməʒəm kɑlɑsəʃ dɑ pisən oʃkəʎo,…]	[ʃonə-mə-ʒə-m	kɑlɑsə-ʃ	dɑ	pisə-n	oʃkəʎo,[…]	think-PTPC.PASS-POSS.3SG-ACC	say-PST1.3SG	and	quick-ADV	walk.PST1.3SG,s/he expressed his/her thought to […] and paced quickly’,
+UT009,Петялан пареҥге эрыкташ кӱлеш,Petʲɑlɑn pɑreŋge erǝktɑʃ kyleʃ,Petʲɑ-lɑn	pɑreŋge	erǝkt-ɑʃ	kyl-eʃ,Petya-DAT	potato.NOM	clean-INF	be_necessary-3SG,Petya has to wash potatoes,
+UT014,[…] шонымыжым каласыш да писын ошкыльо,[…] ʃonəməʒəm kɑlɑsəʃ dɑ pisən oʃkəʎo,[…] ʃonə-mə-ʒə-m kɑlɑsə-ʃ dɑ pisə-n oʃkəʎo,[…]	think-PTPC.PASS-POSS.3SG-ACC	say-PST1.3SG	and	quick-ADV	walk.PST1.3SG,s/he expressed his/her thought to […] and paced quickly’,
 UT016-1,Йыван ончыч тамакым ок шупш ыле,jəvɑn ont͡ɕət͡ɕ tɑmɑkəm ok ʃupʃ əʎe,jəvɑn	ont͡ɕət͡ɕ	tɑmɑk-əm	ok	ʃupʃ	əʎe,Yyvan	before	tobacco-ACC	NEG.3SG	smoke.CNG	be.PST1.3SG,Yyvan didn’t use to smoke,
 UT016-2,пошкудовлак дене ваш_ваш полшен илена,poʃkudovlɑk dene vɑʃ_vɑʃ polʃen ilenɑ,poʃkudo-vlɑk	dene	vɑʃ_vɑʃ	polʃ-en	il-enɑ,neighbour-PL	with	one_another	help-CVB	live-1PL,Our neighbors and we help each other all the time,
-UT017-1,лӱмдаш → лӱмдылаш,,лӱмдаш	→	лӱмдылаш,[lymdɑʃ]	→	[lymdəlɑʃ],to name → to call names,
+UT017-1,лӱмдаш → лӱмдылаш,lymdɑʃ → lymdəlɑʃ,,,to name → to call names,
 UT017-2,озавате шӱрлан шылым пӱчкын опта,ozɑvɑte ʃyrlɑn ʃələm pyt͡ɕkən optɑ,ozɑvɑte	ʃyr-lɑn	ʃəl-əm	pyt͡ɕk-ən	optɑ,housewife	soup-DAT	meat-ACC	cut-CVB	place-3SG,The housewife is chopping up meat for the soup,
 UT018,ялысе калык газ пуртымым кумшо ий вучен ила,jɑləse kɑlək gɑz purtəməm kumʃo ij vut͡ɕen ilɑ,jɑl-əse	kɑlək	gɑz	purtə-mə-m	kum-ʃo	ij	vut͡ɕ-en	il-ɑ,village-ADJ	people	gas	enter-PTCP.PASS-ACC	three-ORD	year	wait-CVB	live-3SG,The people in the village have been waiting to be connected to gas for three years,
 UT019,вашке шыже толеш,vɑʃke ʃəʒe toleʃ,vɑʃke	ʃəʒe	tol-eʃ,soon	autumn	come-3SG,Autumn will come soon,
@@ -65,8 +65,6 @@ UT087,мончаште шокшо,mont͡ɕɑʃte ʃokʃo,mont͡ɕɑ-ʃte	ʃokʃo
 UT097,жап кайыкла писын чоҥешта,ʒɑp kɑjəklɑ pisən t͡ɕoŋeʃtɑ,ʒɑp	kɑjək-lɑ	pisə-n	t͡ɕoŋeʃt-ɑ,time	bird-COMP	quick-ADV	fly-3SG,time flies as quickly as a bird,
 UT100-1,шинча,ʃint͡ɕɑ,ʃint͡ɕɑ,,"eye, eyes",
 UT100-2,пел шинча,pel ʃint͡ɕɑ,,,one (lit. half) eye,
-UT103-1,пӧртем,pørtem,pørt-em,house-POSS.1SG,my house,
-UT103-2,пӧртемвлак ~ пӧртвлакем,,pørt-em-vlɑk ~ pørt-vlɑk-em,house-POSS.1SG-PL ~ house-PL-POSS.1SG,my houses,
 UT104,тыйын эргычет вуйлата,təjən ergət͡ɕet vujlɑtɑ,təj-ən	ergə-t͡ɕ-et	vujlɑt-ɑ,2SG-GEN	son-POSS.2SG-POSS.2SG	direct-3SG,your son is directing things,
 UT105,"иктыже нимат ок ыште, весыже тудлан полша","iktəʒe nimɑt ok əʃte, vesəʒe tudlɑn polʃɑ","iktə-ʒe	nimɑt	ok	əʃte,	vesə-ʒe	tud-lɑn	pol-ʃɑ","one-POSS.3SG	nothing	NEG.3SG	do.CNG,	other-POSS.3SG	3SG-DAT	help-3SG","one of them does nothing, and the other helps",Riese  et al. 2019:333
 UT106-1,кӧ,kø,kø,,who,

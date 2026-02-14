@@ -29,8 +29,7 @@ However, there is no grammatical disctinction between evidential and mirative fo
 UT025,Is there morphological marking on the verb dedicated to the expression of a desire or wish?,1,Krasnova et al. 2017:140-149,UT025,
 UT026,Is there morphological marking on the verb dedicated to irrealis?,0,Krasnova et al. 2017:149; Saarinen 2022:452,,"A conditional suffix -гецӹ [-get͡sə̈] can be found, but is marginal in usage: in modern language it is only used on the verb ‘to be’, ылгецӹ [əlget͡sə̈]; this form is used as a particle in combination with indicative forms."
 UT027,Are verbs marked with a non-indicative mood in counterfactual conditional clauses?,0,Krasnova et al. 2017:150,,
-UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,"Krasnova et al. 2017:152-154, 160-162","UT028-1, UT028-2","There is a necessitive infinitive with the ending -мыла/-мӹлӓ [-məlɑ/-mə̈læ] and a future-necessitive participle in -шашлык/-шашлӹк [-ʃɑʃlək/-ʃæʃlək].
-"
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,"Krasnova et al. 2017:152-154, 160-162","UT028-1, UT028-2",There is a necessitive infinitive with the ending -мыла/-мӹлӓ [-məlɑ/-mə̈læ] and a future-necessitive participle in -шашлык/-шашлӹк [-ʃɑʃlək/-ʃæʃlək].
 UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Jeremy Bradley and Nadezhda Krasnova (p.c. 2020),UT029,"The future-necessitive participle in --шашлык/-шӓшлык [-ʃɑʃlək/-ʃæʃlək], which prototypically denotes necessity, can in some cases be used in this function. See also UT028."
 UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Jeremy Bradley (p.c. 2020),,
 UT031,"Is there morphological marking on the verb used to direct commands/wishes, etc. to the 3Sg?",1,Krasnova et al. 2017:136-140,UT031,
@@ -68,7 +67,7 @@ UT066,Is OV the neutral order in affirmative imperative clauses?,1,Krasnova et a
 UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,Jeremy Bradley and Nadezhda Krasnova (p.c. 2020),,"The negation verb and the connegative form are tied to one another tightly. It is unusual for other elements (e.g., adverbs, pronouns) to occupy the space between them and it is unusual for the word order to change – the connegative form by default follows the negation verb."
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Jeremy Bradley (p.c. 2020),,
 UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,1,"Krasnova et al. 2017:82, 158","UT071-1, UT071-2",
-UT072,Can the modifier of action nominalizations in the patient role be encoded like a direct object?,1,Jeremy Bradley (p.c. 2020),UT072,
+UT072,Can the modifier of action nominalizations in the patient role be encoded like a direct object?,1,Jeremy Bradley (p.c. 2020),UT072,The accusative encodes the object in finite sentences.
 UT073,Do core adjectives agree with the subject noun in number in the predicative position?,0,Krasnova et al. 2017:176,,"There is no agreement, e.g. нӹнӹ пуры ыл-ыт [nə̈nə̈ purə əl-ət] (3PL kind be-PRS.3PL) ‘they are kind’."
 UT074,Is there a bound superlative degree marker on property words?,0,Krasnova et al. 2017:194,,Analytic formation is used: сек яжо (SPRL good) ‘the best’;сек < Russian всех.
 UT075,Can adpositions have person/number marking?,1,Krasnova et al. 2017:232,UT075,
@@ -98,7 +97,7 @@ UT099,Is there (in addition to the basic declension) a declension different from
 UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,1,Krasnova et al. 2017:68,"UT100-1, UT100-2",
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Jeremy Bradley (p.c. 2020),,
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Jeremy Bradley (p.c. 2020),,"It should be noted that inanimate nouns traditionally did not occur in the genitive at all; inanimate nouns serving as a modification do occur in the nominative, e.g. Вена университет [Venɑ universitet] (Vienna.NOM university) ‘University of Vienna’ (see mrj.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B0)"
-UT103,Are singular and plural possessee distinguished in the possessive declension? ,1,"Krasnova et al. 2017:75, 188","UT103-1, UT103-2",
+UT103,Are singular and plural possessee distinguished in the possessive declension? ,0,Saarinen 2022:443,,
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Jeremy Bradley and Nadezhda Krasnova (p.c. 2020),,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,1,Krasnova et al. 2017:253,UT105,The possessive suffix is used to indicate a reference to something previously discussed or otherwise salient to the conversation. It is especially commonly used to refer to a subset of a larger whole that is salient.
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Riese et al. 2017: 213,"UT106-1, UT106-2",
@@ -123,12 +122,10 @@ UT122,Is the main foot structure trochaic?,0,Jeremy Bradley (p.c. 2020),,
 UT123,Is there lexically distinctive word stress?,0,Krasnova et al. 2017:49-50,,
 UT124,Is there morphologically conditioned stress?,1,Krasnova et al. 2017:49-50,"UT124-1, UT124-2","In Hill Mari, some suffixes are stressed (usually the penultimate syllable is stressed in Hill Mari), e.g. the comparative suffix."
 UT125,Is there fixed primary stress?,0,Krasnova et al. 2017:49-50,,"The penultimate syllable is generally stressed: ӓтямлӓн [æˈcæmlæn] ‘to my father’. However: ( 1 ) a number of suffixes are stressed in violation of these rules, ( 2 ) if the penultimate syllable has a reduced vowel and there is a full vowel preceding that syllable, the stress shifts to the previous syllable."
-UT126,Is there stress in heavy syllables?,1,Krasnova et al. 2017:49-50,UT126,"Syllable structure has no transparent effect on where stress falls.
-"
+UT126,Is there stress in heavy syllables?,1,Krasnova et al. 2017:49-50,UT126,Syllable structure has no transparent effect on where stress falls.
 UT127,Is there non-initial primary stress?,1,Krasnova et al. 2017:49-50,UT127,"The penultimate syllable is generally stressed. However: ( 1 ) a number of suffixes are stressed in violation of these rules, ( 2 ) if the penultimate syllable has a reduced vowel and there is a full vowel preceding that syllable, the stress shifts to the previous syllable."
 UT128,Is there palatal vowel harmony?,1,Krasnova et al. 2017:44-46,"UT128-1, UT128-2, UT128-3, UT128-4",Consistent palato-velar vowel harmony.
-UT129,Is there velar vowel harmony?,1,Krasnova et al. 2017:44-46,"UT129-1, UT129-2, UT129-3, UT129-4","In Hill Mari, consistent palato-velar vowel harmony.
-"
+UT129,Is there velar vowel harmony?,1,Krasnova et al. 2017:44-46,"UT129-1, UT129-2, UT129-3, UT129-4","In Hill Mari, consistent palato-velar vowel harmony."
 UT130,Is there labial vowel harmony?,0,Krasnova et al. 2017:44-46,,
 UT131,Are there closing diphthongs?,0,Krasnova et al. 2017:43-44,,
 UT132,Are there opening diphthongs?,0,Krasnova et al. 2017:43-44,,
