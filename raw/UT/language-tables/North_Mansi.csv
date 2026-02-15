@@ -1,7 +1,6 @@
 ID,Name,North.Mansi,Source,Example,Comment
 UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,Riese 2001:63,UT001,Finite verbs agree in number and person with the subject.
-UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,Riese 2001:64,UT002,"
-"
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,Riese 2001:64,UT002,
 UT003,Can finite verbs agree in number with a nominal object?,1,Riese 2001:39,UT019,"The verb not only indicates that the object is determinate but also encodes the number of the object (SG, PL, DU)."
 UT004,Can an adnominal property word agree with the noun in case?,0,Riese 2001:29,,Attributive adjectives are not inflected for case or number.
 UT005,Is there non-agreement between an adnominal property word and the head noun? ,1,Riese 2001:29,,Attributive adjectives are not inflected for case or number.
@@ -34,8 +33,7 @@ UT032,"Is there morphological marking on the verb used to direct commands/wishes
 UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Csilla Horváth (p.c. 2020),,
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Bakró-Nagy et al. 2022:546-549,,
 UT035,Is there a reflexive conjugation?,0,Bakró-Nagy et al. 2022:in passim,,
-UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Bakró-Nagy et al. 2022:546-549,,"There is syncretism between 2SG ~ 2DU ~ 2PL possessive suffixes, e.g., śōpit-as-aγən repair-PST-DU<2SG ~ repair-PST-DU<2DU ~ repair-PST-DU<2PL.
-"
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Bakró-Nagy et al. 2022:546-549,,"There is syncretism between 2SG ~ 2DU ~ 2PL possessive suffixes, e.g., śōpit-as-aγən repair-PST-DU<2SG ~ repair-PST-DU<2DU ~ repair-PST-DU<2PL."
 UT039,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,0,Bakró-Nagy et al. 2022:546-560,,
 UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,0,"Jeremy Bradley, Csilla Horváth, and Elena Skribnik (p.c. 2020)",,
 UT042,Can an infinitival verb form be used in a directive function?,?,Skribnik 1995,,
@@ -127,29 +125,28 @@ UT129,Is there velar vowel harmony?,0,Bakró-Nagy et al. 2022:539,,
 UT130,Is there labial vowel harmony?,0,Bakró-Nagy et al. 2022:539,,
 UT131,Are there closing diphthongs?,0,Bakró-Nagy et al. 2022:537,,
 UT132,Are there opening diphthongs?,0,Bakró-Nagy et al. 2022:537,,
-UT133,Is there a qualitative contrast between subsets of short and long vowels?,0,Marianne Bakró-Nagy (p.c. 2020),,"
-"
+UT133,Is there a qualitative contrast between subsets of short and long vowels?,0,Marianne Bakró-Nagy (p.c. 2020),,
 UT134,Are there full vs. reduced vowels as contrastive subsets?,0,Marianne Bakró-Nagy (p.c. 2020),,"On phonological level there are no reduced vs. full contrastive subsets. In non-first syllables there is a middle, central [ǝ] but this is not a reduced vowel."
 UT135,Is there a high front rounded vowel /y/?,0,Bakró-Nagy et al. 2022:539,,
 UT136,Is there a mid-high front rounded vowel /ø/?,0,Bakró-Nagy et al. 2022:539,,
-UT137,Is there a high back unrounded vowel /ɯ ɨ/?,0,Bakró-Nagy et al. 2022:539,,Only as a phonetic variant of /i/.
-UT138,Is there a mid-high back unrounded vowel /ɤ ɘ/?,0,Marianne Bakró-Nagy (p.c. 2020),,
+UT137,Is there a high back unrounded vowel /ɯ ɨ/?,0,"Bakró-Nagy et al. 2022:537, 539",,Only as a phonetic variant of /i/.
+UT138,Is there a mid-high back unrounded vowel /ɤ ɘ/?,0,Bakró-Nagy et al. 2022:539,,
 UT139,Is there a low back rounded vowel /ɒ/?,0,Bakró-Nagy et al. 2022:539,,
-UT140,Is there a contrast between mid front vowels (/e/ or /ɛ/) and low front vowels (/æ/ or /a/)?,0,"Marianne Bakró-Nagy, Csilla Horváth, Jeremy Bradley, and Elena Skribnik (p.c. 2020)",,
+UT140,Is there a contrast between mid front vowels (/e/ or /ɛ/) and low front vowels (/æ/ or /a/)?,0,Bakró-Nagy et al. 2022:539,,
 UT141,Are there word-initial consonant clusters?,0,Riese and Bradley 2020:25,,Present in Russian loanwords.
 UT142,Are there word-internal consonant clusters in the syllable onset?,0,Riese and Bradley 2020:25,,"In three-constituent consonant clusters, the first constituent is the coda of the previous, the second and third consonants are the onset of the next syllable, cf. Coda-maximalization."
 UT143,Are there consonant clusters in the syllable coda?,1,Riese and Bradley 2020:25,UT143,Only in monosyllabic words and in word-final syllables.
 UT144,Are there word-internal intervocalic clusters of three or more consonants?,1,Marianne Bakró-Nagy (p.c. 2020),UT144,"Three (or more) constituent clusters in stems are sporadic; they occur mostly in derivations or other affixed forms on morpheme boundaries. (In most cases a non-phonemic epenthetic schwa appears before the third or fourth constituent of non-homorganic clusters: njeːlǝm ‘tongue’ ⟶ njeːlm-ǝt tongue-PL, joxt-ǝs come-PST(.3SG) ⟶ joxt-sǝm come-PST.1SG.)"
 UT145,Are there word-final clusters of three or more consonants?,0,Riese and Bradley 2020:25,,
-UT146,Are there palatalized alveolar consonants?,0,"Marianne Bakró-Nagy, Jeremy Bradley, and Elena Skribnik (p.c. 2020)",,"There are no palatalized, but alveo-palatal consonants."
-UT147,Are there palatalized labial and velar consonants?,0,"Marianne Bakró-Nagy, Csilla Horváth, Jeremy Bradley, and Elena Skribnik (p.c. 2020)",,"No palatalized, but alveo-palatal consonants."
+UT146,Are there palatalized alveolar consonants?,1,Bakró-Nagy et al. 2022:539,,There is an opposition in palatalization between alveolars and alveopalatals (with the exception of the trill) 
+UT147,Are there palatalized labial and velar consonants?,0,Bakró-Nagy et al. 2022:539,,
 UT148,Is there a palatal stop?,0,Bakró-Nagy et al. 2022:539,,Present in Russian loanwords.
-UT149,Is there a palatal nasal /ɲ/?,1,"Marianne Bakró-Nagy, Csilla Horváth, Jeremy Bradley, and Elena Skribnik (p.c. 2020)",,More precisely an alveo-palatal consonant.
-UT150,Is there a palatal lateral /ʎ/?,1,"Marianne Bakró-Nagy, Csilla Horváth, Jeremy Bradley, and Elena Skribnik (p.c. 2020)",,More precisely an alveo-palatal consonant.
+UT149,Is there a palatal nasal /ɲ/?,0,Bakró-Nagy et al. 2022:539,,
+UT150,Is there a palatal lateral /ʎ/?,0,Bakró-Nagy et al. 2022:539,,
 UT151,Is there a velar nasal /ŋ/?,1,Bakró-Nagy et al. 2022:539,UT151,"However, it does not occur in a word initial position."
 UT152,Is there an alveolar affricate /t͡s/?,0,Bakró-Nagy et al. 2022:in passim,,There are no affricates in North Mansi.
 UT153,"Is there a non-alveolar affricate (e.g., /t͡ʃ/, /t͡ɕ/)?",0,Bakró-Nagy et al. 2022:in passim,,There are no affricates in North Mansi.
-UT154,Is there a phonological contrast between an unvoiced alveolar sibilant /s/ and an unvoiced postalveolar sibilant /ʃ/?,0,"Marianne Bakró-Nagy, Csilla Horváth, Jeremy Bradley, and Elena Skribnik (p.c. 2020)",,Present in Russian loanwords.
+UT154,Is there a phonological contrast between an unvoiced alveolar sibilant /s/ and an unvoiced postalveolar sibilant /ʃ/?,0,Bakró-Nagy et al. 2022:539,,Present in Russian loanwords.
 UT155,"Are there voiced plosives (e.g., /b g d/)?",0,Bakró-Nagy et al. 2022:539,,Present in Russian loanwords.
 UT156,Is there a glottal stop /ʔ/?,0,Bakró-Nagy et al. 2022:539,,
 UT157,"Is there a phonological contrast between plain and labial velar consonants (e.g., /k/ vs. /kʷ/)?",1,Riese and Bradley 2020:21,"UT157-1, UT157-2, UT157-3, UT157-4","There is contrast between /k/ vs. /kʷ/, /χ/ vs. /χʷ/."
